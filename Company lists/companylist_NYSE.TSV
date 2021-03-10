@@ -1,2589 +1,2589 @@
-	Unnamed: 0.1	Unnamed: 0.1.1	Symbol	Description
-0	0	0	A	Agilent Technologies
-1	1	1	AA	Alcoa Corp
-2	5	5	AAIC	Arlington Asset Investment Corp
-3	6	6	AAN	Aarons Holdings Company Inc
-4	7	7	AAP	Advance Auto Parts Inc
-5	8	8	AAT	American Assets Trust
-6	9	9	AB	Alliancebernstein Holding LP
-7	10	10	ABB	Abb Ltd
-8	11	11	ABBV	Abbvie Inc
-9	12	12	ABC	Amerisourcebergen Corp
-10	13	13	ABEV	Ambev S.A.
-11	14	14	ABG	Asbury Automotive Group Inc
-12	15	15	ABM	ABM Industries Inc
-13	16	16	ABR	Arbor Realty Trust
-14	20	20	ABT	Abbott Laboratories
-15	21	21	AC	Associated Capital Group Inc
-16	22	22	ACA	Arcosa Inc
-17	23	23	ACB	Aurora Cannabis Inc
-18	24	24	ACC	American Campus Communities Inc
-19	25	25	ACCO	Acco Brands Corp
-20	26	26	ACEL	Accel Entertainment Inc
-21	27	27	ACH	Aluminum Corp of China Ltd
-22	28	28	ACI	Albertsons Companies Inc Cl A
-23	31	31	ACIC	Atlas Crest Investment Corp Cl A
-24	32	32	ACM	Aecom Technology Corp
-25	33	33	ACN	Accenture Plc
-26	36	36	ACND	Ascendant Digital Acquisition Corp Cl A
-27	37	37	ACP	Avenue Income Credit Strategies
-28	38	38	ACR	Acres Commercial Realty Corp
-29	40	40	ACRE	Ares Commercial Real Estate Cor
-30	41	41	ACV	Allianzgi Diversified Income &
-31	42	42	ADC	Agree Realty Corp
-32	43	43	ADCT	Adc Therapeutics Sa
-33	45	45	ADM	Archer Daniels Midland
-34	46	46	ADNT	Adient Plc
-35	47	47	ADS	Alliance Data Systems Corp
-36	48	48	ADT	ADT Inc
-37	49	49	ADX	Adams Diversified Equity Fund
-38	50	50	AEB	Aegon N.V. Perp Cap Secs Floating Rate [Ne]
-39	51	51	AEE	Ameren Corp
-40	52	52	AEFC	Aegon Funding Company Llc 5.10%
-41	53	53	AEG	Aegon N.V.
-42	54	54	AEL	American Equity Investment Life
-43	57	57	AEM	Agnico-Eagle Mines Ltd
-44	58	58	AENZ	Aenza S.A.A.
-45	59	59	AEO	American Eagle Outfitters
-46	60	60	AER	Aercap Holdings N.V.
-47	61	61	AES	The Aes Corp
-48	62	62	AFB	Alliance National Municipal
-49	63	63	AFC	Allied Capital Corp
-50	64	64	AFG	American Financial Group
-51	65	65	AFGB	American Financial Group Inc 5.875%
-52	66	66	AFGC	American Financial Group Inc 5.125%
-53	67	67	AFGD	American Financial Group Inc 5.625%
-54	68	68	AFGE	American Financial Group Inc 4.500%
-55	69	69	AFI	Armstrong Flooring Inc
-56	70	70	AFL	Aflac Inc
-57	71	71	AFT	Apollo Senior Floating Rate Fund Inc
-58	72	72	AG	First Majestic Silver
-59	73	73	AGCB	Altimeter Growth Corp 2 Cl A
-60	74	74	AGCO	Agco Corp
-61	75	75	AGD	Alpine Global Dynamic Dividend Fund
-62	76	76	AGI	Alamos Gold Inc
-63	77	77	AGM	Federal Agricultural Mortgage Corp
-64	83	83	AGO	Assured Guaranty Ltd
-65	87	87	AGR	Avangrid Inc
-66	88	88	AGRO	Adecoagro S.A.
-67	89	89	AGS	Playags Inc
-68	90	90	AGX	Argan Inc
-69	91	91	AHC	A.H. Belo Corp
-70	92	92	AHH	Armada Hoffler Properties Inc
-71	97	97	AHT	Ashford Hospitality Trust Inc
-72	103	103	AI	C3.Ai Inc Cl A
-73	104	104	AIC	Arlington Asset Investment Cor
-74	105	105	AIF	Apollo Tactical Income Fund Inc
-75	106	106	AIG	American International Group
-76	108	108	AIN	Albany International Corp
-77	109	109	AIO	Virtus Allianzgi Artificial Intel & Tech Opp
-78	110	110	AIR	AAR Corp
-79	111	111	AIRC	Apartment Income REIT Corp
-80	112	112	AIT	Applied Industrial Technologies
-81	113	113	AIV	Apartment Investment and Management
-82	114	114	AIW	Arlington Asset Investment Cor
-83	115	115	AIZ	Assurant Inc
-84	116	116	AIZN	Assurant Inc 5.25% Subordinated Notes Due 2061
-85	117	117	AIZP	Assurant Inc 6.50% Series D Mandatory Converti
-86	120	120	AJAX	Ajax I Cl A
-87	121	121	AJG	Arthur J. Gallagher & Company
-88	122	122	AJRD	Aerojet Rocketdyne Holdings
-89	123	123	AJX	Great Ajax Corp
-90	124	124	AJXA	Great Ajax Corp 7.25% Convertible Senior Notes
-91	127	127	AKR	Acadia Realty Trust
-92	128	128	AL	Air Lease Corp Cl A
-93	130	130	ALB	Albemarle Corp
-94	131	131	ALC	Alcon Inc
-95	132	132	ALE	Allete Inc
-96	133	133	ALEX	Alexander and Baldwin Inc
-97	134	134	ALG	Alamo Group
-98	138	138	ALK	Alaska Air Group
-99	139	139	ALL	Allstate Corp
-100	145	145	ALLE	Allegion Plc
-101	146	146	ALLY	Ally Financial
-102	148	148	ALSN	Allison Transmission Holdings
-103	151	151	ALTG	Alta Equipment Group Inc
-104	154	154	ALUS	Alussa Energy Acquisition Corp Cl A
-105	155	155	ALV	Autoliv Inc
-106	156	156	ALX	Alexander's Inc
-107	157	157	AM	Antero Midstream Corp
-108	159	159	AMBC	Ambac Financial Group
-109	160	160	AMC	Amc Entertainment Holdings Inc
-110	161	161	AMCR	Amcor Plc
-111	162	162	AME	Amtek Inc
-112	163	163	AMG	Affiliated Managers Group
-113	164	164	AMH	American Homes 4 Rent
-114	170	170	AMK	Assetmark Financial Holdings Inc
-115	171	171	AMN	Amn Healthcare Services Inc
-116	172	172	AMOV	America Movil A ADR
-117	173	173	AMP	Ameriprise Financial Services
-118	174	174	AMPY	Amplify Energy Corp
-119	175	175	AMR	Alpha Metallurgical Resources Inc
-120	176	176	AMRC	Ameresco Inc
-121	177	177	AMRX	Amneal Pharmaceuticals Inc
-122	178	178	AMT	American Tower Corp
-123	179	179	AMWL	American Well Corp Cl A
-124	180	180	AMX	America Movil S.A.B. DE C.V.
-125	181	181	AN	Autonation Inc
-126	182	182	ANET	Arista Networks Inc
-127	183	183	ANF	Abercrombie & Fitch Company
-128	184	184	ANH	Anworth Mortgage Asset Corp
-129	188	188	ANTM	Anthem Inc
-130	189	189	AOD	Alpine Total Dynamic Dividend
-131	190	190	AON	AON Plc
-132	193	193	AONE	One Cl A
-133	194	194	AOS	Smith A.O. Corp
-134	195	195	AP	Ampco-Pittsburgh Corp
-135	196	196	APAM	Artisan Partners Asset Mgmt
-136	197	197	APD	Air Products and Chemicals
-137	198	198	APG	Api Group Corp
-138	200	200	APH	Amphenol Corp
-139	201	201	APLE	Apple Hospitality REIT Inc
-140	202	202	APO	Apollo Global Management Llc C
-141	205	205	APRN	Blue Apron Holdings Inc
-142	208	208	APSG	Apollo Strategic Growth Capital Cl A
-143	210	210	APTS	Preferred Apartment Communities
-144	211	211	APTV	Aptiv Plc
-145	212	212	AQN	Algonquin Pwr & Util
-146	213	213	AQNA	Algonquin Power & Utilities Corp
-147	214	214	AQNB	Algonquin Power & Utilities Corp 6.20% Fixed-To
-148	215	215	AQUA	Evoqua Water Technologies Corp
-149	216	216	AR	Antero Resources Corp
-150	217	217	ARC	American Reprographics Company
-151	218	218	ARCH	Arch Resources Inc
-152	219	219	ARCO	Arcos Dorados Holdings Inc
-153	220	220	ARD	Ardagh Group S.A.
-154	221	221	ARDC	Ares Dynamic Credit Allocation
-155	222	222	ARE	Alexandria Real Estate Equities
-156	224	224	ARES	Ares Management LP
-157	226	226	ARGD	Argo Grp Itl Snr NTS
-158	227	227	ARGO	Argo Group Intl Hlds
-159	228	228	ARI	Apollo Commercial Real Estate
-160	229	229	ARL	American Realty Investors
-161	230	230	ARLO	Arlo Technologies Inc
-162	231	231	ARMK	Aramark Holdings Corp
-163	232	232	ARNC	Arconic Corp
-164	233	233	AROC	Archrock Inc
-165	234	234	ARR	Armour Residential R
-166	236	236	ARW	Arrow Electronics
-167	237	237	ASA	ASA Gold and Precious Metals
-168	240	240	ASAN	Asana Inc Cl A
-169	241	241	ASAQ	Atlantic Street Acquisition Corp Cl A
-170	242	242	ASB	Associated Banc-Corp
-171	247	247	ASC	Ardmore Shipping Corp
-172	248	248	ASG	Liberty All-Star Growth Fund
-173	249	249	ASGI	Aberdeen Standard Global Infrastructure
-174	250	250	ASGN	On Assignment
-175	251	251	ASH	Ashland Global Holdings Inc
-176	252	252	ASIX	Advansix Inc
-177	255	255	ASPL	Aspirational Consumer Lifestyle Corp Cl A
-178	256	256	ASPN	Aspen Aerogels Inc
-179	257	257	ASR	Grupo Aeroportuario Del Sureste
-180	258	258	ASX	Ase Industrial Holding CO Ltd
-181	259	259	AT	Atlantic Power Corp
-182	260	260	ATA	Americas Technology Acquisition Corp
-183	265	265	ATAC	Altimar Acquisition Corp Cl A
-184	266	266	ATC	Atotech Limited
-185	272	272	ATCO	Atlas Corp
-186	273	273	ATEN	A10 Networks Inc
-187	274	274	ATGE	Adtalem Global Education Inc
-188	275	275	ATH	Athene Holding Ltd
-189	280	280	ATHM	Autohome Inc
-190	281	281	ATI	Allegheny Technologies Inc
-191	282	282	ATKR	Atkore Inc
-192	284	284	ATO	Atmos Energy Corp
-193	285	285	ATR	Aptargroup
-194	286	286	ATTO	Atento S.A.
-195	287	287	ATUS	Altice USA Inc Cl A
-196	288	288	AU	Anglogold Ashanti Ltd
-197	289	289	AUY	Yamana Gold
-198	290	290	AVA	Avista Corp
-199	293	293	AVAL	Grupo Aval Acciones Y Valores S
-200	294	294	AVAN	Avanti Acquisition Corp Cl A
-201	295	295	AVB	Avalonbay Communities
-202	296	296	AVD	American Vanguard Corp
-203	297	297	AVK	Advent Claymore Convertible Securities
-204	298	298	AVLR	Avalara Inc
-205	299	299	AVNS	Avanos Medical Inc
-206	300	300	AVNT	Avient Corp
-207	302	302	AVTR	Avantor Inc
-208	303	303	AVY	Avery Dennison Corp
-209	304	304	AVYA	Avaya Holdings Corp
-210	305	305	AWF	Alliancebernstein Global High Income Fund
-211	306	306	AWI	Armstrong World Industries Inc
-212	307	307	AWK	American Water Works
-213	308	308	AWP	Aberdeen Global Premier Properties Fund
-214	309	309	AWR	American States Water Company
-215	310	310	AX	Axos Financial Inc
-216	311	311	AXL	American Axle & Manufacturing
-217	312	312	AXO	Axos Financial Inc
-218	313	313	AXP	American Express Company
-219	314	314	AXR	Amrep Corp
-220	315	315	AXS	Axis Capital Holdings
-221	317	317	AXTA	Axalta Coating Systems Ltd
-222	318	318	AYI	Acuity Brands Inc
-223	319	319	AYX	Alteryx Inc
-224	320	320	AZEK	The Azek Company Inc Cl A
-225	321	321	AZO	Autozone
-226	322	322	AZRE	Azure Power Global Ltd
-227	324	324	AZZ	Azz Inc
-228	325	325	B	Barnes Group
-229	326	326	BA	Boeing Company
-230	327	327	BABA	Alibaba Group Holding
-231	328	328	BAC	Bank of America Corp
-232	338	338	BAF	Blackrock Income Inv Quality Trust
-233	339	339	BAH	Booz Allen Hamilton Holding Corp
-234	340	340	BAK	Braskem S.A.
-235	341	341	BALY	Bally's Corp
-236	342	342	BAM	Brookfield Asset Management Inc
-237	343	343	BAMH	Brookfield Finance Inc 4.625% Subordinated Notes
-238	344	344	BAMI	Brookfield Finance Inc 4.50%
-239	347	347	BANC	First Pactrust Bancorp
-240	348	348	BAP	Credicorp Ltd
-241	349	349	BAX	Baxter International Inc
-242	350	350	BB	Blackberry Ltd
-243	351	351	BBAR	Bbva Banco Frances S.A.
-244	352	352	BBD	Banco Bradesco S.A.
-245	353	353	BBDC	Barings Bdc Inc
-246	354	354	BBDO	Banco Bradesco S.A.
-247	355	355	BBF	Blackrock Muni Income Trust
-248	356	356	BBK	Blackrock Muni Trust
-249	357	357	BBL	Bhp Billiton Plc
-250	358	358	BBN	Balckrock Build America Trust
-251	359	359	BBU	Brookfield Business Partners LP
-252	360	360	BBVA	Banco Bilbao Viscaya Argentaria S.A.
-253	361	361	BBW	Build-A-Bear Workshop
-254	362	362	BBY	Best Buy Company
-255	363	363	BC	Brunswick Corp
-256	367	367	BCAT	Blackrock Capital Allocation Trust
-257	368	368	BCC	Boise Cascade L.L.C.
-258	369	369	BCE	BCE Inc
-259	370	370	BCEI	Bonanza Creek Energy Inc
-260	371	371	BCH	Banco DE Chile
-261	372	372	BCO	Brink's Company
-262	373	373	BCS	Barclays Plc
-263	374	374	BCSF	Bain Capital Specialty Finance Inc
-264	375	375	BCX	Blackrock Resources
-265	376	376	BDC	Belden Inc
-266	377	377	BDJ	Blackrock Enhanced Dividend Achievers
-267	378	378	BDN	Brandywine Realty Trust
-268	379	379	BDX	Becton Dickinson and Company
-269	380	380	BDXB	Becton Dickinson & CO
-270	381	381	BE	Bloom Energy Corp Cl A
-271	382	382	BEDU	Bright Scholar Education Holdings Ltd
-272	383	383	BEKE	Ke Holdings Inc ADR
-273	384	384	BEN	Franklin Resources
-274	385	385	BEP	Brookfield Renewable
-275	387	387	BEPC	Brookfield Renewable Corp
-276	388	388	BERY	Berry Global Group
-277	389	389	BEST	Best Inc
-278	392	392	BFAM	Bright Horizons Family Solutions Inc
-279	393	393	BFK	Blackrock Muni Income Trust
-280	395	395	BFLY	Butterfly Network Inc
-281	396	396	BFS	Saul Centers
-282	399	399	BFT	Foley Trasimene Acquisition Corp II Cl A
-283	402	402	BFY	Blackrock New York Muni Trust II
-284	403	403	BFZ	Blackrock California Muni Trust
-285	404	404	BG	Bunge Ltd
-286	405	405	BGB	Blackstone / Gso Strategic Cre
-287	406	406	BGH	Babson Capital Global Short Du
-288	407	407	BGIO	Blackrock 2022 Global Income Opportunity Trust
-289	408	408	BGR	Blackrock Energy and Resources Trust
-290	409	409	BGS	B&G Foods Holdings
-291	410	410	BGSF	Bgsf Inc
-292	411	411	BGT	Blackrock Global
-293	412	412	BGX	Blackstone Long-Short Credit Income Fund
-294	413	413	BGY	Blackrock International
-295	414	414	BH	Biglari Holdings Inc
-296	416	416	BHC	Bausch Health Companies Inc
-297	417	417	BHE	Benchmark Electronics
-298	418	418	BHK	Blackrock Core Trust
-299	419	419	BHLB	Berkshire Hills Bancorp
-300	420	420	BHP	Bhp Billiton Ltd
-301	421	421	BHR	Braemar Hotels & Resorts Inc
-302	424	424	BHV	Blackrock Virginia Muni Trust
-303	425	425	BHVN	Biohaven Pharmaceutical Holding Company Ltd
-304	426	426	BIF	Boulder Growth & Income Fund Inc
-305	427	427	BIG	Big Lots
-306	428	428	BILL	Bill.com Holdings Inc
-307	429	429	BIO	Bio-Rad Laboratories
-308	431	431	BIP	Brookfield Infrastructure Partners LP
-309	434	434	BIPC	Brookfield Infrastructure Partners LP Cl A
-310	435	435	BIT	Blackrock Multi-Sector Income T
-311	437	437	BJ	Bj's Wholesale Club Holdings Inc
-312	438	438	BK	Bank of New York Mellon Corp
-313	439	439	BKD	Brookdale Senior Living Inc
-314	440	440	BKE	Buckle Inc
-315	441	441	BKH	Black Hills Corp
-316	442	442	BKI	Black Knight Inc
-317	443	443	BKN	Blackrock Investment Quality Municipal
-318	444	444	BKR	Baker Hughes A Ge CO Cl A
-319	445	445	BKT	Blackrock Income Trust Inc
-320	446	446	BKU	BankUnited Inc
-321	447	447	BLD	Topbuild Corp
-322	448	448	BLE	Blackrock Muni Income Trust II
-323	449	449	BLK	Blackrock Inc
-324	450	450	BLL	Ball Corp
-325	452	452	BLW	Blackrock Ltd Duration Income Trust
-326	453	453	BLX	Banco Latinoamericano DE Comercio
-327	454	454	BMA	Banco Macro S.A.
-328	455	455	BME	Blackrock Health Sciences Trust
-329	456	456	BMEZ	Blackrock Health Sciences Trust II
-330	457	457	BMI	Badger Meter
-331	462	462	BMO	Bank of Montreal
-332	463	463	BMY	Bristol-Myers Squibb Company
-333	464	464	BNED	Barnes & Noble Education Inc C
-334	465	465	BNL	Broadstone Net Lease Inc Cl A
-335	466	466	BNS	Bank of Nova Scotia
-336	467	467	BNY	Blackrock New York Muni Trust Inc
-337	470	470	BOAC	Bluescape Opportunities Acquisition Cl A
-338	471	471	BOE	Blackrock Global
-339	472	472	BOH	Bank of Hawaii Corp
-340	473	473	BOOT	Boot Barn Holdings Inc
-341	474	474	BORR	Borr Drilling Ltd
-342	475	475	BOX	Box Inc
-343	476	476	BP	BP Plc
-344	477	477	BPMP	BP Midstream Partners LP
-345	478	478	BPT	BP Prudhoe Bay Royalty Trust
-346	479	479	BQ	Boqii Holding Limited ADR
-347	480	480	BR	Broadridge Financial Solutions Llc
-348	481	481	BRBR	Bellring Brands Inc Cl A
-349	482	482	BRC	Brady Corp
-350	483	483	BRFS	Brf-Brasil Foods S.A.
-351	486	486	BRMK	Broadmark Realty Capital Inc
-352	487	487	BRO	Brown & Brown
-353	488	488	BRT	BRT Realty Trust
-354	489	489	BRX	Brixmor Property Group Inc
-355	490	490	BSA	Brightsphere Investment Group Plc
-356	491	491	BSAC	Banco Santander Chile ADR
-357	492	492	BSBR	Banco Santander Brasil S.A.
-358	493	493	BSD	Blackrock Strategic Muni Trust Inc
-359	494	494	BSE	Blackrock New York Muni Income Trust
-360	495	495	BSIG	Brightsphere Investment Group Plc
-361	496	496	BSL	Blackstone Gso Senior Floating Rate
-362	497	497	BSM	Black Stone Minerals LP
-363	498	498	BSMX	Grupo Financiero Santander Mexico
-364	499	499	BSN	Broadstone Acquisition Corp Cl A
-365	502	502	BST	Blackrock Science and Technolo
-366	503	503	BSTZ	Blackrock Science and Technology Trust II
-367	504	504	BSX	Boston Scientific Corp
-368	506	506	BTA	Blackrock Long-Term Muni Advantage Trust
-369	507	507	BTI	British American Tobacco Industries
-370	508	508	BTO	John Hancock Bank and Thrift Fund
-371	509	509	BTT	Blackrock Municipal Target Term
-372	510	510	BTU	Peabody Energy Corp
-373	511	511	BTZ	Blackrock Preferred
-374	512	512	BUD	Anheuser-Busch Inbev S.A.
-375	513	513	BUI	Blackrock Utility and Infrastr
-376	514	514	BUR	Burford Capital Limited
-377	515	515	BURL	Burlington Stores Inc
-378	516	516	BV	Brightview Holdings Inc
-379	517	517	BVH	Bluegreen Vacations Hldg Corp.
-380	518	518	BVN	Compania Mina Buenaventura S.A.
-381	519	519	BW	Babcock & Wilcox Enterprises
-382	520	520	BWA	Borgwarner Inc
-383	521	521	BWG	Legg Mason Bw Global Income
-384	522	522	BWSN	Babcock & Wilcox Enterprises Inc
-385	523	523	BWXT	Bwx Technologies Inc
-386	524	524	BX	The Blackstone Group LP
-387	525	525	BXC	Bluelinx Holdings Inc
-388	526	526	BXG	Bluegreen Vacations Corp
-389	527	527	BXMT	Blackstone Mortgage Trust Inc Cl A
-390	528	528	BXMX	Nuveen Equity Premium
-391	529	529	BXP	Boston Properties
-392	531	531	BXS	Bancorpsouth Inc
-393	533	533	BY	Byline Bancorp Inc
-394	534	534	BYD	Boyd Gaming Corp
-395	535	535	BYM	Blackrock Muni Income Quality Trust
-396	536	536	BZH	Beazer Homes USA
-397	537	537	BZM	Blackrock Maryland Muni Trust
-398	538	538	C	Citigroup Inc
-399	543	543	CAAP	Corporacion America Airports Sa
-400	544	544	CABO	Cable One Inc
-401	545	545	CACI	Caci International
-402	546	546	CADE	Cadence Bancorp Cl A
-403	547	547	CAE	Cae Inc
-404	548	548	CAF	Morgan Stanley China A Share Fund Inc
-405	549	549	CAG	Conagra Brands Inc
-406	550	550	CAH	Cardinal Health
-407	551	551	CAI	Cai International
-408	554	554	CAJ	Canon Inc
-409	555	555	CAL	Caleres Inc
-410	556	556	CALX	Calix Inc
-411	557	557	CANG	Cango Inc ADR
-412	558	558	CAP	Capitol Investment Corp. V Cl A
-413	561	561	CAPL	Crossamerica Partners LP
-414	562	562	CARR	Carrier Global Corp [Carr/I]
-415	563	563	CARS	Cars.com Inc
-416	564	564	CAS	Cascade Acquisition Corp Cl A
-417	567	567	CAT	Caterpillar Inc
-418	568	568	CATO	Cato Corp
-419	569	569	CB	Chubb Ltd
-420	572	572	CBAH	CBRE Acquisition Holdings Inc Cl A
-421	573	573	CBB	Cincinnati Bell Inc
-422	575	575	CBD	Companhia Brasileira DE Distribuicao
-423	576	576	CBH	Allianzgi Convertible Income 2024 Target Term Fu
-424	577	577	CBRE	CBRE Group Inc
-425	578	578	CBT	Cabot Corp
-426	579	579	CBU	Community Bank System
-427	580	580	CBZ	Cbiz Inc
-428	581	581	CC	Chemours Company
-429	584	584	CCAC	Citic Capital Acquisition Corp Cl A
-430	585	585	CCEP	Coca Cola European Partners
-431	586	586	CCI	Crown Castle International Corp
-432	589	589	CCIV	Churchill Capital IV Cl A
-433	590	590	CCJ	Cameco Corp
-434	591	591	CCK	Crown Cork & Seal Company
-435	592	592	CCL	Carnival Corp
-436	593	593	CCM	Concord Medical Services
-437	594	594	CCO	Clear Channel Outdoor Holdings
-438	595	595	CCS	Century Communities Inc
-439	596	596	CCU	Compania Cervecerias Unidas S.A.
-440	597	597	CCV	Churchill Capital V Cl A
-441	600	600	CCX	Churchill Capital II Cl A
-442	603	603	CCZ	Comcast Corp
-443	604	604	CDAY	Ceridian Hcm Holding Inc
-444	605	605	CDE	Coeur Mining Inc
-445	606	606	CDR	Cedar Realty Trust Inc
-446	609	609	CE	Celanese Corp
-447	610	610	CEA	China Eastern Airlines Corp Ltd
-448	611	611	CEE	Central Europe and Russia Fund
-449	612	612	CEIX	Consol Energy Inc
-450	613	613	CEL	Cellcom Israel
-451	615	615	CELP	Cypress Energy Partners LP
-452	616	616	CEM	Clearbridge Energy MLP Fund Inc
-453	617	617	CEN	Center Coast MLP & Infrastructure
-454	618	618	CEO	Cnooc Ltd
-455	619	619	CEPU	Central Puerto S.A. ADR
-456	621	621	CEQP	Crestwood Equity Partners LP
-457	622	622	CF	Cf Industries Holdings
-458	623	623	CFG	Citizens Financial Group Inc/Ri
-459	626	626	CFR	Cullen/Frost Bankers
-460	628	628	CFX	Colfax Corp
-461	629	629	CFXA	Colfax Corp Tangible Equity Unit
-462	630	630	CGA	China Green Agriculture
-463	632	632	CHCT	Community Healthcare Trust Inc
-464	633	633	CHD	Church & Dwight Company
-465	634	634	CHE	Chemed Inc
-466	635	635	CHGG	Chegg Inc
-467	636	636	CHH	Choice Hotels International
-468	639	639	CHMI	Cherry Hill Mortgage Investmen
-469	640	640	CHN	China Fund
-470	641	641	CHRA	Charah Solutions Inc
-471	642	642	CHS	Chico's Fas
-472	643	643	CHT	Chunghwa Telecom CO Ltd
-473	644	644	CHWY	Chewy Inc
-474	645	645	CI	Cigna Corp
-475	646	646	CIA	Citizens Inc
-476	647	647	CIB	Bancolombia S.A.
-477	648	648	CIEN	Ciena Corp
-478	649	649	CIF	Colonial Intermediate High
-479	650	650	CIG	Comp En DE MN Cemig ADR
-480	652	652	CII	Blackrock Capital and Income Strategies
-481	653	653	CIM	Chimera Investment Corp
-482	658	658	CINR	Ciner Resources LP
-483	659	659	CIO	City Office REIT Inc
-484	661	661	CIR	Circor International
-485	662	662	CIT	Cit Group Inc
-486	664	664	CIXX	CI Financial Corp OR
-487	665	665	CKH	Seacor Smit Inc
-488	666	666	CL	Colgate-Palmolive Company
-489	667	667	CLA	Colonnade Acquisition Corp Cl A
-490	671	671	CLB	Core Laboratories N.V.
-491	672	672	CLDR	Cloudera Inc
-492	673	673	CLDT	Chatham Lodging Trust REIT
-493	674	674	CLF	Cleveland-Cliffs Inc
-494	675	675	CLGX	Corelogic
-495	676	676	CLH	Clean Harbors
-496	677	677	CLI	Mack-Cali Realty Corp
-497	681	681	CLII	Climate Real Impact I Acquisition Corp
-498	686	686	CLNC	Colony Northstar Credit Real Estate Inc Class
-499	687	687	CLNY	Colony Capital Inc
-500	688	688	CLPR	Clipper Realty Inc
-501	689	689	CLR	Continental Resources
-502	690	690	CLS	Celestica Inc
-503	691	691	CLVT	Clarivate Analytics Plc
-504	692	692	CLW	Clearwater Paper Corp
-505	693	693	CLX	Clorox Company
-506	694	694	CM	Canadian Imperial Bank of Commerce
-507	695	695	CMA	Comerica Inc
-508	696	696	CMC	Commercial Metals Company
-509	697	697	CMCM	Cheetah Mobile Inc
-510	698	698	CMD	Cantel Medical
-511	699	699	CMG	Chipotle Mexican Grill
-512	700	700	CMI	Cummins Inc
-513	701	701	CMO	Capstead Mortgage Corp
-514	703	703	CMP	Compass Minerals Intl Inc
-515	708	708	CMRE	Costamare Inc
-516	709	709	CMS	Cms Energy Corp
-517	711	711	CMSA	Cms Energy Corp 5.625% Junior Subordinate
-518	712	712	CMSC	Cms Energy Corp
-519	713	713	CMSD	Cms Energy Corp 5.875% Junior Subordinate
-520	714	714	CMU	Colonial Muni Income Trust
-521	715	715	CNA	Cna Financial Corp
-522	716	716	CNC	Centene Corp
-523	717	717	CND	Concord Acquisition Corp Cl A
-524	720	720	CNF	Cnfinance Holdings Ltd ADR
-525	721	721	CNHI	CNH Industrial N.V.
-526	722	722	CNI	Canadian National Railway
-527	723	723	CNK	Cinemark Holdings Inc
-528	724	724	CNMD	C O N M E D Cp
-529	725	725	CNNE	Cannae Holdings Inc
-530	726	726	CNO	Cno Financial Group
-531	728	728	CNP	Centerpoint Energy Inc
-532	730	730	CNQ	Canadian Natural Resources
-533	731	731	CNR	Cornerstone Building Brands Inc
-534	732	732	CNS	Cohn & Steers Inc
-535	733	733	CNX	CNX Resources Corp
-536	734	734	CO	Global Cord Blood Corp
-537	738	738	CODI	Compass Diversified Holdings
-538	739	739	COE	China Online Education Group
-539	740	740	COF	Capital One Financial Corp
-540	746	746	COG	Cabot Oil & Gas Corp
-541	747	747	COLD	Americold Realty Trust
-542	748	748	COO	Cooper Companies
-543	749	749	COP	Conocophillips
-544	750	750	COR	Coresite Realty Corp
-545	752	752	CORR	Corenergy Infrastructure Trust Inc
-546	753	753	COTY	Coty Inc
-547	754	754	CP	Canadian Pacific Railway
-548	755	755	CPA	Copa Holdings S.A.
-549	756	756	CPAC	Cementos Pacasmayo S.A.A
-550	757	757	CPB	Campbell Soup Company
-551	758	758	CPE	Callon Petroleum Company
-552	759	759	CPF	Central Pacific Financial Company
-553	760	760	CPG	Crescent Pt Energy
-554	761	761	CPK	Chesapeake Utilities Corp
-555	762	762	CPLG	Corepoint Lodging Inc
-556	763	763	CPRI	Capri Holdings Ltd
-557	764	764	CPS	Cooper Std Hld Inc
-558	767	767	CPSR	Capstar Special Acquisition Corp Cl A
-559	768	768	CPT	Camden Property Trust
-560	771	771	CR	Crane Company
-561	772	772	CRC	California Resources Corp
-562	775	775	CRH	CRH Plc
-563	778	778	CRHC	Cohn Robbins Holdings Corp Cl A
-564	779	779	CRI	Carter's Inc
-565	780	780	CRK	Comstock Resources
-566	781	781	CRL	Charles River Laboratories Intl
-567	782	782	CRM	Salesforce.com Inc
-568	783	783	CRS	Carpenter Technology Corp
-569	784	784	CRT	Cross Timbers Royalty Trust
-570	785	785	CRU	Crucible Acquisition Corporation Cl A
-571	788	788	CRY	Cryolife
-572	789	789	CS	Credit Suisse Group
-573	790	790	CSL	Carlisle Companies Inc
-574	791	791	CSLT	Castlight Health Inc
-575	792	792	CSPR	Casper Sleep Inc
-576	793	793	CSR	Centerspace
-577	796	796	CSTM	Constellium N.V.
-578	797	797	CSU	Capital Senior Living Corp
-579	798	798	CSV	Carriage Services
-580	803	803	CTAA	Qwest Corp
-581	804	804	CTAC	Cerberus Telecom Acquisition Corp Cl A
-582	805	805	CTB	Cooper Tire & Rubber Company
-583	806	806	CTBB	Qwest Corp
-584	807	807	CTDD	Qwest Corp 6.75% Notes Due 2057
-585	808	808	CTK	Cootek Cayman Inc
-586	809	809	CTLT	Catalent Inc
-587	810	810	CTO	Consolidated-Tomoka Land Company
-588	811	811	CTR	Clearbridge Energy MLP Fund IN
-589	812	812	CTRA	Contura Energy Inc
-590	813	813	CTS	Cts Corp
-591	814	814	CTT	Catchmark Timber Trust Inc
-592	815	815	CTVA	Corteva Inc
-593	816	816	CUB	Cubic Corp
-594	821	821	CUBB	Customers Bancorp Inc 5.375%
-595	822	822	CUBE	Cubesmart
-596	823	823	CUBI	Customers Bancorp
-597	824	824	CUK	Carnival Plc ADR
-598	825	825	CULP	Culp Inc
-599	826	826	CURO	Curo Group Holdings Corp
-600	827	827	CUZ	Cousins Properties Inc
-601	828	828	CVA	Covanta Holding Corp
-602	829	829	CVE	Cenovus Energy Inc
-603	831	831	CVEO	Civeo Corp
-604	832	832	CVI	Cvr Energy Inc
-605	834	834	CVNA	Carvana CO Cl A
-606	835	835	CVS	CVS Corp
-607	836	836	CVX	Chevron Corp
-608	837	837	CW	Curtiss-Wright Corp
-609	839	839	CWEN	Clearway Energy Inc Cl C
-610	840	840	CWH	Camping World Holdings Inc
-611	841	841	CWK	Cushman & Wakefield Plc
-612	842	842	CWT	California Water Service Group Holding
-613	843	843	CX	Cemex S.A.B. DE C.V.
-614	844	844	CXE	Colonial High Income Muni Trust
-615	845	845	CXH	Colonial Investment Grade Muni Trust
-616	846	846	CXP	Columbia Property Trust Inc
-617	847	847	CXW	Corecivic Inc
-618	848	848	CYD	China Yuchai International
-619	849	849	CYH	Community Health Systems
-620	850	850	CZZ	Cosan Ltd
-621	851	851	D	Dominion Resources
-622	852	852	DAC	Danaos Corp
-623	853	853	DAL	Delta Air Lines Inc
-624	854	854	DAN	Dana Inc
-625	855	855	DAO	Youdao Inc ADR
-626	856	856	DAR	Darling International Inc
-627	857	857	DASH	Doordash Inc Cl A
-628	858	858	DAVA	Endava Plc
-629	859	859	DB	Deutsche Bank Ag
-630	860	860	DBD	Diebold Nixdorf Inc
-631	861	861	DBI	Designer Brands Inc
-632	862	862	DBL	Doubleline Opportunistic Credi
-633	863	863	DCF	Dreyfus Alcentra Global Credit Income 2024 Targe
-634	864	864	DCI	Donaldson Company
-635	865	865	DCO	Ducommun Inc
-636	866	866	DCP	Dcp Midstream LP
-637	869	869	DCUE	Dominion Energy Inc 2019 Series A
-638	870	870	DD	Du Pont De.Nemours Inc
-639	871	871	DDD	3D Systems Corp
-640	872	872	DDF	Delaware Dividend & Income
-641	873	873	DDS	Dillard's
-642	874	874	DDT	Dillard's
-643	875	875	DE	Deere & Company
-644	876	876	DEA	Easterly Government Properties
-645	877	877	DECK	Deckers Outdoor Corp
-646	878	878	DEH	D8 Holdings Corp Cl A
-647	881	881	DEI	Douglas Emmett
-648	882	882	DELL	Dell Technologies Inc
-649	883	883	DEN	Denbury Inc
-650	884	884	DEO	Diageo Plc
-651	885	885	DESP	Despegar.com Corp
-652	886	886	DEX	Delaware Enhanced Global Dividend
-653	887	887	DFIN	Donnelly Financial Solutions Inc
-654	890	890	DFNS	LGL Systems Acquisition Corp
-655	891	891	DFP	Flaherty & Crumrine Dynamic
-656	892	892	DFS	Discover Financial Services
-657	893	893	DG	Dollar General Corp
-658	896	896	DGNR	Dragoneer Growth Opportunities Corp Cl A
-659	897	897	DGX	Quest Diagnostics Inc
-660	898	898	DHF	Dreyfus High Yield Strategies Fund
-661	899	899	DHI	D.R. Horton
-662	900	900	DHR	Danaher Corp
-663	903	903	DHT	Dht Holdings
-664	904	904	DHX	Dice Holdings
-665	905	905	DIAX	Nuveen Dow
-666	906	906	DIN	Dineequity Inc
-667	907	907	DIS	Walt Disney Company
-668	908	908	DK	Delek US Holdings
-669	909	909	DKL	Delek Logistics Partners LP
-670	910	910	DKS	Dick's Sporting Goods Inc
-671	911	911	DL	China Distance Education Holdings
-672	912	912	DLB	Dolby Laboratories
-673	915	915	DLNG	Dynagas Lng Partners LP
-674	916	916	DLR	Digital Realty Trust
-675	921	921	DLX	Deluxe Corp
-676	922	922	DLY	Doubleline Yield Opportunities Fund Common Share
-677	923	923	DM	Desktop Metal Inc
-678	925	925	DMB	Dreyfus Municipal Bond Infrastr
-679	926	926	DMO	Western Asset Mortgage Defined Opp
-680	927	927	DMS	Digital Media Solutions Inc
-681	933	933	DMYD	Dmy Technology Group Inc II Cl A
-682	934	934	DMYI	Dmy Technology Group Inc III Cl A
-683	935	935	DNB	Dun & Bradstreet Holdings Inc
-684	936	936	DNK	Phoenix Tree Holdings Limited ADR
-685	938	938	DNMR	Danimer Scientific Inc
-686	939	939	DNOW	Now Inc
-687	940	940	DNP	Duff & Phelps Utilities Income
-688	942	942	DOC	Physicians Realty Trust
-689	943	943	DOOR	Masonite Worldwide Hld
-690	944	944	DOV	Dover Corp
-691	945	945	DOW	Dow Inc
-692	946	946	DPG	Duff & Phelps Global Utility
-693	947	947	DPZ	Domino's Pizza Inc
-694	948	948	DQ	Daqo New Energy
-695	949	949	DRD	Drdgold Ltd
-696	950	950	DRE	Duke Realty Corp
-697	951	951	DRH	Diamondrock Hospitality Company
-698	953	953	DRI	Darden Restaurants
-699	954	954	DRQ	Dril-Quip
-700	955	955	DRUA	Dominion Resources Inc
-701	956	956	DS	Drive Shack Inc
-702	960	960	DSE	Duff & Phelps Select Energy ML
-703	961	961	DSL	Doubleline Income Solutions Fun
-704	962	962	DSM	Dreyfus Strategic Muni Bond Fund
-705	963	963	DSSI	Diamond S Shipping Inc
-706	964	964	DSU	Blackrock Debt Strategies Fund
-707	965	965	DSX	Diana Shipping Inc
-708	967	967	DT	Dynatrace Inc
-709	968	968	DTB	Dte Energy Company 2020 Series G 4.375% Junior S
-710	969	969	DTE	Dte Energy Company
-711	970	970	DTF	Duff & Phelps Utilities Tax-Free Income
-712	971	971	DTJ	Dte Energy Company 2016 Series
-713	973	973	DTP	Dte Energy CO Units
-714	974	974	DTW	Dte Energy Company 2017 Series E 5.25% Jr
-715	975	975	DTY	Dignity Plc
-716	976	976	DUC	Duff & Phelps Utility & Corporate Trust
-717	977	977	DUK	Duke Energy Corp
-718	979	979	DUKB	Duke Energy Corp 5.625%
-719	980	980	DUKH	Duke Energy Corp 5.125%
-720	981	981	DVA	Davita Healthcare Partners Inc
-721	982	982	DVD	Dover Downs Entertainment
-722	983	983	DVN	Devon Energy Corp
-723	986	986	DWIN	Delwinds Insurance Acquisition Corp Cl A
-724	987	987	DX	Dynex Capital
-725	990	990	DXC	Dxc Technology Company
-726	991	991	DY	Dycom Industries
-727	992	992	DYFN	Angel Oak Dynamic Financial Strategies
-728	993	993	E	Eni S.P.A.
-729	994	994	EAF	Graftech International Ltd
-730	995	995	EAI	Entergy Arkansas Inc
-731	996	996	EARN	Ellington Residential Mortgage
-732	997	997	EAT	Brinker International
-733	998	998	EB	Eventbrite Inc
-734	999	999	EBF	Ennis Inc
-735	1000	1000	EBR	Centrais Electricas Brazil
-736	1002	1002	EBS	Emergent Biosolutions
-737	1003	1003	EC	Ecopetrol S.A.
-738	1004	1004	ECC	Eagle Point Credit CO Inc
-739	1005	1005	ECCB	Eagle Point Credit Company Inc
-740	1006	1006	ECCX	Eagle Point Credit Company Inc 6.6875% Notes Du
-741	1007	1007	ECCY	Eagle Point Credit Company Inc
-742	1008	1008	ECL	Ecolab Inc
-743	1009	1009	ECOM	Channeladvisor Corp
-744	1010	1010	ED	Consolidated Edison Company of New York
-745	1011	1011	EDD	Emerging Markets Domestic Debt Fund
-746	1012	1012	EDF	Stone Harbor Emerging Markets
-747	1013	1013	EDI	Stone Harbor Emerging Markets
-748	1014	1014	EDN	Empresa Distribuidora Y Comercializadora
-749	1015	1015	EDU	New Oriental Education & Technology Group
-750	1016	1016	EEA	European Equity Fund
-751	1017	1017	EEX	Emerald Expositions Events Inc
-752	1018	1018	EFC	Ellington Financial Llc
-753	1020	1020	EFF	Eaton Vance Floating-Rate Inco
-754	1021	1021	EFL	Eaton Vance Floating-Rate 2022 Target Term Trust
-755	1022	1022	EFR	Eaton Vance Senior Floating-Rate Fund
-756	1023	1023	EFT	Eaton Vance Floating Rate Income Trust
-757	1024	1024	EFX	Equifax Inc
-758	1025	1025	EGF	Blackrock Enhanced Government Fund
-759	1026	1026	EGHT	8X8 Inc
-760	1027	1027	EGO	Eldorado Gold Corp
-761	1028	1028	EGP	Eastgroup Properties
-762	1029	1029	EGY	Vaalco Energy Inc
-763	1030	1030	EHC	Encompass Health Corp
-764	1031	1031	EHI	Western Asset Global High
-765	1032	1032	EHT	Eaton Vance High Income 2021 Ta
-766	1033	1033	EIC	Eagle Point Income Company Inc
-767	1034	1034	EIG	Employers Holdings Inc
-768	1035	1035	EIX	Edison International
-769	1036	1036	EL	Estee Lauder Companies
-770	1037	1037	ELAN	Elanco Animal Health Inc
-771	1038	1038	ELAT	Elanco Animal Health Inc Units
-772	1039	1039	ELC	Entergy Louisiana Llc
-773	1040	1040	ELF	E.L.F. Beauty Inc
-774	1041	1041	ELP	Companhia Paranaense DE Energia
-775	1042	1042	ELS	Equity Lifestyle Properties
-776	1043	1043	ELVT	Elevate Credit Inc
-777	1044	1044	ELY	Callaway Golf Company
-778	1045	1045	EMD	Western Asset Emerging Market Debt Fund Inc
-779	1046	1046	EME	Emcor Group
-780	1047	1047	EMF	Templeton Emerging Markets Fund
-781	1048	1048	EMN	Eastman Chemical Company
-782	1049	1049	EMO	Clearbridge Energy MLP Opportu
-783	1050	1050	EMP	Entergy Mississippi Inc 4.9% Bonds
-784	1053	1053	EMPW	Empower Ltd Cl A
-785	1054	1054	EMR	Emerson Electric Company
-786	1055	1055	ENB	Enbridge Inc
-787	1056	1056	ENBA	Enbridge Inc 6.375% Fixed-To-Floating Rate
-788	1057	1057	ENBL	Enable Midstream Partners LP
-789	1058	1058	ENIA	Enersis Americas S.A. American
-790	1059	1059	ENIC	Enersis Chile S.A. ADR
-791	1060	1060	ENJ	Entergy New Orleans Inc
-792	1061	1061	ENLC	Enlink Midstream Llc
-793	1062	1062	ENO	Entergy New Orleans Incfirst
-794	1065	1065	ENPC	Executive Network Partnering Corp Cl A
-795	1066	1066	ENR	Energizer Holdings Inc
-796	1068	1068	ENS	Enersys Inc
-797	1069	1069	ENV	Envestnet Inc
-798	1070	1070	ENVA	Enova International Inc
-799	1071	1071	ENZ	Enzo Biochem
-800	1072	1072	EOD	Wells Fargo Global Dividend Opportunity
-801	1073	1073	EOG	Eog Resources
-802	1074	1074	EOI	Eaton Vance Enhance Equity
-803	1075	1075	EOS	Eaton Vance Enhanced Equity II
-804	1076	1076	EOT	Eaton Vance Muni Income Trust
-805	1078	1078	EPAC	Actuant Corp
-806	1079	1079	EPAM	Epam Systems Inc
-807	1080	1080	EPC	Edgewell Personal Care
-808	1081	1081	EPD	Enterprise Products Partners LP
-809	1082	1082	EPR	Entertainment Properties Trust
-810	1086	1086	EPRT	Essential Properties Realty Trust Inc
-811	1088	1088	EQC	Equity Commonwealth
-812	1090	1090	EQD	Equity Distribution Acquisition Corp Cl A
-813	1093	1093	EQH	Axa Equitable Holdings Inc
-814	1097	1097	EQNR	Equinor ASA
-815	1098	1098	EQR	Equity Residential
-816	1099	1099	EQS	Equus Total Return
-817	1100	1100	EQT	Eqt Corp
-818	1101	1101	ERF	Enerplus Corp
-819	1102	1102	ERJ	Embraer-Empresa Brasileira DE Aeronautica
-820	1103	1103	ES	Eversource Energy
-821	1104	1104	ESE	Esco Technologies Inc
-822	1105	1105	ESGC	Eros Stx Global Corp.
-823	1106	1106	ESI	Element Solutions Inc
-824	1107	1107	ESNT	Essent Group Ltd
-825	1108	1108	ESRT	Empire State Realty Trust Inc
-826	1109	1109	ESS	Essex Property Trust
-827	1110	1110	ESTC	Elastic N.V.
-828	1111	1111	ESTE	Earthstone Energy
-829	1112	1112	ET	Energy Transfer LP
-830	1113	1113	ETB	Eaton Vance Tax-Managed Buy-Write
-831	1114	1114	ETG	Eaton Vance Tax-Advantaged Global Dividend
-832	1115	1115	ETH	Ethan Allen Interiors Inc
-833	1117	1117	ETJ	Eaton Vance Risk-Managed Diversified Equity
-834	1118	1118	ETM	Entercom Communications Corp
-835	1119	1119	ETN	Eaton Corp
-836	1120	1120	ETO	Eaton Vance Tax-Advantage Global Dividend Opp
-837	1124	1124	ETR	Entergy Corp
-838	1125	1125	ETRN	Equitrans Midstream Corp
-839	1126	1126	ETV	Eaton Vance Corp
-840	1127	1127	ETW	Eaton Vance Corp
-841	1129	1129	ETWO	E2Open Parent Hldg Inc
-842	1130	1130	ETX	Eaton Vance Municipal Income T
-843	1131	1131	ETY	Eaton Vance Tax-Managed Diversified Equity
-844	1132	1132	EURN	Euronav NV
-845	1133	1133	EV	Eaton Vance Corp
-846	1134	1134	EVA	Enviva Partners LP
-847	1135	1135	EVC	Entravision Communications Corp
-848	1136	1136	EVF	Eaton Vance Senior Income Trust
-849	1137	1137	EVG	Eaton Vance Short Diversified
-850	1138	1138	EVH	Evolent Health Inc Cl A Com
-851	1139	1139	EVN	Eaton Vance Muni Income Trust
-852	1140	1140	EVR	Evercore Partners Inc
-853	1141	1141	EVRG	Evergy Inc
-854	1142	1142	EVRI	Everi Holdings Inc
-855	1143	1143	EVT	Eaton Vance Tax Advantaged Dividend
-856	1144	1144	EVTC	Evertec Inc
-857	1145	1145	EW	Edwards Lifesciences Corp
-858	1146	1146	EXD	Eaton Vance Tax-Advantaged Bond
-859	1147	1147	EXG	Eaton Vance Tax-Managed Global Diversified Equit
-860	1148	1148	EXK	Endeavour Silver Corp
-861	1149	1149	EXP	Eagle Materials Inc
-862	1150	1150	EXPR	Express Inc
-863	1151	1151	EXR	Extra Space Storage Inc
-864	1152	1152	EXTN	Exterran Corp
-865	1153	1153	F	Ford Motor Company
-866	1156	1156	FAF	First American Corp
-867	1159	1159	FAII	Fortress Value Acquisition Corp II Cl A
-868	1160	1160	FAM	First Trust/Aberdeen Global Opportunity
-869	1161	1161	FBC	Flagstar Bancorp
-870	1162	1162	FBHS	Fortune Brands Home & Security
-871	1163	1163	FBK	Fb Financial Corp
-872	1164	1164	FBP	First Bancorp
-873	1165	1165	FC	Franklin Covey Company
-874	1167	1167	FCF	First Commonwealth Financial Corp
-875	1168	1168	FCN	Fti Consulting
-876	1169	1169	FCPT	Four Corners Property Trust IN
-877	1170	1170	FCRW	First Eagle Alternative Capital Gbc Inc
-878	1171	1171	FCRZ	First Eagle Alternative Capital Bdc Inc
-879	1172	1172	FCT	Senior Floating Rate II
-880	1173	1173	FCX	Freeport-Mcmoran Inc
-881	1174	1174	FDEU	First Trust Dynamic Europe Equi
-882	1175	1175	FDP	Fresh Del Monte Produce
-883	1176	1176	FDS	Factset Research Systems Inc
-884	1177	1177	FDX	Fedex Corp
-885	1178	1178	FE	Firstenergy Corp
-886	1179	1179	FEDU	Four Seasons Education Cayman Inc
-887	1180	1180	FEI	First Trust MLP and Energy Inc
-888	1181	1181	FENG	Phoenix New Media Ltd
-889	1182	1182	FEO	First Trust/Aberdeen Emerging Opportunity Fund
-890	1183	1183	FET	Forum Energy Technologies Inc
-891	1184	1184	FF	Futurefuel Corp
-892	1185	1185	FFA	First Trust Enhanced Equity Income Fund
-893	1186	1186	FFC	Flaherty Crumrine/Claymore Preferred Securities
-894	1187	1187	FFG	Fbl Financial Group
-895	1188	1188	FGB	Specialty Finance and Financial Fund
-896	1191	1191	FGNA	Fg New America Acquisition Corp Cl A
-897	1192	1192	FHI	Federated Investors
-898	1193	1193	FHN	First Horizon Corp
-899	1199	1199	FI	Frank's International N.V.
-900	1200	1200	FICO	Fair Isaac and Company Inc
-901	1201	1201	FIF	First Trust Energy Infrastruct
-902	1202	1202	FINS	Angel Oak Financial Strategies Income Term Trust
-903	1203	1203	FINV	Finvolution Group
-904	1204	1204	FIS	Fidelity National Information Services
-905	1205	1205	FIV	First Trust Senior Floating Rate 2022 Target Ter
-906	1206	1206	FIX	Comfort Systems USA
-907	1207	1207	FL	Footlocker Inc
-908	1208	1208	FLC	Flaherty & Crumrine/Claymore Total Return
-909	1209	1209	FLNG	Flex Lng Ltd
-910	1210	1210	FLO	Flowers Foods
-911	1211	1211	FLOW	SPX Flow Inc
-912	1212	1212	FLR	Fluor Corp
-913	1213	1213	FLS	Flowserve Corp
-914	1214	1214	FLT	Fleetcor Technologies
-915	1215	1215	FLY	Fly Leasing Ltd
-916	1218	1218	FMAC	Firstmark Horizon Acquisition Corp Cl A
-917	1219	1219	FMC	FMC Corp
-918	1220	1220	FMN	Federated Premier Muni
-919	1221	1221	FMO	Fiduciary/Claymore MLP Opportunity Fund
-920	1222	1222	FMS	Fresenius Medical Care Corp
-921	1223	1223	FMX	Fomento Economico Mexicano S.A.B. DE C.V.
-922	1224	1224	FMY	First Trust/Fidac Mortgage Income Fund
-923	1225	1225	FN	Fabrinet
-924	1226	1226	FNB	F.N.B. Corp
-925	1228	1228	FND	Floor & Decor Holdings Inc
-926	1229	1229	FNF	Fidelity National Financial
-927	1230	1230	FNV	Franco Nev Corp
-928	1231	1231	FOE	Ferro Corp
-929	1232	1232	FOF	Cohen & Steers Closed-End Opportunity Fund
-930	1233	1233	FOR	Forestar Group Inc
-931	1234	1234	FOUR	Shift4 Payments Inc
-932	1237	1237	FPAC	Far Peak Acquisition Corporation Cl A
-933	1238	1238	FPF	First Trust Intermediate Durat
-934	1239	1239	FPH	Five Point Holdings Llc Cl A
-935	1240	1240	FPI	Farmland Partners Inc
-936	1242	1242	FPL	First Trust New Opportunities M
-937	1243	1243	FR	First Industrial Realty Trust
-938	1244	1244	FRA	Blackrock Floating Rate Income Fund
-939	1245	1245	FRC	First Republic Bank
-940	1252	1252	FRO	Frontline Ltd
-941	1253	1253	FRT	Federal Realty Investment Trust
-942	1255	1255	FRX	Forest Road Acquisition Corp Cl A
-943	1258	1258	FSD	High Income Long Short Fund
-944	1259	1259	FSK	FS KKR Capital Corp
-945	1260	1260	FSKR	FS KKR Capital Corp II
-946	1261	1261	FSLF	First Eagle Senior Loan Fund
-947	1262	1262	FSLY	Fastly Inc
-948	1263	1263	FSM	Fortuna Silver Mines
-949	1264	1264	FSR	Fisker Inc
-950	1266	1266	FSS	Federal Signal Corp
-951	1267	1267	FST	Fast Acquisition Corp Cl A
-952	1270	1270	FT	Franklin Universal Trust
-953	1273	1273	FTAI	Fortress Transportation & Infra
-954	1274	1274	FTCH	Farfetch Ltd Cl A
-955	1275	1275	FTHY	First Trust High Yield Opportunities 2027 Term F
-956	1276	1276	FTI	Technipfmc Plc
-957	1277	1277	FTK	Flotek Industries
-958	1278	1278	FTS	Fortis Inc
-959	1279	1279	FTV	Fortive Corp
-960	1281	1281	FUBO	Fubotv Inc
-961	1282	1282	FUL	H. B. Fuller Company
-962	1283	1283	FUN	Cedar Fair LP
-963	1286	1286	FUSE	Fusion Acquisition Corp Cl A
-964	1287	1287	FVRR	Fiverr International Ltd
-965	1288	1288	FVT	Fortress Value Acquisition Corp. III Cl A
-966	1291	1291	G	Genpact Ltd
-967	1292	1292	GAB	Gabelli Equity Trust
-968	1297	1297	GAM	General American Investors
-969	1299	1299	GATO	Gatos Silver Inc
-970	1300	1300	GATX	GATX Corp
-971	1301	1301	GB	Global Blue Group Holding Ag
-972	1303	1303	GBAB	Guggenheim Taxable Muni Bond Inv Grd Debt Trst
-973	1304	1304	GBL	Gamco Investors
-974	1305	1305	GBX	Greenbrier Companies
-975	1306	1306	GCI	Gannett CO Inc
-976	1307	1307	GCO	Genesco Inc
-977	1308	1308	GCP	Gcp Applied Technologies Inc C
-978	1309	1309	GCV	Gabelli Convertible and Income Securities
-979	1310	1310	GD	General Dynamics Corp
-980	1311	1311	GDDY	Godaddy Inc
-981	1312	1312	GDL	The Gdl Fund
-982	1314	1314	GDO	Western Asset Global Corporate Defined
-983	1315	1315	GDOT	Green Dot Corp
-984	1316	1316	GDV	Gabelli Dividend
-985	1319	1319	GE	General Electric Company
-986	1320	1320	GEF	Greif Bros. Corp
-987	1322	1322	GEL	Genesis Energy LP
-988	1323	1323	GEN	Genesis Healthcare Inc
-989	1324	1324	GEO	Geo Group Inc
-990	1325	1325	GER	Goldman Sachs MLP Energy Renai
-991	1326	1326	GES	Guess Inc
-992	1327	1327	GF	New Germany Fund
-993	1328	1328	GFF	Griffon Corp
-994	1329	1329	GFI	Gold Fields Ltd
-995	1330	1330	GFL	Gfl Environmental Inc
-996	1331	1331	GFLU	Gfl Environmental Inc Tangible Equity Units
-997	1332	1332	GFX	Golden Falcon Acquisition Corp Cl A
-998	1335	1335	GGB	Gerdau S.A.
-999	1336	1336	GGG	Graco Inc
-1000	1337	1337	GGM	Guggenheim Credit Allocation F
-1001	1338	1338	GGT	Gabelli Global Multi-Media Trust
-1002	1341	1341	GGZ	Gabelli Global Small and Mid CA
-1003	1343	1343	GHC	Graham Holdings Company
-1004	1344	1344	GHG	Greentree Hospitality Group Ltd ADR
-1005	1345	1345	GHL	Greenhill & CO Inc
-1006	1346	1346	GHLD	Guild Holdings Company Cl A
-1007	1347	1347	GHM	Graham Corp
-1008	1348	1348	GHY	Prudential Global Short Durati
-1009	1349	1349	GIB	CGI Group
-1010	1350	1350	GIK	Gigcapital3 Inc
-1011	1353	1353	GIL	Gildan Activewear
-1012	1354	1354	GIM	Templeton Global
-1013	1355	1355	GIS	General Mills
-1014	1356	1356	GIX	Gigcapital2 Inc
-1015	1360	1360	GJH	Strats Sm Trust For United States Cellular Corp
-1016	1361	1361	GJO	Strats Sm Trust For Wal-Mart Stores Inc Securiti
-1017	1362	1362	GJP	Strats Sm Trust For Dominion Resources Inc Secur
-1018	1363	1363	GJR	Strats Sm Trust For The Procter & Gamble CO Sec
-1019	1364	1364	GJS	Strats Sm Trust For Goldman Sachs Group Securiti
-1020	1365	1365	GJT	Strats Sm Trust For Allstate Corp Securities Ser
-1021	1366	1366	GKOS	Glaukos Corp
-1022	1367	1367	GL	Globe Life Inc
-1023	1371	1371	GLEO	Galileo Acquisition Corp
-1024	1376	1376	GLOB	Globant S.A.
-1025	1377	1377	GLOG	Gaslog Ltd
-1026	1378	1378	GLOP	Gaslog Partners LP
-1027	1379	1379	GLP	Global Partners LP
-1028	1381	1381	GLT	Glatfelter
-1029	1382	1382	GLW	Corning Inc
-1030	1383	1383	GM	General Motors Company
-1031	1384	1384	GME	Gamestop Corp
-1032	1385	1385	GMED	Globus Medical Inc
-1033	1387	1387	GMRE	Global Medical REIT Inc
-1034	1388	1388	GMS	Gms Inc
-1035	1389	1389	GMTA	GATX Corp 5.625% Senior
-1036	1390	1390	GNE	Genie Energy Ltd Cl B
-1037	1392	1392	GNK	Genco Shipping & Trading Ltd
-1038	1393	1393	GNL	Global Net Lease Inc
-1039	1398	1398	GNPK	Genesis Park Acquisition Corp Cl A
-1040	1399	1399	GNRC	Generac Holdings Inc
-1041	1400	1400	GNT	Gabelli Natural Resources Gold
-1042	1402	1402	GNW	Genworth Financial Inc
-1043	1405	1405	GOAC	Go Acquisition Corp Cl A
-1044	1406	1406	GOF	Claymore/Guggenheim Strategic Fund
-1045	1407	1407	GOL	Gol Linhas Aereas Inteligentes S.A.
-1046	1408	1408	GOLD	Barrick Gold Corp
-1047	1409	1409	GOLF	Acushnet Holdings Corp
-1048	1410	1410	GOOS	Canada Goose Holdings Inc
-1049	1411	1411	GPC	Genuine Parts Company
-1050	1412	1412	GPI	Group 1 Automotive
-1051	1413	1413	GPJA	Georgia Power Company Series 2017A 5.00% Jr
-1052	1414	1414	GPK	Graphic Packaging Holding Company
-1053	1415	1415	GPM	Guggenheim Enhanced Equity
-1054	1416	1416	GPMT	Granite Point Mortgage Trust Inc
-1055	1417	1417	GPN	Global Payments Inc
-1056	1418	1418	GPRK	Geopark Hlds Lmtd
-1057	1419	1419	GPS	Gap Inc
-1058	1420	1420	GPX	Gp Strategies Corp
-1059	1421	1421	GRA	W.R. Grace & Company
-1060	1422	1422	GRC	Gorman-Rupp Company
-1061	1424	1424	GRUB	Grubhub Inc
-1062	1425	1425	GRX	The Gabelli Healthcare & Wellness Trust
-1063	1426	1426	GS	Goldman Sachs Group
-1064	1435	1435	GSAH	GS Acquisition Holdings Corp II Cl A
-1065	1436	1436	GSBD	Goldman Sachs Bdc Inc
-1066	1437	1437	GSK	Glaxosmithkline Plc
-1067	1438	1438	GSL	Global Ship Lease Inc
-1068	1440	1440	GSLD	Global Ship Lease Inc 8.00% Senior Notes Due 20
-1069	1442	1442	GSX	Gsx Techedu Inc ADR
-1070	1443	1443	GTES	Gates Industrial Corp Plc
-1071	1444	1444	GTLS	Chart Industries IN
-1072	1445	1445	GTN	Gray Television
-1073	1447	1447	GTS	Triple-S Management Corp
-1074	1448	1448	GTT	Global Telcom & Technology Inc
-1075	1449	1449	GTY	Getty Realty Corp
-1076	1450	1450	GUT	Gabelli Utility Trust
-1077	1453	1453	GVA	Granite Construction Inc
-1078	1454	1454	GWB	Great Western Bancorp Inc
-1079	1455	1455	GWRE	Guidewire Software Inc
-1080	1456	1456	GWW	W.W. Grainger
-1081	1457	1457	GYC	Corporate Asset Backed Corp Cabco
-1082	1458	1458	H	Hyatt Hotels Corp
-1083	1459	1459	HAE	Haemonetics Corp
-1084	1460	1460	HAL	Halliburton Company
-1085	1461	1461	HASI	Hannon Armstrong Sustainable IN
-1086	1462	1462	HBB	Hamilton Beach Brands Holding Company Cl A
-1087	1463	1463	HBI	Hanesbrands Inc
-1088	1464	1464	HBM	Hudbay Minerals Inc
-1089	1465	1465	HCA	Hca Holdings Inc
-1090	1466	1466	HCC	Warrior Met Coal Inc
-1091	1467	1467	HCHC	Hc2 Holdings Inc
-1092	1468	1468	HCI	Homeowners Choice
-1093	1469	1469	HCXY	Hercules Capital Inc 6.25% Notes Due 2033
-1094	1470	1470	HCXZ	Hercules Capital Inc 5.25% Notes Due 2025
-1095	1471	1471	HD	Home Depot
-1096	1472	1472	HDB	Hdfc Bank Ltd
-1097	1473	1473	HE	Hawaiian Electric Industries
-1098	1474	1474	HEI	Heico Corp
-1099	1476	1476	HEP	Holly Energy Partners LP
-1100	1477	1477	HEQ	John Hancock Hedged Eqty & Inc
-1101	1478	1478	HES	Hess Corp
-1102	1479	1479	HESM	Hess Midstream Partners LP
-1103	1480	1480	HEXO	Hexo Corp
-1104	1481	1481	HFC	Hollyfrontier Corp
-1105	1483	1483	HFRO	Highland Floating Rate Opportunities Fund
-1106	1484	1484	HGH	The Hartford Financial Srvcs G
-1107	1485	1485	HGLB	Highland Global Allocation Fund
-1108	1486	1486	HGV	Hilton Grand Vacations Inc
-1109	1487	1487	HHC	Howard Hughes Corp
-1110	1489	1489	HI	Hillenbrand Inc
-1111	1490	1490	HIE	Miller/Howard High Income Eqty
-1112	1491	1491	HIG	Hartford Financial Services Group
-1113	1495	1495	HIGA	H.I.G. Acquisition Corp Cl A
-1114	1496	1496	HII	Huntington Ingalls Industries
-1115	1497	1497	HIL	Hill International Inc
-1116	1499	1499	HIMS	Hims & Hers Health Inc
-1117	1500	1500	HIO	Western Asset High
-1118	1501	1501	HIW	Highwoods Properties
-1119	1502	1502	HIX	Western Asset High Income Fund II Inc
-1120	1503	1503	HKIB	Amtd International Inc
-1121	1504	1504	HL	Hecla Mining Company
-1122	1506	1506	HLF	Herbalife Ltd
-1123	1507	1507	HLI	Houlihan Lokey
-1124	1508	1508	HLT	Hilton Inc
-1125	1509	1509	HLX	Helix Energy Solutions Group
-1126	1510	1510	HMC	Honda Motor Company
-1127	1511	1511	HMI	Huami Corp ADR
-1128	1513	1513	HMLP	Hoegh Lng Partners LP
-1129	1514	1514	HMN	Horace Mann Educators Corp
-1130	1515	1515	HMY	Harmony Gold Mining CO Ltd
-1131	1516	1516	HNGR	Hanger Inc
-1132	1517	1517	HNI	Hon Industries Inc
-1133	1518	1518	HNP	Huaneng Power Intl
-1134	1519	1519	HOG	Harley-Davidson Inc
-1135	1520	1520	HOME	At Home Group Inc
-1136	1521	1521	HON	Honeywell International Inc
-1137	1522	1522	HOV	Hovnanian Enterprises Inc
-1138	1523	1523	HP	Helmerich & Payne
-1139	1524	1524	HPE	Hewlett Packard Enterprise Comp
-1140	1525	1525	HPF	John Hancock Pfd II
-1141	1526	1526	HPI	John Hancock Preferred
-1142	1527	1527	HPP	Hudson Pacific Properties
-1143	1528	1528	HPQ	HP Inc
-1144	1529	1529	HPR	Highpoint Resources Corp
-1145	1530	1530	HPS	John Hancock Preferred Income Fund III
-1146	1531	1531	HPX	Hpx Corp Cl A
-1147	1534	1534	HQH	Tekla Healthcare Investors
-1148	1535	1535	HQL	Tekla Life Sciences Investors
-1149	1536	1536	HR	Healthcare Realty Trust Inc
-1150	1537	1537	HRB	H&R Block
-1151	1538	1538	HRC	Hill-Rom Holdings Inc
-1152	1539	1539	HRI	Herc Holdings Inc
-1153	1540	1540	HRL	Hormel Foods Corp
-1154	1541	1541	HRTG	Heritage Insurance Holdings
-1155	1542	1542	HSBC	HSBC Holdings Plc
-1156	1543	1543	HSC	Harsco Corp
-1157	1544	1544	HSY	Hershey Foods Corp
-1158	1545	1545	HT	Hersha Hospitality Trust
-1159	1549	1549	HTA	Healthcare Trust of America
-1160	1550	1550	HTD	John Hancock Tax Advantaged Dividend
-1161	1551	1551	HTFA	Horizon Technology Finance 6.25% Notes Due 2022
-1162	1552	1552	HTGC	Hercules Technology Growth Capital
-1163	1553	1553	HTH	Hilltop Holdings Inc
-1164	1556	1556	HTPA	Highland Transcend Partners I Corp Cl A
-1165	1557	1557	HTY	John Hancock Tax-Advantaged Global
-1166	1558	1558	HUBB	Hubbell Inc B
-1167	1559	1559	HUBS	Hubspot Inc
-1168	1560	1560	HUM	Humana Inc
-1169	1561	1561	HUN	Huntsman Corp
-1170	1562	1562	HUYA	Huya Inc
-1171	1563	1563	HVT	Haverty Furniture Companies
-1172	1565	1565	HWM	Howmet Aerospace Inc
-1173	1566	1566	HXL	Hexcel Corp
-1174	1567	1567	HY	Hyster-Yale Materials Handling
-1175	1568	1568	HYB	New America High
-1176	1569	1569	HYI	Western Asset High Yield Defined
-1177	1570	1570	HYLN	Hyliion Hldg Corp Cl A
-1178	1571	1571	HYT	Blackrock High Yield Fund VI Inc
-1179	1574	1574	HZAC	Horizon Acquisition Corp Cl A
-1180	1575	1575	HZN	Horizon Global Corp Comm
-1181	1576	1576	HZO	Marinemax Inc
-1182	1579	1579	HZON	Horizon Acquisition Corp II Cl A
-1183	1580	1580	IAA	Iaa Inc
-1184	1583	1583	IACA	ION Acquisition Corp 1 Ltd Cl A
-1185	1584	1584	IAE	VOYA Asia Pacific High Dividend Equity
-1186	1585	1585	IAG	Iamgold Corp
-1187	1586	1586	IBA	Industrias Bachoco S.A. DE C.V.
-1188	1587	1587	IBM	International Business Machines
-1189	1588	1588	IBN	Icici Bank Ltd
-1190	1589	1589	IBP	Installed Building Products
-1191	1590	1590	ICD	Independence Contract Drilling Inc
-1192	1591	1591	ICE	Intercontinental Exchange
-1193	1592	1592	ICL	Israel Chemicals Ltd
-1194	1593	1593	IDA	Idacorp Inc
-1195	1594	1594	IDE	VOYA Infrastructure Industrial
-1196	1595	1595	IDT	IDT Corp
-1197	1596	1596	IEX	Idex Corp
-1198	1597	1597	IFF	International Flavors & Fragrances
-1199	1599	1599	IFFT	International Flavors & Fragrances Inc
-1200	1600	1600	IFN	India Fund
-1201	1601	1601	IFS	Intercorp Financial Services Inc
-1202	1602	1602	IGA	VOYA Global Advantage and Premium
-1203	1603	1603	IGD	VOYA Global Equity Dividend and Premium
-1204	1604	1604	IGI	Western Asset Investment Grade Defined
-1205	1605	1605	IGR	VOYA Clarion Global Real Estate
-1206	1606	1606	IGT	International Game Technology
-1207	1607	1607	IH	Ihuman Inc ADR
-1208	1608	1608	IHC	Independence Holding Company
-1209	1609	1609	IHD	VOYA Emerging Markets High Dividend
-1210	1610	1610	IHG	Intercontinental Hotels Group
-1211	1611	1611	IHIT	Invesco High Income 2023 Target Term Fund
-1212	1612	1612	IHTA	Invesco High Income 2024 Target Term Fund
-1213	1615	1615	IIAC	Investindustrial Acquisition Corp Cl A
-1214	1616	1616	IID	VOYA International High Dividend Equity
-1215	1617	1617	IIF	Morgan Stanley India Investment Fund Inc
-1216	1618	1618	IIM	Invesco Insured Muni Income Trust
-1217	1620	1620	IIPR	Innovative Industrial Properties
-1218	1621	1621	IMAX	Imax Corp
-1219	1624	1624	IMPX	Aea-Bridges Impact Corp Cl A
-1220	1625	1625	INFO	IHS Markit Ltd
-1221	1626	1626	INFY	Infosys Ltd
-1222	1627	1627	ING	ING Groep N.V. ADR
-1223	1628	1628	INGR	Ingredion Inc
-1224	1629	1629	INN	Summit Hotel Properties
-1225	1633	1633	INSI	Insight Select Income Fund
-1226	1634	1634	INSP	Inspire Medical Systems Inc
-1227	1635	1635	INSW	International Seaways Inc
-1228	1636	1636	INT	World Fuel Services Corp
-1229	1637	1637	INVH	Invitation Homes Inc
-1230	1638	1638	IO	ION Geophysical Corp
-1231	1639	1639	IP	International Paper Company
-1232	1640	1640	IPG	Interpublic Group of Companies
-1233	1641	1641	IPI	Intrepid Potash Inc
-1234	1648	1648	IPOD	Social Capital Hedosophia Corp IV Cl A
-1235	1649	1649	IPOE	Social Capital Hedosophia Corp V Cl A
-1236	1650	1650	IPOF	Social Capital Hedosophia Corp VI Cl A
-1237	1651	1651	IPV	Interprivate Acquisition Corp
-1238	1654	1654	IQI	Invesco Quality Muni Income Trust
-1239	1655	1655	IQV	Iqvia Holdings Inc
-1240	1656	1656	IR	Ingersoll Rand Inc
-1241	1657	1657	IRL	Irish Investment Fund
-1242	1658	1658	IRM	Iron Mountain Inc
-1243	1659	1659	IRR	VOYA Risk Managed Natural Resources Fund
-1244	1660	1660	IRS	Irsa Inversiones Y Representaciones S.A.
-1245	1661	1661	IRT	Independence Realty Trust Inc
-1246	1662	1662	ISD	Prudential Short Duration High
-1247	1663	1663	IT	Gartner Inc
-1248	1664	1664	ITCB	Itau Corpbanca
-1249	1665	1665	ITGR	Integer Holdings Corp
-1250	1666	1666	ITT	ITT Inc
-1251	1667	1667	ITUB	Itau Unibanco Banco Holding S.A.
-1252	1668	1668	ITW	Illinois Tool Works Inc
-1253	1670	1670	IVC	Invacare Corp
-1254	1671	1671	IVH	Ivy High Income Opportunities
-1255	1672	1672	IVR	Invesco Mortgage Capital Inc
-1256	1676	1676	IVZ	Invesco Plc
-1257	1677	1677	IX	Orix Corp ADR
-1258	1678	1678	J	Jacobs Engineering Group Inc
-1259	1679	1679	JAX	J. Alexander's Holdings Inc C
-1260	1680	1680	JBGS	Jbg Smith Properties
-1261	1681	1681	JBK	Lehman Abs Corp
-1262	1682	1682	JBL	Jabil Circuit
-1263	1683	1683	JBT	John Bean Technologies Corp
-1264	1684	1684	JCE	Nuveen Core Equity Alpha Fund
-1265	1685	1685	JCI	Johnson Controls Intl
-1266	1686	1686	JCO	Nuveen Credit Opportunities 2022 Target Term Fun
-1267	1687	1687	JDD	Nuveen Diversified Dividend and
-1268	1688	1688	JE	Just Energy Group Inc
-1269	1689	1689	JEF	Jefferies Financial Group Inc
-1270	1690	1690	JELD	Jeld-Wen Holding Inc
-1271	1691	1691	JEMD	Nuveen Emerging Markets Debt 2022 Target Term Fu
-1272	1692	1692	JEQ	Japan Equity Fund
-1273	1693	1693	JFR	Nuveen Floating Rate
-1274	1694	1694	JGH	Nuveen Global High Income Fund
-1275	1695	1695	JHAA	Nuveen High Income 2023 Target Term Fund
-1276	1696	1696	JHB	Nuveen High Income November 2021 Target Term Fun
-1277	1697	1697	JHG	Janus Henderson Group Plc
-1278	1698	1698	JHI	John Hancock Investors Trust
-1279	1699	1699	JHS	John Hancock Income Securities Trust
-1280	1700	1700	JHX	James Hardie Industries Se
-1281	1701	1701	JIH	Juniper Industrial Holdings Inc Cl A
-1282	1704	1704	JILL	J. Jill Inc
-1283	1705	1705	JKS	Jinkosolar Holding Company Ltd
-1284	1706	1706	JLL	Jones Lang Lasalle Inc
-1285	1707	1707	JLS	Nuveen Mortgage Opportunity Term Fund
-1286	1708	1708	JMIA	Jumia Technologies Ag ADR
-1287	1709	1709	JMM	Nuveen Multi-Market Income Fund Inc
-1288	1710	1710	JMP	JMP Group Inc
-1289	1711	1711	JNJ	Johnson & Johnson
-1290	1712	1712	JNPR	Juniper Networks
-1291	1713	1713	JOE	St. Joe Company
-1292	1714	1714	JOF	Japan Smaller Capitalization Fund Inc
-1293	1715	1715	JP	Jupai Holdings Ltd
-1294	1716	1716	JPC	Nuveen Preferred and Convertible
-1295	1717	1717	JPI	Nuveen Preferred and Income Term Fund
-1296	1718	1718	JPM	JP Morgan Chase & Company
-1297	1724	1724	JPS	Nuveen Quality Preferred 2
-1298	1725	1725	JPT	Nuveen Preferred and Income 2022 Term Fund
-1299	1726	1726	JQC	Nuveen Preferred and Convertible 2
-1300	1727	1727	JRI	Nuveen Real Asset Income and Gr
-1301	1728	1728	JRO	Nuveen Floating Rate Income Opportuntiy
-1302	1729	1729	JRS	Nuveen Real Estate Fund
-1303	1730	1730	JSD	Nuveen Short Duration Credit O
-1304	1731	1731	JT	Jianpu Technology Inc
-1305	1732	1732	JTA	Nuveen Tax-Advantaged Total Return
-1306	1733	1733	JTD	Nuveen Tax-Advantaged Dividend Growth
-1307	1736	1736	JWN	Nordstrom
-1308	1737	1737	JWS	Jaws Acquisition Corp Cl A.
-1309	1740	1740	K	Kellogg Company
-1310	1741	1741	KAI	Kadant Inc
-1311	1742	1742	KAMN	Kaman Corp
-1312	1743	1743	KAR	Kar Auction Services Inc
-1313	1744	1744	KB	KB Financial Group Inc
-1314	1745	1745	KBH	KB Home
-1315	1746	1746	KBR	KBR Inc
-1316	1748	1748	KEN	Kenon Holdings Ltd
-1317	1749	1749	KEP	Korea Electric Power Corp
-1318	1750	1750	KEX	Kirby Corp
-1319	1751	1751	KEY	Keycorp
-1320	1755	1755	KEYS	Keysight Technologies Inc Comm
-1321	1756	1756	KF	Korea Fund
-1322	1757	1757	KFS	Kingsway Financial Services
-1323	1758	1758	KFY	Korn/Ferry International
-1324	1759	1759	KGC	Kinross Gold Corp
-1325	1760	1760	KIM	Kimco Realty Corp
-1326	1763	1763	KIO	KKR Income Opportunities Fund
-1327	1764	1764	KKR	KKR & CO LP
-1328	1768	1768	KL	Kirkland Lake Gold Ltd
-1329	1769	1769	KMB	Kimberly-Clark Corp
-1330	1770	1770	KMF	Kayne Anderson Midstream Energy Fund
-1331	1771	1771	KMI	Kinder Morgan
-1332	1772	1772	KMPR	Kemper Corp
-1333	1773	1773	KMT	Kennametal Inc
-1334	1774	1774	KMX	Carmax Inc
-1335	1775	1775	KN	Knowles Corp
-1336	1776	1776	KNL	Knoll Inc
-1337	1777	1777	KNOP	Knot Offshore Partners LP
-1338	1778	1778	KNX	Knight-Swift Transporation Inc
-1339	1779	1779	KO	Coca-Cola Company
-1340	1780	1780	KODK	Eastman Kodak
-1341	1781	1781	KOF	Coca Cola Femsa S.A.B. DE C.V.
-1342	1782	1782	KOP	Koppers Holdings Inc
-1343	1783	1783	KOS	Kosmos Energy Ltd
-1344	1784	1784	KR	Kroger Company
-1345	1785	1785	KRA	Kraton Performance Polymers Inc
-1346	1786	1786	KRC	Kilroy Realty Corp
-1347	1787	1787	KREF	KKR Real Estate Finance Trust Inc
-1348	1788	1788	KRG	Kite Realty Group Trust
-1349	1789	1789	KRO	Kronos Worldwide Inc
-1350	1790	1790	KRP	Kimbell Royalty Partners
-1351	1791	1791	KSM	Scudder Strategic Municiple Income Trust
-1352	1792	1792	KSS	Kohl's Corp
-1353	1793	1793	KSU	Kansas City Southern
-1354	1794	1794	KSU.P	Kansas City Southern [Ksu/P]
-1355	1795	1795	KT	Korea Telecom Corp
-1356	1796	1796	KTB	Kontoor Brands Inc [Ktb/I]
-1357	1797	1797	KTF	Scudder Municiple Income Trust
-1358	1798	1798	KTH	Lehman Abs Corp
-1359	1799	1799	KTN	Lehman Abs Corp
-1360	1800	1800	KUKE	Kuke Music Holding Limited ADR
-1361	1801	1801	KW	Kennedy-Wilson Holdings Inc
-1362	1804	1804	KWAC	Kingswood Acquisition Corp Cl A
-1363	1805	1805	KWR	Quaker Chemical Corp
-1364	1806	1806	KYN	Kayne Anderson MLP Investment Company
-1365	1807	1807	L	Loews Corp
-1366	1808	1808	LAC	Lithium Americas Corp
-1367	1809	1809	LAD	Lithia Motors
-1368	1810	1810	LADR	Ladder Capital Corp
-1369	1811	1811	LAIX	Laix Inc ADR
-1370	1812	1812	LAZ	Lazard Ltd
-1371	1813	1813	LB	L Brands Inc
-1372	1814	1814	LBRT	Liberty Oilfield Services Inc
-1373	1815	1815	LC	Lendingclub Corp
-1374	1816	1816	LCI	Lannett CO Inc
-1375	1817	1817	LCII	Lci Industries
-1376	1818	1818	LDI	Loandepot Inc Cl A
-1377	1819	1819	LDL	Lydall Inc
-1378	1820	1820	LDOS	Leidos Holdings Inc
-1379	1821	1821	LDP	Cohen & Steers Ltd Duration Prfd Income Fund
-1380	1822	1822	LEA	Lear Corp
-1381	1825	1825	LEAF	Leaf Group Ltd
-1382	1826	1826	LEAP	Ribbit Leap Ltd Cl A
-1383	1827	1827	LEE	Lee Enterprises Inc
-1384	1828	1828	LEG	Leggett & Platt Inc
-1385	1829	1829	LEJU	Leju Holdings Ltd
-1386	1830	1830	LEN	Lennar Corp
-1387	1832	1832	LEO	Dreyfus Strategic Municipals
-1388	1833	1833	LEVI	Levi Strauss & CO Cl A
-1389	1834	1834	LFC	China Life Insurance Company Ltd
-1390	1835	1835	LFT	Lument Finance Trust Inc
-1391	1837	1837	LGF.B	Lions Gate Entertainment Corp Cl B
-1392	1838	1838	LGI	Lazard Global Total Return and
-1393	1841	1841	LGVW	Longview Acquisition Corp Cl A
-1394	1842	1842	LH	Laboratory Corp of America Holdings
-1395	1844	1844	LHX	L3Harris Technologies Inc
-1396	1845	1845	LII	Lennox International
-1397	1846	1846	LIN	Linde Plc
-1398	1847	1847	LINX	Linx S.A. ADR
-1399	1848	1848	LITB	Lightinthebox Holding CO Ltd
-1400	1849	1849	LL	Lumber Liquidators Holdings Inc
-1401	1850	1850	LLY	Eli Lilly and Company
-1402	1851	1851	LMND	Lemonade Inc
-1403	1852	1852	LMT	Lockheed Martin Corp
-1404	1853	1853	LNC	Lincoln National Corp
-1405	1854	1854	LND	Brasilagro ADR
-1406	1857	1857	LNFA	L&F Acquisition Corp Cl A
-1407	1858	1858	LNN	Lindsay Corp
-1408	1861	1861	LOKB	Live Oak Acquisition Corp. II Cl A
-1409	1862	1862	LOMA	Loma Negra Comp Indu Argentina Sociedad ADR
-1410	1863	1863	LOW	Lowe's Companies
-1411	1864	1864	LPG	Dorian Lpg Ltd
-1412	1865	1865	LPI	Laredo Petroleum Holdings Inc
-1413	1866	1866	LPL	Lg Display CO Ltd
-1414	1867	1867	LPX	Louisiana-Pacific Corp
-1415	1868	1868	LRN	Stride Inc
-1416	1869	1869	LSI	Life Storage
-1417	1870	1870	LSPD	Lightspeed Pos Inc
-1418	1871	1871	LTC	Ltc Properties
-1419	1872	1872	LTHM	Livent Corp
-1420	1873	1873	LU	Lufax Holding Ltd ADR
-1421	1874	1874	LUB	Luby's Inc
-1422	1875	1875	LUMN	Centurylink
-1423	1876	1876	LUV	Southwest Airlines Company
-1424	1877	1877	LVS	Las Vegas Sands
-1425	1878	1878	LW	Lamb Weston Holdings Inc
-1426	1879	1879	LXFR	Luxfer Holdings Plc
-1427	1880	1880	LXP	Lexington Realty Trust
-1428	1882	1882	LXU	Lsb Industries Inc
-1429	1883	1883	LYB	Lyondellbasell Industries NV
-1430	1884	1884	LYG	Lloyds Banking Group Plc
-1431	1885	1885	LYV	Live Nation Entertainment
-1432	1886	1886	LZB	La-Z-Boy Inc
-1433	1887	1887	M	Macy's Inc
-1434	1888	1888	MA	Mastercard Inc
-1435	1889	1889	MAA	Mid-America Apartment Communities
-1436	1891	1891	MAC	Macerich Company
-1437	1892	1892	MAIN	Main Street Capital Corp
-1438	1893	1893	MAN	Manpower Inc
-1439	1894	1894	MANU	Manchester United Ltd
-1440	1895	1895	MAS	Masco Corp
-1441	1896	1896	MATX	Matson Inc
-1442	1897	1897	MAV	Pioneer Muni High Income Advantage Trust
-1443	1898	1898	MAX	Mediaalpha Inc Cl A
-1444	1899	1899	MAXR	Maxar Technologies Ltd
-1445	1900	1900	MBI	MBIA Inc
-1446	1901	1901	MBT	Mobile Telesystems
-1447	1902	1902	MC	Moelis
-1448	1903	1903	MCA	Blackrock Muniyield California Insured Fund
-1449	1904	1904	MCB	Metropolitan Bank Holding Corp
-1450	1905	1905	MCD	McDonald's Corp
-1451	1906	1906	MCI	Massmutual Corporate Investors
-1452	1907	1907	MCK	Mckesson Corp
-1453	1908	1908	MCN	Madison/Claymore Covered Call & Equity Strategy
-1454	1909	1909	MCO	Moody's Corp
-1455	1910	1910	MCR	MFS Charter Income Trust
-1456	1911	1911	MCS	Marcus Corp
-1457	1912	1912	MCY	Mercury General Corp
-1458	1913	1913	MD	Mednax Inc
-1459	1914	1914	MDC	M.D.C. Holdings
-1460	1916	1916	MDLA	Medallia Inc
-1461	1917	1917	MDLQ	Medley Llc 7.25% Notes Due 2024
-1462	1918	1918	MDLX	Medley Llc
-1463	1919	1919	MDLY	Medley Management Inc
-1464	1920	1920	MDP	Meredith Corp
-1465	1921	1921	MDT	Medtronic Inc
-1466	1922	1922	MDU	Mdu Res Group Inc
-1467	1923	1923	MEC	Mayville Engineering Company Inc
-1468	1924	1924	MED	Medifast Inc
-1469	1925	1925	MEG	Montrose Environmental Group Inc
-1470	1926	1926	MEI	Methode Electronics
-1471	1927	1927	MEN	Blackrock Munienhanced Fund
-1472	1929	1929	MET	Metlife Inc
-1473	1933	1933	MFA	MFA Financial Inc
-1474	1936	1936	MFC	Manulife Financial Corp
-1475	1937	1937	MFD	Macquarie/First Trust Global
-1476	1938	1938	MFG	Mizuho Financial Group
-1477	1939	1939	MFGP	Micro Focus Intl Plc
-1478	1940	1940	MFL	Blackrock Muniholdings Investment Quality Fund
-1479	1941	1941	MFM	MFS Muni Income Trust
-1480	1942	1942	MFT	Blackrock Muniyield Investment Qualityfund
-1481	1943	1943	MFV	MFS Special Value Trust
-1482	1944	1944	MG	Mistras Group Inc
-1483	1945	1945	MGA	Magna International
-1484	1946	1946	MGF	MFS Government Markets Income Trust
-1485	1947	1947	MGM	MGM Resorts International
-1486	1948	1948	MGP	MGM Growth Properties Llc
-1487	1949	1949	MGR	Affiliated Managers Group Inc
-1488	1950	1950	MGRB	Affiliated Managers Group Inc 4.750% Junior Sub
-1489	1951	1951	MGU	Macquarie Global Infrastructure Total Return Fun
-1490	1952	1952	MGY	Magnolia Oil & Gas Corp
-1491	1955	1955	MH-D	Maiden Holdings Ltd [Mh/Pd]
-1492	1956	1956	MHD	Blackrock Muniholdings Fund
-1493	1957	1957	MHE	Massachusetts Health and Education Tax-Exempt TR
-1494	1958	1958	MHF	Western Asset Muni High
-1495	1959	1959	MHI	Pioneer Muni High Income Trust
-1496	1960	1960	MHK	Mohawk Industries
-1497	1961	1961	MHLA	Maiden Holdings Ltd 6.625% No
-1498	1962	1962	MHN	Blackrock Muniholdings New York Quality Fund
-1499	1963	1963	MHNC	Maiden Holdings North America
-1500	1964	1964	MHO	M/I Homes
-1501	1965	1965	MIC	Macquarie Infrastructure Company Trust
-1502	1966	1966	MIE	Cohen & Steers MLP Income and
-1503	1967	1967	MIN	MFS Intermediate Income Trust
-1504	1972	1972	MITT	Ag Mortgage Investment Trust
-1505	1973	1973	MIXT	Mix Telematics Ltd
-1506	1974	1974	MIY	Blackrock Muniyield Michigan Quality Fund
-1507	1975	1975	MKC	Mccormick & Company Inc
-1508	1977	1977	MKL	Markel Corp
-1509	1978	1978	MLI	Mueller Industries
-1510	1979	1979	MLM	Martin Marietta Materials
-1511	1980	1980	MLP	Maui Land & Pineapple Company
-1512	1981	1981	MLR	Miller Industries
-1513	1982	1982	MMC	Marsh & Mclennan Companies
-1514	1983	1983	MMD	Mainstay Defined Muni Opp Fund
-1515	1984	1984	MMI	Marcus & Millichap
-1516	1985	1985	MMM	3M Company
-1517	1986	1986	MMP	Magellan Midstream Partners LP
-1518	1987	1987	MMS	Maximus Inc
-1519	1988	1988	MMT	MFS Multimarket Income Trust
-1520	1989	1989	MMU	Western Asset Managed Municipals Fund
-1521	1990	1990	MN	Manning & Napier Inc
-1522	1991	1991	MNP	Western Asset Muni Partners Fund
-1523	1992	1992	MNR	Monmouth Real Estate Investment Corp
-1524	1994	1994	MNRL	Brigham Minerals Inc
-1525	1995	1995	MNSO	Miniso Group Holding Ltd ADR
-1526	1996	1996	MO	Altria Group
-1527	1997	1997	MOD	Modine Manufacturing Company
-1528	1998	1998	MODN	Model N Inc
-1529	2001	2001	MOGU	Mogu Inc ADR
-1530	2002	2002	MOH	Molina Healthcare Inc
-1531	2003	2003	MOS	Mosaic Company
-1532	2006	2006	MOTV	Motive Capital Corp Cl A
-1533	2007	2007	MOV	Movado Group Inc
-1534	2008	2008	MP	Mp Materials Corp
-1535	2010	2010	MPA	Blackrock Muniyield Pennsylvania Quality Fund
-1536	2011	2011	MPC	Marathon Petroleum Corp
-1537	2013	2013	MPLN	Multiplan Corp
-1538	2014	2014	MPLX	Mplx LP
-1539	2015	2015	MPV	Massmutual Participation Investors
-1540	2016	2016	MPW	Medical Properties Trust
-1541	2017	2017	MPX	Marine Products Corp
-1542	2018	2018	MQT	Blackrock Muniyield Quality Fund II
-1543	2019	2019	MQY	Blackrock Muniyield Quality Fund
-1544	2020	2020	MRC	Mrc Global Inc
-1545	2021	2021	MRK	Merck & Company
-1546	2022	2022	MRO	Marathon Oil Corp
-1547	2023	2023	MS	Morgan Stanley
-1548	2030	2030	MSA	Msa Safety Inc
-1549	2031	2031	MSB	Mesabi Trust
-1550	2032	2032	MSC	Studio City Intl Holdings Ltd ADR
-1551	2033	2033	MSCI	MSCI Inc
-1552	2034	2034	MSD	Morgan Stanley Emerging Markets Debt
-1553	2035	2035	MSGE	Madison Square Garden Entertainment Corp
-1554	2036	2036	MSGN	Msg Networks Inc
-1555	2037	2037	MSGS	Madison Square Garden Sports Corp
-1556	2038	2038	MSI	Motorola Solutions
-1557	2039	2039	MSM	Msc Industrial Direct Company
-1558	2040	2040	MSP	Datto Holding Corp
-1559	2041	2041	MT	Arcelormittal
-1560	2042	2042	MTB	M&T Bank Corp
-1561	2043	2043	MTCN	Arcelormittal 5.50% Mandatorily
-1562	2044	2044	MTD	Mettler-Toledo International
-1563	2045	2045	MTDR	Matador Resources Company
-1564	2046	2046	MTG	Mgic Investment Corp
-1565	2047	2047	MTH	Meritage Corp
-1566	2048	2048	MTL	Mechel Oao
-1567	2049	2049	MTL.P	Mechel Pao [Mtl/P]
-1568	2050	2050	MTN	Vail Resorts
-1569	2051	2051	MTOR	Meritor Inc
-1570	2052	2052	MTR	Mesa Royalty Trust
-1571	2053	2053	MTRN	Materion Corp
-1572	2054	2054	MTT	Western Asset Muni Defined Opportunity Trust Inc
-1573	2055	2055	MTW	Manitowoc Company
-1574	2056	2056	MTX	Minerals Technologies Inc
-1575	2057	2057	MTZ	Mastec Inc
-1576	2058	2058	MUA	Blackrock Muniassets Fund
-1577	2059	2059	MUC	Blackrock Muniholdings California Quality Fund
-1578	2060	2060	MUE	Blackrock Muniholdings Quality Fund II
-1579	2061	2061	MUFG	Mitsubishi Ufj Financial Group Inc
-1580	2062	2062	MUH	Blackrock Muniholdings Fund II
-1581	2063	2063	MUI	Blackrock Muni Intermediate Duration Fund Inc
-1582	2064	2064	MUJ	Blackrock Muniholdings New Jersey Insured Fund
-1583	2065	2065	MUR	Murphy Oil Corp
-1584	2066	2066	MUS	Blackrock Muniholdings Quality Fund
-1585	2067	2067	MUSA	Murphy USA Inc
-1586	2068	2068	MUX	Mcewen Mining Inc
-1587	2069	2069	MVF	Munivest Fund
-1588	2070	2070	MVO	Mv Oil Trust
-1589	2071	2071	MVT	Blackrock Munivest Fund II
-1590	2072	2072	MWA	Mueller Water Products
-1591	2073	2073	MX	Magnachip Semiconductor Corp
-1592	2074	2074	MXE	Mexico Equity and
-1593	2075	2075	MXF	Mexico Fund
-1594	2076	2076	MXL	Maxlinear Inc
-1595	2077	2077	MYC	Blackrock Muniyield California Fund
-1596	2078	2078	MYD	Blackrock Muniyield Fund
-1597	2079	2079	MYE	Myers Industries
-1598	2080	2080	MYF	Blackrock Muniyield Investment Fund
-1599	2081	2081	MYI	Blackrock Muniyield Quality Fund III
-1600	2082	2082	MYJ	Blackrock Muniyield New Jersey Fund
-1601	2083	2083	MYN	Blackrock Muniyield New York Quality Fund
-1602	2084	2084	MYOV	Myovant Sciences Ltd
-1603	2085	2085	MYTE	Myt Netherlands Parent B.V. ADR
-1604	2086	2086	MZA	Muniyield Arizona Fund
-1605	2087	2087	NAC	Nuveen California Divadv Fund
-1606	2088	2088	NAD	Nuveen Divadv Fund
-1607	2089	2089	NAN	Nuveen New York Divadv Fund
-1608	2090	2090	NAT	Nordic American Tanker Shipping Ltd
-1609	2091	2091	NAV	Navistar International Corp
-1610	2093	2093	NAZ	Nuveen Arizona Premium Fund
-1611	2094	2094	NBB	Nuveen Build America Bond Fund
-1612	2095	2095	NBHC	National Bank Holdings Corp
-1613	2096	2096	NBR	Nabors Industries
-1614	2098	2098	NC	Nacco Industries
-1615	2099	2099	NCA	Nuveen California Muni Value Fund
-1616	2100	2100	NCB	Nuveen California Muni Value Fund 2
-1617	2101	2101	NCLH	Norwegian Cruise Ord
-1618	2102	2102	NCR	NCR Corp
-1619	2103	2103	NCV	Virtus Allianzgi Convertible & Income Fund
-1620	2105	2105	NCZ	Virtus Allianzgi Convertible & Income Fund II
-1621	2107	2107	NDMO	Nuveen Dynamic Municipal Opportunities Fund Comm
-1622	2108	2108	NDP	Tortoise Energy Independence F
-1623	2109	2109	NEA	Nuveen Insured Tax-Free Advantage Fund
-1624	2110	2110	NEE	Nextera Energy
-1625	2116	2116	NEM	Newmont Mining Corp
-1626	2117	2117	NEP	Nextera Energy Partners LP
-1627	2118	2118	NET	Cloudflare Inc Cl A
-1628	2119	2119	NETI	Eneti Inc
-1629	2120	2120	NEU	Newmarket Corp
-1630	2121	2121	NEV	Nuveen Enhanced Muni Value Fund
-1631	2122	2122	NEW	Puxin Ltd
-1632	2123	2123	NEWR	New Relic Inc
-1633	2124	2124	NEX	Nextier Oilfield Solutions Inc
-1634	2125	2125	NEXA	Nexa Resources S.A.
-1635	2126	2126	NFG	National Fuel Gas Company
-1636	2127	2127	NFH	New Frontier Health Corp
-1637	2129	2129	NFJ	Virtus Dividend Interest & Premium Strategy
-1638	2130	2130	NGA	Northern Genesis Acquisition Corp
-1639	2134	2134	NGG	National Grid Transco Plc
-1640	2135	2135	NGL	Ngl Energy Partners LP
-1641	2138	2138	NGS	Natural Gas Services Group
-1642	2139	2139	NGVC	Natural Grocers By Vitamin Cottage Inc
-1643	2140	2140	NGVT	Ingevity Corp
-1644	2141	2141	NHA	Nuveen Municipal
-1645	2142	2142	NHF	Nexpoint Strategic Opportunities Fund
-1646	2144	2144	NHI	National Health Investors
-1647	2145	2145	NI	NiSource Inc
-1648	2147	2147	NID	Nuveen Intermediate Duration M
-1649	2148	2148	NIE	Virtus Allianzgi Equity & Convertible Income
-1650	2149	2149	NIM	Nuveen Maturities Fund
-1651	2150	2150	NINE	Nine Energy Service Inc
-1652	2151	2151	NIO	Nio Inc
-1653	2152	2152	NIQ	Nuveen Intermediate Duration Q
-1654	2153	2153	NJR	Newjersey Resources Corp
-1655	2154	2154	NJV	Nuveen New Jersey Muni Value Fund
-1656	2155	2155	NKE	Nike Inc
-1657	2156	2156	NKG	Nuveen Georgia Divadv Fund 2
-1658	2157	2157	NKX	Nuveen Insured California Tax-Free
-1659	2158	2158	NL	NL Industries
-1660	2159	2159	NLS	Nautilus Group
-1661	2160	2160	NLSN	Nielsen Holdings Plc
-1662	2161	2161	NLY	Annaly Capital Management Inc
-1663	2165	2165	NM	Navios Maritime Holdings Inc
-1664	2168	2168	NMCO	Nuveen Municipal Credit Opportunities Fund
-1665	2169	2169	NMI	Nuveen Muni
-1666	2172	2172	NMM	Navios Maritime Partners LP
-1667	2173	2173	NMR	Nomura Holdings Inc ADR
-1668	2174	2174	NMS	Nuveen Minnesota Municipal Inco
-1669	2175	2175	NMT	Nuveen Massachusetts Premium Fund
-1670	2176	2176	NMY	Nuveen Maryland Premium Fund
-1671	2177	2177	NMZ	Nuveen Muni High Income Opportunity
-1672	2178	2178	NNA	Navios Maritime Acquisition Corp
-1673	2179	2179	NNI	Nelnet Inc
-1674	2180	2180	NNN	National Retail Properties
-1675	2182	2182	NNY	Nuveen New York Muni Value Fund
-1676	2183	2183	NOA	North American Construction Group Ltd.
-1677	2184	2184	NOAH	Noah Holdings Ltd
-1678	2185	2185	NOC	Northrop Grumman Corp
-1679	2186	2186	NOK	Nokia Corp
-1680	2187	2187	NOM	Nuveen Missouri Premium Fund
-1681	2188	2188	NOMD	Nomad Foods Ltd
-1682	2189	2189	NOV	Nov Inc
-1683	2190	2190	NOVA	Sunnova Energy International Inc
-1684	2191	2191	NOW	Servicenow Inc
-1685	2192	2192	NP	Neenah Paper
-1686	2193	2193	NPK	National Presto Industries
-1687	2194	2194	NPN	Nuveen Pennsylvania Muni Value Fund
-1688	2195	2195	NPO	Enpro Industries
-1689	2196	2196	NPTN	Neophotonics Corp
-1690	2197	2197	NPV	Nuveen Virginia Premium Fund
-1691	2198	2198	NQP	Nuveen Pennsylvania Investment
-1692	2199	2199	NR	Newpark Resources
-1693	2201	2201	NREF	Nexpoint Real Estate Finance Inc
-1694	2202	2202	NRG	NRG Energy
-1695	2203	2203	NRGX	Neurologix Inc
-1696	2204	2204	NRK	Nuveen Insured New York Tax-Free
-1697	2205	2205	NRP	Natural Resource Partners LP
-1698	2206	2206	NRT	North European Oil Royality Trust
-1699	2207	2207	NRUC	National Rural Utilities Coop Finance Corp 5.500
-1700	2208	2208	NRZ	New Residential Investment Corp
-1701	2212	2212	NS	Nustar Energy LP
-1702	2216	2216	NSA	National Storage Affiliates Tru
-1703	2218	2218	NSC	Norfolk Southern Corp
-1704	2220	2220	NSCO	Nesco Holdings Inc
-1705	2221	2221	NSH	Navsight Holdings Inc Cl A
-1706	2224	2224	NSL	Nuveen Senior
-1707	2225	2225	NSP	Insperity Inc
-1708	2226	2226	NSS	Nustar Logistics LP
-1709	2229	2229	NSTB	Northern Star Investment Corp. II Cl A
-1710	2230	2230	NTB	Bank of Butterfield Ltd
-1711	2231	2231	NTCO	Natura &Co Holding S.A. ADR
-1712	2233	2233	NTG	Tortoise MLP Fund
-1713	2234	2234	NTP	Nam Tai Electronics
-1714	2235	2235	NTR	Nutrien Ltd
-1715	2236	2236	NTST	Netstreit Corp
-1716	2237	2237	NTZ	Natuzzi S.P.A.
-1717	2238	2238	NUE	Nucor Corp
-1718	2239	2239	NUM	Nuveen Michigan Quality
-1719	2240	2240	NUO	Nuveen Ohio Quality
-1720	2241	2241	NUS	Nu Skin Enterprises
-1721	2242	2242	NUV	Nuveen Muni Value Fund
-1722	2244	2244	NUVB	Nuvation Bio Inc
-1723	2245	2245	NUW	Nuveen Muni Value Fund
-1724	2246	2246	NVG	Nuveen Insured Divadv Fund
-1725	2247	2247	NVGS	Navigator Holdings
-1726	2248	2248	NVO	Novo Nordisk A/S
-1727	2249	2249	NVR	NVR Inc
-1728	2250	2250	NVRO	Nevro Corp
-1729	2251	2251	NVS	Novartis Ag
-1730	2252	2252	NVST	Envista Holdings Corp
-1731	2253	2253	NVT	Nvent Electric Plc
-1732	2254	2254	NVTA	Invitae Corp
-1733	2255	2255	NWG	Natwest Group Plc
-1734	2256	2256	NWHM	New Home CO Llc
-1735	2257	2257	NWN	Northwest Natural Gas Company
-1736	2258	2258	NX	Quanex Building Products Corp
-1737	2259	2259	NXC	Nuveen California Tax-Free Income
-1738	2260	2260	NXJ	Nuveen New Jersey Divadv Fund
-1739	2261	2261	NXN	Nuveen Insured New York Tax-Free
-1740	2262	2262	NXP	Nuveen Tax Free Income Portfolio
-1741	2263	2263	NXQ	Nuveen Tax Free Income Portfolio II
-1742	2264	2264	NXR	Nuveen Tax Free Income Portfolio III
-1743	2265	2265	NXRT	Nexpoint Residential Trust Inc
-1744	2267	2267	NYC	New York City REIT Inc Cl A
-1745	2270	2270	NYCB	New York Community Bancorp
-1746	2271	2271	NYT	New York Times Company
-1747	2272	2272	NYV	Nuveen New York Muni Value Fund 2
-1748	2273	2273	NZF	Nuveen Divadv Fund 3
-1749	2274	2274	O	Realty Income Corp
-1750	2277	2277	OACB	Oaktree Acquisition Corp II Cl A
-1751	2280	2280	OC	Owens Corning Inc
-1752	2281	2281	OCA	Omnichannel Acquisition Corp Cl A
-1753	2284	2284	OCFT	Oneconnect Financial Technology CO Ltd America
-1754	2285	2285	OCN	Ocwen Financial Corp
-1755	2286	2286	ODC	Oil-Dri Corp of America
-1756	2287	2287	OEC	Orion Engineered Carbons S.A R
-1757	2288	2288	OFC	Corporate Office Properties
-1758	2289	2289	OFG	OFG Bancorp
-1759	2293	2293	OGE	Oge Energy Corp
-1760	2294	2294	OGS	One Gas Inc
-1761	2295	2295	OHI	Omega Healthcare Investors
-1762	2296	2296	OI	Owens-Illinois
-1763	2297	2297	OIA	Invesco Muni Income Trust
-1764	2299	2299	OII	Oceaneering International
-1765	2300	2300	OIS	Oil States International
-1766	2301	2301	OKE	Oneok Inc
-1767	2302	2302	OLN	Olin Corp
-1768	2303	2303	OLP	One Liberty Properties
-1769	2304	2304	OMC	Omnicom Group Inc
-1770	2305	2305	OMF	Onemain Holdings Inc
-1771	2306	2306	OMI	Owens & Minor
-1772	2307	2307	ONE	Onesmart International Education Group Ltd A
-1773	2308	2308	ONTF	On24 Inc
-1774	2309	2309	ONTO	Onto Innovation Inc
-1775	2310	2310	OOMA	Ooma Inc
-1776	2311	2311	OPP	Rivernorth/Doubleline Strategic Opportunity Fund
-1777	2313	2313	OPY	Oppenheimer Holdings
-1778	2314	2314	OR	Osisko Gold Royalties Ltd
-1779	2315	2315	ORA	Ormat Technologies
-1780	2316	2316	ORAN	Orange ADR
-1781	2317	2317	ORC	Orchid Island Capital Inc
-1782	2318	2318	ORCC	Owl Rock Capital Corp
-1783	2319	2319	ORCL	Oracle Corp
-1784	2320	2320	ORI	Old Republic International Corp
-1785	2321	2321	ORN	Orion Group Holdings Inc
-1786	2322	2322	OSG	Overseas Shipholding Group Inc
-1787	2323	2323	OSH	Oak Street Health Inc
-1788	2324	2324	OSK	Oshkosh Truck Corp
-1789	2325	2325	OTIS	Otis Worldwide Corp [Otis/I]
-1790	2326	2326	OUT	Outfront Media Inc
-1791	2327	2327	OVV	Ovintiv Inc
-1792	2328	2328	OXM	Oxford Industries
-1793	2329	2329	OXY	Occidental Petroleum Corp
-1794	2331	2331	PAC	Grupo Aeroportuario Del Pacifico
-1795	2334	2334	PACE	Tpg Pace Tech Opportunities Corp Cl A
-1796	2335	2335	PACK	Ranpak Holdings Corp
-1797	2336	2336	PAG	Penske Automotive Group
-1798	2337	2337	PAGS	Pagseguro Digital Ltd Cl A
-1799	2338	2338	PAI	Pacific American Income Shares
-1800	2339	2339	PAM	Pampa Energia S.A.
-1801	2342	2342	PANA	Panacea Acquisition Corp Cl A
-1802	2343	2343	PANW	Palo Alto Networks Inc
-1803	2344	2344	PAR	Par Technology Corp
-1804	2345	2345	PARR	Par Petroleum Corp
-1805	2346	2346	PAYC	Paycom Software Inc
-1806	2347	2347	PB	Prosperity Bancshares
-1807	2348	2348	PBA	Pembina Pipeline Cor
-1808	2349	2349	PBB	Prospect Capital Corp
-1809	2350	2350	PBC	Prospect Capital Corp 6.875% Notes Due 20
-1810	2351	2351	PBF	PBF Energy Inc
-1811	2352	2352	PBFX	PBF Logistics LP
-1812	2353	2353	PBH	Prestige Brand Holdings
-1813	2354	2354	PBI	Pitney Bowes Inc
-1814	2356	2356	PBR	Petroleo Brasileiro S.A. Petrobras
-1815	2358	2358	PBT	Permian Basin Royalty Trust
-1816	2359	2359	PBY	Prospect Capital Corp 6.25% Notes Due 202
-1817	2360	2360	PCF	Putnam High Income Bond Fund
-1818	2361	2361	PCG	Pacific Gas & Electric Company
-1819	2362	2362	PCGU	PG&E Corp
-1820	2363	2363	PCI	Pimco Dynamic Credit Income Fun
-1821	2364	2364	PCK	Pimco California Muni II
-1822	2365	2365	PCM	Pimco Commercial Mortgage Securities
-1823	2366	2366	PCN	Pimco Corporate
-1824	2371	2371	PCPC	Periphas Capital Partnering Corporation Cl A
-1825	2372	2372	PCPL	CC Neuberger Principal Holdings I Cl A
-1826	2373	2373	PCQ	Pimco California Muni
-1827	2374	2374	PD	Pagerduty Inc
-1828	2377	2377	PDAC	Peridot Acquisition Corp Cl A
-1829	2378	2378	PDI	Pimco Dynamic Income Fund
-1830	2379	2379	PDM	Piedmont Office Realty Trust
-1831	2380	2380	PDO	Pimco Dynamic Income Opportunities Fund
-1832	2381	2381	PDS	Precision Drilling Corp
-1833	2382	2382	PDT	John Hancock Premium Dividend Fund
-1834	2383	2383	PEAK	Healthpeak Properties Inc
-1835	2384	2384	PEB	Pebblebrook Hotel Trust
-1836	2389	2389	PEG	Public Service Enterprise Group Inc
-1837	2390	2390	PEI	Pennsylvania Real Estate Investment
-1838	2394	2394	PEN	Penumbra Inc
-1839	2395	2395	PEO	Adams Natural Resources Fund Inc
-1840	2396	2396	PFD	Flaherty & Crumrine Preferred Inc
-1841	2397	2397	PFE	Pfizer Inc
-1842	2398	2398	PFGC	Performance Food Group Company
-1843	2399	2399	PFH	Prudential Financial Inc 4.125% Junior
-1844	2400	2400	PFL	Pimco Income Strategy Fund
-1845	2401	2401	PFN	Pimco Income Strategy Fund II
-1846	2402	2402	PFO	Flaherty & Crumrine Preferred Fund
-1847	2403	2403	PFS	Provident Financial Services
-1848	2404	2404	PFSI	Pennymac Financial Services IN
-1849	2405	2405	PG	Procter & Gamble Company
-1850	2406	2406	PGP	Pimco Global Stocksplus & Income
-1851	2407	2407	PGR	Progressive Corp
-1852	2408	2408	PGRE	Paramount Group Inc
-1853	2409	2409	PGTI	Pgt Inc
-1854	2410	2410	PGZ	Principal Real Estate Income F
-1855	2411	2411	PH	Parker-Hannifin Corp
-1856	2412	2412	PHD	Pioneer Floating Rate Trust
-1857	2413	2413	PHG	Koninklijke Philips Electronics
-1858	2414	2414	PHI	Philippine Long Distance Telephone
-1859	2415	2415	PHK	Pimco High Income Fund
-1860	2416	2416	PHM	Pultegroup
-1861	2417	2417	PHR	Phreesia Inc
-1862	2418	2418	PHT	Pioneer High Income Trust
-1863	2419	2419	PHX	Phx Minerals Inc
-1864	2422	2422	PIAI	Prime Impact Acquisition I Cl A
-1865	2424	2424	PII	Polaris Industries Inc
-1866	2425	2425	PIM	Putnam Master Intermediate Income
-1867	2426	2426	PINE	Alpine Income Property Trust Inc
-1868	2427	2427	PING	Ping Identity Holding Corp
-1869	2428	2428	PINS	Pinterest Inc
-1870	2431	2431	PIPP	Pine Island Acquisition Corp Cl A
-1871	2432	2432	PIPR	Piper Jaffray Companies
-1872	2433	2433	PJT	Pjt Partners Inc Cl A
-1873	2434	2434	PK	Park Hotels & Resorts Inc
-1874	2435	2435	PKE	Park Electrochemical Corp
-1875	2436	2436	PKG	Packaging Corp of America
-1876	2437	2437	PKI	Perkinelmer
-1877	2438	2438	PKO	Pimco Income Opportunity Fund
-1878	2439	2439	PKX	Posco ADR
-1879	2440	2440	PLAN	Anaplan Inc
-1880	2441	2441	PLD	Prologis Inc
-1881	2442	2442	PLNT	Planet Fitness
-1882	2443	2443	PLOW	Douglas Dynamics
-1883	2444	2444	PLT	Plantronics
-1884	2445	2445	PLTR	Palantir Technologies Inc Cl A
-1885	2446	2446	PLYM	Plymouth Industrial REIT Inc
-1886	2447	2447	PM	Philip Morris International Inc
-1887	2448	2448	PMF	Pimco Muni
-1888	2449	2449	PML	Pimco Muni II
-1889	2450	2450	PMM	Putnam Managed Muni Income Trust
-1890	2451	2451	PMO	Putnam Muni Opportunities Trust
-1891	2452	2452	PMT	Pennymac Mortgage Investment Trust
-1892	2457	2457	PMVC	Pmv Consumer Acquisition Corp Cl A
-1893	2458	2458	PMX	Pimco Muni Income Fund III
-1894	2459	2459	PNC	PNC Bank
-1895	2461	2461	PNF	Pimco New York Muni
-1896	2462	2462	PNI	Pimco New York Muni II
-1897	2463	2463	PNM	PNM Resources Inc
-1898	2464	2464	PNR	Pentair Ltd
-1899	2466	2466	PNW	Pinnacle West Capital Corp
-1900	2467	2467	POR	Portland General Electric Company
-1901	2468	2468	POST	Post Holdings Inc
-1902	2469	2469	PPG	PPG Industries
-1903	2470	2470	PPL	PPL Corp
-1904	2471	2471	PPR	VOYA Prime Rate Trust
-1905	2472	2472	PPT	Putnam Premier Income Trust
-1906	2473	2473	PPX	PPL Capital Funding Inc
-1907	2474	2474	PQG	Pq Group Holdings Inc
-1908	2475	2475	PRA	Pro-Assurance Corp
-1909	2479	2479	PRG	Prog Hldgs Inc
-1910	2480	2480	PRGO	Perrigo Company
-1911	2481	2481	PRI	Primerica Inc
-1912	2488	2488	PRLB	Proto Labs Inc
-1913	2489	2489	PRMW	Primo Water Corp
-1914	2490	2490	PRO	Pros Holdings
-1915	2491	2491	PROS	Prosight Global Inc
-1916	2494	2494	PRPB	CC Neuberger Principal Holdings II Cl A
-1917	2495	2495	PRS	Prudential Financial Inc 5.625% Junior
-1918	2496	2496	PRSP	Perspecta Inc
-1919	2497	2497	PRT	Permrock Royalty Trust Trust Units
-1920	2498	2498	PRTY	Party City Holdco Inc
-1921	2499	2499	PRU	Prudential Financial Inc
-1922	2500	2500	PSA	Public Storage
-1923	2514	2514	PSB	Business Parks
-1924	2519	2519	PSF	Cohen & Steers Preferred Fund
-1925	2520	2520	PSN	Parsons Corp
-1926	2521	2521	PSO	Pearson Plc
-1927	2523	2523	PSTG	Pure Storage Inc
-1928	2524	2524	PSTH	Pershing Square Tontine Hldgs Cl A
-1929	2525	2525	PSTL	Postal Realty Trust Cl A
-1930	2526	2526	PSX	Phillips 66
-1931	2527	2527	PSXP	Phillips 66 Partners LP
-1932	2528	2528	PTA	Cohen & Steers Tax-Advantaged Preferred Securiti
-1933	2529	2529	PTR	Petrochina Company Ltd
-1934	2530	2530	PTY	Pimco Corporate Opportunity Fund
-1935	2531	2531	PUK	Prudential Public Ltd Company
-1936	2534	2534	PUMP	Propetro Holding Corp
-1937	2536	2536	PVG	Pretium Res Inc
-1938	2537	2537	PVH	Phillips-Van Heusen Corp
-1939	2538	2538	PVL	Permianville Royalty Trust
-1940	2539	2539	PWR	Quanta Services
-1941	2540	2540	PXD	Pioneer Natural Resources Company
-1942	2541	2541	PYN	Pimco New York Muni Income Fund III
-1943	2542	2542	PYS	Pplus Trust
-1944	2543	2543	PYT	Pplus Trust
-1945	2544	2544	PZC	Pimco California Muni Income Fund III
-1946	2545	2545	PZN	Pzena Investment Management Inc
-1947	2546	2546	QD	Qudian Inc ADR
-1948	2547	2547	QEP	Qep Resources
-1949	2549	2549	QGEN	Qiagen N.V.
-1950	2550	2550	QS	Quantumscape Corp
-1951	2552	2552	QSR	Restaurant Brands International
-1952	2553	2553	QTS	Qts Realty Trust Inc
-1953	2556	2556	QTWO	Q2 Holdings Inc
-1954	2557	2557	QUAD	Quad Graphics Inc
-1955	2558	2558	QUOT	Quotient Technology Inc
-1956	2559	2559	QVCC	Qvc Inc 6.250% Senior Secured Notes Due 2068
-1957	2560	2560	QVCD	Qvc Inc 6.375% Senior Secured Notes Due 2067
-1958	2561	2561	R	Ryder System
-1959	2562	2562	RA	Brookfield Real Assets Income Fund Inc
-1960	2563	2563	RAAS	Cloopen Group Holding Limited ADR
-1961	2564	2564	RACE	Ferrari N.V.
-1962	2565	2565	RAD	Rite Aid Corp
-1963	2566	2566	RAMP	Liveramp Holdings Inc
-1964	2567	2567	RBA	Ritchie Bros. Auctioneers Inc
-1965	2570	2570	RBAC	Redball Acquisition Corp Cl A
-1966	2571	2571	RBC	Regal-Beloit Corp
-1967	2572	2572	RC	Ready Capital Corp
-1968	2573	2573	RCA	Ready Capital Corp 7.00%
-1969	2574	2574	RCB	Ready Capital Corp 6.20% Senior Notes Due
-1970	2575	2575	RCC	Ready Capital Corporation 5.75%
-1971	2576	2576	RCI	Rogers Communication
-1972	2577	2577	RCL	Royal Caribbean Cruises Ltd
-1973	2578	2578	RCP	Ready Capital Corp 6.50% Series
-1974	2579	2579	RCS	Rcm Strategic Global Government Fund
-1975	2580	2580	RCUS	Arcus Biosciences Inc
-1976	2581	2581	RDN	Radian Group Inc
-1977	2584	2584	RDY	Dr. Reddy's Laboratories Ltd
-1978	2585	2585	RE	Everest Re Group
-1979	2586	2586	RELX	Relx Plc
-1980	2587	2587	RENN	Renren Inc
-1981	2588	2588	RES	RPC Inc
-1982	2589	2589	REV	Revlon Inc
-1983	2590	2590	REVG	Rev Group Inc
-1984	2591	2591	REX	Rex American Resources Corp
-1985	2595	2595	REXR	Rexford Industrial Realty Inc
-1986	2596	2596	REZI	Resideo Technologies Inc
-1987	2597	2597	RF	Regions Financial Corp
-1988	2601	2601	RFI	Cohen & Steers Total Return Realty Fund
-1989	2602	2602	RFL	Rafael Holdings Inc
-1990	2603	2603	RFM	Rivernorth Flexible Municipal Income Fund Inc
-1991	2604	2604	RFMZ	Rivernorth Flexible Municipal Income Fund II Inc
-1992	2605	2605	RFP	Resolute Forest Products Inc
-1993	2606	2606	RGA	Reinsurance Group of America Inc
-1994	2607	2607	RGR	Sturm Ruger & Company
-1995	2608	2608	RGS	Regis Corp
-1996	2609	2609	RGT	Royce Global Value Trust Inc
-1997	2610	2610	RH	Restoration Hardware Holdings
-1998	2611	2611	RHI	Robert Half International Inc
-1999	2612	2612	RHP	Ryman Hospitality Properties REIT
-2000	2615	2615	RICE	Rice Acquisition Corp Cl A
-2001	2616	2616	RIG	Transocean Inc
-2002	2617	2617	RIO	Rio Tinto Plc
-2003	2618	2618	RIV	Rivernorth Opportunities Fund
-2004	2619	2619	RJF	Raymond James Financial
-2005	2620	2620	RKT	Rocket Companies Inc Cl A
-2006	2621	2621	RL	Ralph Lauren Corp
-2007	2622	2622	RLGY	Realogy Holdings Corp
-2008	2623	2623	RLH	Red Lion Hotels Corp
-2009	2624	2624	RLI	Rli Corp
-2010	2625	2625	RLJ	Rlj Lodging Trust
-2011	2627	2627	RLX	Rlx Technology Inc ADR
-2012	2628	2628	RM	Regional Managment Corp
-2013	2629	2629	RMAX	Re/Max Holdings Inc
-2014	2630	2630	RMD	Resmed Inc
-2015	2631	2631	RMI	Rivernorth Opportunistic Municipal Income Fund
-2016	2632	2632	RMM	Rivernorth Managed Duration Municipal Income Fun
-2017	2633	2633	RMO	Romeo Power Inc
-2018	2636	2636	RMT	Royce Micro-Cap Trust
-2019	2637	2637	RNG	Ringcentral Inc
-2020	2638	2638	RNGR	Ranger Energy Services Inc Cl A
-2021	2639	2639	RNP	Cohen & Steers REIT and Preferred
-2022	2640	2640	RNR	Renaissancere Holdings Ltd
-2023	2643	2643	ROG	Rogers Corp
-2024	2644	2644	ROK	Rockwell Automation Inc
-2025	2645	2645	ROL	Rollins Inc
-2026	2646	2646	ROP	Roper Industries
-2027	2648	2648	RPAI	Retail Properties of America
-2028	2651	2651	RPLA	Replay Acquisition Corp
-2029	2652	2652	RPM	RPM International Inc
-2030	2653	2653	RPT	Ramco-Gershenson Properties Trust
-2031	2655	2655	RQI	Cohen & Steers Quality Income Realty Fund Inc
-2032	2656	2656	RRC	Range Resources Corp
-2033	2657	2657	RRD	Donnelley R.R. & Sons Company
-2034	2658	2658	RS	Reliance Steel & Aluminum Company
-2035	2659	2659	RSF	Rivernorth Marketplace Lending Corp
-2036	2660	2660	RSG	Republic Services
-2037	2661	2661	RSI	Rush Street Interactive Inc
-2038	2663	2663	RTP	Reinvent Technology Partners Cl A
-2039	2668	2668	RTPZ	Reinvent Technology Partners Z Cl A
-2040	2669	2669	RTX	Raytheon Technologies Corp
-2041	2670	2670	RVI	Retail Value Inc
-2042	2671	2671	RVLV	Revolve Group Inc
-2043	2672	2672	RVT	Royce Value Trust
-2044	2673	2673	RWT	Redwood Trust
-2045	2674	2674	RXN	Rexnord Corp
-2046	2675	2675	RY	Royal Bank of Canada
-2047	2677	2677	RYAM	Rayonier Advanced Materials Inc
-2048	2678	2678	RYB	Ryb Education Inc Aps
-2049	2679	2679	RYI	Ryerson Holding Corp
-2050	2680	2680	RYN	Rayonier Inc REIT
-2051	2681	2681	RZA	Reinsurance Group of America
-2052	2682	2682	RZB	Reinsurance Group of America
-2053	2683	2683	SA	Seabridge Gold
-2054	2684	2684	SAF	Saratoga Investment Corp
-2055	2685	2685	SAFE	Safehold Inc
-2056	2686	2686	SAH	Sonic Automotive
-2057	2687	2687	SAIC	Science Applications International
-2058	2688	2688	SAIL	Sailpoint Technologies Holdings Inc
-2059	2689	2689	SAK	Saratoga Investment Corp 7.25% Notes Due 2025
-2060	2690	2690	SALT	Scorpio Bulkers Inc
-2061	2691	2691	SAM	Boston Beer Company
-2062	2692	2692	SAN	Banco Santander
-2063	2693	2693	SAND	Sandstorm Gold Ltd
-2064	2694	2694	SAP	SAP Ag
-2065	2695	2695	SAR	Saratoga Investment Corp
-2066	2696	2696	SAVE	Spirit Airlines Inc
-2067	2697	2697	SB	Safe Bulkers Inc
-2068	2700	2700	SBBA	Scorpio Tankers Inc 7.00% Senior Notes Due 2025
-2069	2701	2701	SBE	Switchback Energy Acquisition Corp Cl A
-2070	2704	2704	SBG	Sandbridge Acquisition Corp Cl A
-2071	2707	2707	SBH	Sally Beauty Holdings
-2072	2708	2708	SBI	Western Asset Intermediate Fund Inc
-2073	2709	2709	SBOW	Silverbow Resources Inc
-2074	2710	2710	SBR	Sabine Royalty Trust
-2075	2711	2711	SBS	Cia DE Saneamento Basico Do Estado
-2076	2712	2712	SBSW	Sibanye Gold Ltd ADR
-2077	2713	2713	SC	Santander Consumer USA Holdings
-2078	2715	2715	SCCO	Southern Peru Copper Corp
-2079	2716	2716	SCD	Lmp Capital and Income Fund Inc
-2080	2724	2724	SCHW	The Charles Schwab Corp
-2081	2725	2725	SCI	Service Corp International
-2082	2726	2726	SCL	Stepan Company
-2083	2727	2727	SCM	Stellus Capital Investment Cor
-2084	2730	2730	SCPE	SC Health Corp Cl A
-2085	2731	2731	SCS	Steelcase Inc
-2086	2732	2732	SCU	Sculptor Capital Management Inc
-2087	2735	2735	SCVX	Scvx Corp Cl A
-2088	2736	2736	SCX	L.S. Starrett Company
-2089	2737	2737	SD	Sandridge Energy Inc
-2090	2738	2738	SDHY	PGIM Short Duration High Yield Opportunities Fun
-2091	2739	2739	SE	Sea Ltd ADR
-2092	2742	2742	SEAH	Sports Entertainment Acquisition Cl A
-2093	2743	2743	SEAS	Seaworld Entertainment Inc Company
-2094	2744	2744	SEE	Sealed Air Corp
-2095	2745	2745	SEM	Select Medical Holdings Corp
-2096	2746	2746	SF	Stifel Financial Corp
-2097	2751	2751	SFE	Safeguard Scientifics
-2098	2752	2752	SFL	Ship Finance International
-2099	2755	2755	SFTW	Osprey Technology Acquisition Corp Cl A
-2100	2756	2756	SFUN	Fang Holdings Ltd
-2101	2757	2757	SGFY	Signify Health Inc Cl A
-2102	2758	2758	SGU	Star Gas Partners LP
-2103	2759	2759	SHAK	Shake Shack Inc
-2104	2760	2760	SHG	Shinhan Financial Group CO Ltd
-2105	2761	2761	SHI	Sinopec Shangai Petrochemical Company Ltd
-2106	2762	2762	SHLX	Shell Midstream Partners LP
-2107	2763	2763	SHO	Sunstone Hotel Investors
-2108	2766	2766	SHOP	Shopify Inc
-2109	2767	2767	SHW	Sherwin-Williams Company
-2110	2768	2768	SI	Silvergate Capital Corp Cl A
-2111	2769	2769	SID	Companhia Siderurgica Nacional
-2112	2770	2770	SIG	Signet Jewelers Ltd
-2113	2771	2771	SII	Sprott Inc
-2114	2774	2774	SITC	Site Centers Corp
-2115	2775	2775	SITE	Siteone Landscape Supply
-2116	2776	2776	SIX	Six Flags Entertainment Corp
-2117	2777	2777	SJI	South Jersey Industries
-2118	2778	2778	SJIJ	South Jersey Industries Inc 5.625% Junior
-2119	2779	2779	SJIU	South Jersey Industries Inc
-2120	2780	2780	SJM	J.M. Smucker Company
-2121	2781	2781	SJR	Shaw Communications Inc
-2122	2782	2782	SJT	San Juan Basin Royalty Trust
-2123	2783	2783	SJW	SJW Corp
-2124	2785	2785	SKLZ	Skillz Inc
-2125	2786	2786	SKM	Sk Telecom Corp
-2126	2787	2787	SKT	Tanger Factory Outlet Centers
-2127	2788	2788	SKX	Skechers U.S.A.
-2128	2789	2789	SKY	Skyline Corp
-2129	2791	2791	SLB	Schlumberger N.V.
-2130	2792	2792	SLCA	U.S. Silica Holdings Inc
-2131	2793	2793	SLF	Sun Life Financial Inc
-2132	2794	2794	SLG	SL Green Realty Corp
-2133	2796	2796	SLQT	Selectquote Inc
-2134	2797	2797	SM	Sm Energy Company
-2135	2798	2798	SMAR	Smartsheet Inc Cl A
-2136	2799	2799	SMFG	Sumitomo Mitsui Financial Group Inc
-2137	2800	2800	SMG	Scotts Miracle-Gro Company
-2138	2801	2801	SMHI	Seacor Marine Holdings Inc
-2139	2802	2802	SMLP	Summit Midstream Partners LP
-2140	2803	2803	SMM	Salient Midstream & MLP Fund
-2141	2804	2804	SMP	Standard Motor Products
-2142	2805	2805	SNA	Snap-On Inc
-2143	2806	2806	SNAP	Snap Inc
-2144	2807	2807	SNDR	Schneider National Inc
-2145	2808	2808	SNE	Sony Corp
-2146	2809	2809	SNN	Smith & Nephew Snats
-2147	2810	2810	SNOW	Snowflake Inc Cl A
-2148	2811	2811	SNP	China Petroleum & Chemical Corp
-2149	2814	2814	SNPR	Tortoise Acquisition Corp II Cl A
-2150	2815	2815	SNR	New Senior Investment Group Inc
-2151	2816	2816	SNV	Synovus Financial Corp
-2152	2819	2819	SNX	Synnex Corp
-2153	2820	2820	SO	Southern Company
-2154	2823	2823	SOAC	Sustainable Opportunities Acquisition Cl A
-2155	2824	2824	SOGO	Sogou Inc
-2156	2825	2825	SOI	Solaris Oilfield Infrastructure Inc Cl A
-2157	2826	2826	SOJB	Southern Company
-2158	2827	2827	SOJC	Southern Company Series 2017B 5.25% Junior
-2159	2828	2828	SOJD	Southern Company Series 2020A 4.95% Junior
-2160	2829	2829	SOJE	Southern Company Series 2020C 4.20%
-2161	2830	2830	SOL	Renesola Ltd
-2162	2831	2831	SOLN	Southern Company
-2163	2832	2832	SON	Sonoco Products Company
-2164	2833	2833	SOR	Source Capital
-2165	2834	2834	SOS	Sos Ltd
-2166	2836	2836	SPB	Spectrum Brands Holdings Inc
-2167	2837	2837	SPCE	Virgin Galactic Holdings Inc
-2168	2838	2838	SPE	Special Opportunities Fund Inc
-2169	2842	2842	SPFR	Jaws Spitfire Acquisition Corporation Cl A
-2170	2843	2843	SPG	Simon Property Group
-2171	2845	2845	SPGI	S&P Global Inc
-2172	2846	2846	SPH	Suburban Propane Partners LP
-2173	2848	2848	SPLP	Steel Partners Hlds
-2174	2851	2851	SPNV	Supernova Partners Acquisition Cl A
-2175	2852	2852	SPOT	Spotify Technology S.A.
-2176	2853	2853	SPR	Spirit Aerosystems Holdings
-2177	2856	2856	SPRQ	Spartan Acquisition Corp. II Cl A
-2178	2857	2857	SPXC	SPX Corp
-2179	2858	2858	SPXX	Nuveen Equity Premium and Growth Fund
-2180	2859	2859	SQ	Square
-2181	2860	2860	SQM	Sociedad Quimica Y Minera S.A.
-2182	2861	2861	SQNS	Sequans Communications S A
-2183	2862	2862	SQZ	Sqz Biotechnologies Company
-2184	2863	2863	SR	Spire Inc
-2185	2865	2865	SRC	Spirit Realty Capital Inc
-2186	2867	2867	SRE	Sempra Energy
-2187	2869	2869	SREA	Sempra Energy 5.750% Junior
-2188	2870	2870	SRG	Seritage Growth Properties
-2189	2872	2872	SRI	Stoneridge Inc
-2190	2873	2873	SRL	Scully Royalty Ltd
-2191	2874	2874	SRLP	Sprague Resources LP
-2192	2875	2875	SRT	Startek Inc
-2193	2876	2876	SRV	The Cushing MLP Total Return Fund
-2194	2877	2877	SSD	Simpson Manufacturing Company
-2195	2878	2878	SSL	Sasol Ltd
-2196	2879	2879	SSTK	Shutterstock Inc
-2197	2880	2880	ST	Sensata Technologies Holding N.V.
-2198	2885	2885	STAG	STI Inc
-2199	2886	2886	STAR	Istar Financial Inc
-2200	2887	2887	STC	Stewart Information Services Corp
-2201	2888	2888	STE	Steris Corp
-2202	2889	2889	STG	Sunlands Online Education Group ADR
-2203	2892	2892	STIC	Northern Star Acquisition Cl A
-2204	2893	2893	STK	Columbia Seligman Premium Technology
-2205	2894	2894	STL	Sterling Bancorp
-2206	2896	2896	STLA	Stellantis N.V.
-2207	2897	2897	STM	Stmicroelectronics N.V.
-2208	2898	2898	STN	Stantec Inc
-2209	2899	2899	STNG	Scorpio Tankers Inc
-2210	2900	2900	STON	Stonemor Partners LP
-2211	2901	2901	STOR	Store Capital Corpstore Capital
-2212	2905	2905	STPK	Star Peak Energy Transition Corp Cl A
-2213	2906	2906	STT	State Street Corp
-2214	2909	2909	STWD	Starwood Property Trust
-2215	2910	2910	STZ	Constellation Brands Inc
-2216	2912	2912	SU	Suncor Energy Inc
-2217	2913	2913	SUI	Sun Communities
-2218	2914	2914	SUM	Summit Materials Inc
-2219	2915	2915	SUN	Sunoco LP
-2220	2916	2916	SUP	Superior Industries International
-2221	2917	2917	SUPV	Grupo Supervielle S.A.
-2222	2918	2918	SUZ	Suzano Papel E Celul
-2223	2920	2920	SWCH	Switch Inc
-2224	2921	2921	SWI	Solarwinds Corp
-2225	2922	2922	SWK	Stanley Black & Decker Inc
-2226	2923	2923	SWM	Schweitzer-Mauduit International
-2227	2924	2924	SWN	Southwestern Energy Company
-2228	2925	2925	SWT	Stanley Black & Decker Inc
-2229	2926	2926	SWX	Southwest Gas Corp
-2230	2927	2927	SWZ	Swiss Helvetia Fund
-2231	2928	2928	SXC	Suncoke Energy Inc
-2232	2929	2929	SXI	Standex International Corp
-2233	2930	2930	SXT	Sensient Technologies Corp
-2234	2931	2931	SYF	Synchrony Financial
-2235	2933	2933	SYK	Stryker Corp
-2236	2934	2934	SYX	Systemax Inc
-2237	2935	2935	SYY	Sysco Corp
-2238	2936	2936	SZC	The Cushing Renaissance Fund
-2239	2937	2937	T	AT&T Inc
-2240	2940	2940	TAC	Transalta Corp
-2241	2943	2943	TACA	Trepont Acquisition Corp I Cl A
-2242	2944	2944	TAK	Takeda Pharmaceutical CO Ltd
-2243	2945	2945	TAL	Tal Education Group
-2244	2946	2946	TALO	Talos Energy Inc
-2245	2947	2947	TAP	Molson Coors Brewing Company
-2246	2949	2949	TARO	Taro Pharm Inds
-2247	2950	2950	TBA	Thoma Bravo Advantage Cl A
-2248	2951	2951	TBB	AT&T Inc 5.350% Global Notes Due 2066
-2249	2952	2952	TBC	AT&T Inc 5.625% Global Notes Due 2067
-2250	2953	2953	TBI	Trueblue Inc
-2251	2954	2954	TCI	Transcontinental Realty Investors
-2252	2955	2955	TCP	TCP Pipelines
-2253	2956	2956	TCS	The Container Store Group Inc
-2254	2957	2957	TD	Toronto Dominion Bank
-2255	2958	2958	TDA	Telephone and Data Systems Inc
-2256	2959	2959	TDC	Teradata Corp
-2257	2960	2960	TDE	Telephone and Data Systems
-2258	2961	2961	TDF	Templeton Dragon Fund
-2259	2962	2962	TDG	Transdigm Group Inc
-2260	2963	2963	TDI	Telephone and Data Systems
-2261	2964	2964	TDJ	Telephone and Data Systems Inc
-2262	2965	2965	TDOC	Teladoc Health Inc
-2263	2966	2966	TDS	Telephone and Data Systems
-2264	2967	2967	TDW	Tidewater Inc
-2265	2970	2970	TDY	Teledyne Technologies Inc
-2266	2971	2971	TEAF	Tortoise Essential Assets Income Term Fund
-2267	2972	2972	TECK	Teck Resources Ltd
-2268	2973	2973	TEF	Telefonica S.A.
-2269	2974	2974	TEI	Templeton Emerging Markets
-2270	2975	2975	TEL	Te Connectivity Ltd
-2271	2976	2976	TEN	Tenneco Automotive
-2272	2977	2977	TEO	Telecom Argentina Stet France Telecom S.A.
-2273	2978	2978	TEVA	Teva Pharmaceutical Industries Ltd
-2274	2979	2979	TEX	Terex Corp
-2275	2980	2980	TFC	Truist Financial Corp
-2276	2987	2987	TFII	Tfi International Inc
-2277	2988	2988	TFSA	Terra Income Fund VI 7.00% Notes Due 2026
-2278	2989	2989	TFX	Teleflex Inc
-2279	2990	2990	TG	Tredegar Corp
-2280	2991	2991	TGH	Textainer Group Holdings
-2281	2992	2992	TGI	Triumph Group
-2282	2993	2993	TGNA	Tegna Inc
-2283	2994	2994	TGP	Teekay Lng Partners LP
-2284	2997	2997	TGS	Transportadora DE Gas Sa Ord B
-2285	2998	2998	TGT	Target Corp
-2286	2999	2999	THC	Tenet Healthcare Corp
-2287	3000	3000	THG	The Hanover Insurance Group
-2288	3001	3001	THO	Thor Industries
-2289	3002	3002	THQ	Tekla Healthcare Opportunities
-2290	3003	3003	THR	Thermon Group Holdings Inc
-2291	3004	3004	THS	Treehouse Foods
-2292	3005	3005	THW	Tekla World Healthcare Fund
-2293	3006	3006	TIMB	Tim S.A. ADR
-2294	3009	3009	TINV	Tiga Acquisition Corp Cl A
-2295	3010	3010	TISI	Team Inc
-2296	3011	3011	TIXT	Telus International [Cda] Inc Subordinate Voting
-2297	3012	3012	TJX	TJX Companies
-2298	3013	3013	TK	Teekay Shipping Corp
-2299	3014	3014	TKC	Turkcell Iletisim Hizmetleri As
-2300	3015	3015	TKR	Timken Company
-2301	3017	3017	TLK	P.T. Telekomunikasi Indonesia Tbk
-2302	3018	3018	TLYS	Tilly's Inc
-2303	3019	3019	TM	Toyota Motor Corp Ltd Ord
-2304	3021	3021	TME	Tencent Music Entertainment Group ADR
-2305	3022	3022	TMHC	Taylor Morrison Home Corp
-2306	3023	3023	TMO	Thermo Fisher Scientific Inc
-2307	3024	3024	TMST	Timken Steel Corp
-2308	3025	3025	TMX	Terminix Global Hldgs Inc
-2309	3026	3026	TNC	Tennant Company
-2310	3027	3027	TNET	Trinet Group Inc
-2311	3028	3028	TNK	Teekay Tankers Ltd
-2312	3029	3029	TNL	Travel + Leisure CO
-2313	3030	3030	TNP	Tsakos Energy Navigation Ltd
-2314	3034	3034	TOL	Toll Brothers Inc
-2315	3035	3035	TOT	Totalfinaelf S.A.
-2316	3036	3036	TPB	Turning Point Brands
-2317	3037	3037	TPC	Tutor Perini Corp
-2318	3040	3040	TPGY	Tpg Pace Beneficial Finance Corp Cl A
-2319	3041	3041	TPH	Tri Pointe Homes Inc
-2320	3042	3042	TPL	Texas Pacific Land Trust
-2321	3043	3043	TPR	Tapestry Inc
-2322	3044	3044	TPRE	Third Point Reinsurance Ltd Company
-2323	3045	3045	TPVG	Triplepoint Venture Growth Bdc
-2324	3046	3046	TPVY	Triplepoint Venture Growth Bdc Corp 5.75% Notes
-2325	3047	3047	TPX	Tempur-Pedic International Inc
-2326	3048	3048	TPZ	Tortoise Power and Energy
-2327	3049	3049	TR	Tootsie Roll Industries
-2328	3050	3050	TRC	Tejon Ranch Company
-2329	3053	3053	TREB	Trebia Acquisition Corp Cl A
-2330	3054	3054	TREC	Trecora Resources
-2331	3055	3055	TREX	Trex Company
-2332	3056	3056	TRGP	Targa Resources
-2333	3057	3057	TRI	Thomson Reuters Corp
-2334	3058	3058	TRN	Trinity Industries
-2335	3059	3059	TRNO	Terreno Realty Corp
-2336	3060	3060	TROX	Tronox Inc
-2337	3061	3061	TRP	Tc Energy Corp
-2338	3062	3062	TRQ	Turquoise Hill Resources Ltd
-2339	3067	3067	TRTN	Triton International Ltd
-2340	3068	3068	TRTX	Tpg Re Finance Trust Inc
-2341	3069	3069	TRU	Transunion
-2342	3070	3070	TRV	The Travelers Companies Inc
-2343	3071	3071	TS	Tenaris S.A.
-2344	3072	3072	TSE	Trinseo S.A.
-2345	3073	3073	TSI	Tcw Strategic
-2346	3074	3074	TSLX	Tpg Specialty Lending Inc
-2347	3075	3075	TSM	Taiwan Semiconductor Manufacturing
-2348	3076	3076	TSN	Tyson Foods
-2349	3077	3077	TSQ	Townsquare Media Llc
-2350	3078	3078	TT	Trane Technologies Plc
-2351	3079	3079	TTC	Toro Company
-2352	3080	3080	TTI	Tetra Technologies
-2353	3081	3081	TTM	Tata Motors Ltd
-2354	3082	3082	TTP	Tortoise Pipeline & Energy Fund
-2355	3083	3083	TU	Telus Corp
-2356	3084	3084	TUFN	Tufin Software Technologies Ltd
-2357	3085	3085	TUP	Tupperware Corp
-2358	3086	3086	TV	Grupo Televisa S.A.
-2359	3087	3087	TVC	Tennessee Valley Authority
-2360	3088	3088	TVE	Tennessee Valley Authority
-2361	3089	3089	TWI	Titan International
-2362	3090	3090	TWLO	Twilio
-2363	3091	3091	TWN	Taiwan Fund
-2364	3094	3094	TWND	Tailwind Acquisition Corp Cl A
-2365	3095	3095	TWO	Two Harbors Investments Corp
-2366	3101	3101	TWTR	Twitter Inc
-2367	3102	3102	TX	Ternium S.A.
-2368	3103	3103	TXT	Textron Inc
-2369	3104	3104	TY	Tri Continental Corp
-2370	3105	3105	TY.P	Tri Contl Corp [Ty/P]
-2371	3106	3106	TYG	Tortoise Energy Infrastructure Corp
-2372	3107	3107	TYL	Tyler Technologies
-2373	3108	3108	U	Unity Software Inc
-2374	3109	3109	UA	Under Armour Inc Cl C
-2375	3110	3110	UAA	Under Armour
-2376	3111	3111	UAN	Cvr Partners LP
-2377	3112	3112	UBA	Urstadt Biddle Properties Inc
-2378	3113	3113	UBER	Uber Technologies Inc
-2379	3114	3114	UBP	Urstadt Biddle Properties Inc
-2380	3117	3117	UBS	UBS Group Ag
-2381	3118	3118	UDR	United Dominion Realty Trust
-2382	3119	3119	UE	Urban Edge Properties
-2383	3120	3120	UFI	Unifi Inc
-2384	3121	3121	UFS	Domtar Corp
-2385	3122	3122	UGI	Ugi Corp
-2386	3123	3123	UGP	Ultrapar Participacoes S.A.
-2387	3124	3124	UHS	Universal Health Services
-2388	3125	3125	UHT	Universal Health Realty Income Trust
-2389	3126	3126	UI	Ubiquiti Networks
-2390	3127	3127	UIS	Unisys Corp
-2391	3128	3128	UL	Unilever Plc
-2392	3129	3129	UMC	United Microelectronics Corp
-2393	3130	3130	UMH	Umh Properties
-2394	3133	3133	UNF	Unifirst Corp
-2395	3134	3134	UNFI	United Nat Foods
-2396	3135	3135	UNH	Unitedhealth Group Inc
-2397	3136	3136	UNM	Unumprovident Corp
-2398	3137	3137	UNMA	Unum Group 6.250% Junior
-2399	3138	3138	UNP	Union Pacific Corp
-2400	3139	3139	UNVR	Univar Inc
-2401	3140	3140	UPS	United Parcel Service
-2402	3141	3141	URI	United Rentals
-2403	3142	3142	USA	Liberty All-Star Equity Fund
-2404	3143	3143	USAC	USA Compression Partners LP
-2405	3144	3144	USB	U.S. Bancorp
-2406	3151	3151	USDP	USD Partners LP
-2407	3152	3152	USFD	US Foods Holding
-2408	3153	3153	USM	United States Cellular Corp
-2409	3154	3154	USNA	Usana Health Sciences Inc
-2410	3155	3155	USPH	U.S. Physical Therapy
-2411	3156	3156	USX	U.S. Xpress Enterprises Inc Cl A
-2412	3157	3157	UTF	Cohen & Steers Infrastructure Fund
-2413	3158	3158	UTI	Universal Technical Institute Inc
-2414	3159	3159	UTL	Unitil Corp
-2415	3160	3160	UTZ	Utz Brands Inc
-2416	3161	3161	UVE	Universal Insurance Holdings Inc
-2417	3162	3162	UVV	Universal Corp
-2418	3164	3164	UWMC	Uwm Hldg Corp
-2419	3165	3165	UZA	United States Cellular Corp
-2420	3166	3166	UZB	United States Cellular Corp
-2421	3167	3167	UZC	United States Cellular Corp
-2422	3168	3168	UZD	United States Cellular Corp 6.250% Senior
-2423	3169	3169	UZE	United States Cellular Corp
-2424	3170	3170	V	Visa Inc
-2425	3171	3171	VAC	Marriot Vacations Worldwide Cor
-2426	3172	3172	VALE	Vale S.A.
-2427	3173	3173	VAPO	Vapotherm Inc
-2428	3174	3174	VAR	Varian Medical Systems
-2429	3175	3175	VBF	Invesco Van Kampen Bond Fund
-2430	3176	3176	VCIF	Vertical Capital Income Fund Common Shares of BE
-2431	3177	3177	VCRA	Vocera Communications Inc
-2432	3178	3178	VCV	Invesco California Value Muni Income Trust
-2433	3179	3179	VEC	Vectrus Inc
-2434	3180	3180	VEDL	Vedanta Ltd
-2435	3181	3181	VEEV	Veeva Systems Inc
-2436	3182	3182	VEL	Velocity Financial Inc
-2437	3183	3183	VER	Vereit Inc
-2438	3185	3185	VET	Vermilion Energy Inc
-2439	3186	3186	VFC	V.F. Corp
-2440	3189	3189	VGAC	VG Acquisition Corp Cl A
-2441	3190	3190	VGI	Virtus Global Multi-Sector Inc
-2442	3191	3191	VGM	Invesco Trust For Investment Grade Municipals
-2443	3192	3192	VGR	Vector Group Ltd
-2444	3193	3193	VHC	Virnetx Holding Corp
-2445	3194	3194	VHI	Valhi Inc
-2446	3195	3195	VIAO	Via Optronics Ag ADR
-2447	3196	3196	VICI	Vici Properties Inc
-2448	3197	3197	VIPS	Vipshop Holdings Ltd
-2449	3198	3198	VIST	Vista Oil & Gas S.A.B. DE C.V.
-2450	3199	3199	VIV	Telecomunicacoes DE Sao Paulo ADR
-2451	3200	3200	VKQ	Invesco Muni Trust
-2452	3201	3201	VLO	Valero Energy Corp
-2453	3202	3202	VLRS	Controladora Vuela Compaia DE
-2454	3203	3203	VLT	Invesco High
-2455	3204	3204	VMC	Vulcan Materials Company
-2456	3205	3205	VMI	Valmont Industries
-2457	3206	3206	VMO	Invesco Muni Opportunity Trust
-2458	3207	3207	VMW	Vmware Inc
-2459	3208	3208	VNCE	Vince Holding Corp
-2460	3209	3209	VNE	Veoneer Inc
-2461	3210	3210	VNO	Vornado Realty Trust
-2462	3215	3215	VNT	Vontier Corp [Vnt/I]
-2463	3216	3216	VNTR	Venator Materials Plc
-2464	3217	3217	VOC	Voc Energy Trust
-2465	3219	3219	VOYA	VOYA Financial Inc
-2466	3220	3220	VPG	Vishay Precision Group
-2467	3221	3221	VPV	Invesco Pennsylvania Muni
-2468	3222	3222	VRS	Verso Corp
-2469	3223	3223	VRT	Vertiv Holdings Llc.
-2470	3224	3224	VRTV	Veritiv Corp
-2471	3225	3225	VSH	Vishay Intertechnology
-2472	3226	3226	VST	Vistra Energy Corp
-2473	3228	3228	VSTO	Vista Outdoor Inc
-2474	3229	3229	VTA	Invesco Dynamic Credit Fund
-2475	3230	3230	VTN	Invesco Trust New York Muni
-2476	3231	3231	VTOL	Bristow Group Inc
-2477	3232	3232	VTR	Ventas Inc
-2478	3233	3233	VVI	Viad Corp
-2479	3234	3234	VVNT	Vivint Smart Home Inc
-2480	3235	3235	VVR	Invesco Senior Income Trust
-2481	3236	3236	VVV	Valvoline Inc
-2482	3239	3239	VYGG	Vy Global Growth Cl A
-2483	3240	3240	VZ	Verizon Communications Inc
-2484	3241	3241	W	Wayfair Inc
-2485	3242	3242	WAB	Wabtec Corp
-2486	3243	3243	WAL	Western Alliance Bancorp
-2487	3244	3244	WALA	Western Alliance Bancorp
-2488	3245	3245	WAT	Waters Corp
-2489	3246	3246	WBAI	500Wan.com Ltd
-2490	3247	3247	WBK	Westpac Banking Corp
-2491	3248	3248	WBS	Webster Financial Corp
-2492	3250	3250	WBT	Welbilt Inc
-2493	3251	3251	WCC	Wesco International
-2494	3253	3253	WCN	Waste Connections Inc
-2495	3254	3254	WD	Walker & Dunlop
-2496	3255	3255	WDR	Waddell & Reed Financial
-2497	3256	3256	WEA	Western Asset Bond Fund
-2498	3257	3257	WEC	Wisconsin Energy Corp
-2499	3258	3258	WEI	Weidai Ltd ADR
-2500	3259	3259	WELL	Welltower Inc
-2501	3260	3260	WES	Western Midstream Partners LP
-2502	3261	3261	WEX	Wex Inc
-2503	3262	3262	WF	Woori Finance Holdings CO Ltd
-2504	3263	3263	WFC	Wells Fargo & Company
-2505	3276	3276	WFG	West Fraser Timber L
-2506	3277	3277	WGO	Winnebago Industries
-2507	3278	3278	WH	Wyndham Hotels & Resorts Inc
-2508	3279	3279	WHD	Cactus Inc Cl A
-2509	3280	3280	WHG	Westwood Holdings Group Inc
-2510	3281	3281	WHR	Whirlpool Corp
-2511	3282	3282	WIA	U.S. Treasury Inflation Prot Secs Fd
-2512	3283	3283	WIT	Wipro Ltd
-2513	3284	3284	WIW	U.S Treasury Inflation Prot Secs Fd 2
-2514	3285	3285	WK	Workiva Llc
-2515	3286	3286	WLK	Westlake Chemical Corp
-2516	3287	3287	WLKP	Westlake Chemical Partners LP
-2517	3288	3288	WLL	Whiting Petroleum Corp
-2518	3289	3289	WM	Waste Management
-2519	3290	3290	WMB	Williams Companies
-2520	3291	3291	WMC	Western Asset Mortgage Capital
-2521	3292	3292	WMK	Weis Markets
-2522	3293	3293	WMS	Advanced Drainage Systems Inc
-2523	3294	3294	WMT	Wal-Mart Stores
-2524	3295	3295	WNC	Wabash National Corp
-2525	3296	3296	WNS	Wns Ltd
-2526	3297	3297	WOR	Worthington Industries
-2527	3298	3298	WORK	Slack Technologies Inc
-2528	3299	3299	WOW	Wideopenwest Inc
-2529	3300	3300	WPC	W.P. Carey & CO Llc
-2530	3301	3301	WPF	Foley Trasimene Acquisition Cl A
-2531	3304	3304	WPG	Washington Prime Group Inc
-2532	3307	3307	WPM	Wheaton Precious Metals
-2533	3308	3308	WPP	Wpp Plc ADR
-2534	3309	3309	WRB	W.R. Berkley Corp
-2535	3316	3316	WRE	Washington Real Estate Investment
-2536	3317	3317	WRI	Weingarten Realty Investors
-2537	3318	3318	WRK	Westrock Company
-2538	3319	3319	WSM	Williams-Sonoma
-2539	3320	3320	WSO	Watsco Inc
-2540	3322	3322	WSR	Whitestone REIT
-2541	3323	3323	WST	West Pharmaceutical Services
-2542	3324	3324	WTI	W&T Offshore
-2543	3325	3325	WTM	White Mountains Insurance Group
-2544	3326	3326	WTRG	Essential Utilities Inc
-2545	3327	3327	WTRU	Aqua America Inc 6.00% Tangible Equity Units
-2546	3328	3328	WTS	Watts Water Technologies
-2547	3329	3329	WTTR	Select Energy Services Inc
-2548	3330	3330	WU	Western Union Company
-2549	3331	3331	WWE	World Wrestling Entertainment
-2550	3332	3332	WWW	Wolverine World Wide
-2551	3333	3333	WY	Weyerhaeuser Company
-2552	3334	3334	WYND	Wyndham Destinations Inc
-2553	3335	3335	X	United States Steel Corp
-2554	3336	3336	XAN	Exantas Capital Corp
-2555	3338	3338	XEC	Cimarex Energy Company
-2556	3339	3339	XFLT	Xai Octagon Floating Alt Income Term Trust Compa
-2557	3340	3340	XHR	Xenia Hotels & Resorts Inc
-2558	3341	3341	XIN	Xinyuan Real Estate CO Ltd
-2559	3342	3342	XL	XL Fleet Corp
-2560	3344	3344	XOM	Exxon Mobil Corp
-2561	3345	3345	XPEV	Xpeng Inc ADR
-2562	3346	3346	XPO	Xpo Logistics Inc
-2563	3349	3349	XPOA	Dpcm Capital Inc Cl A
-2564	3350	3350	XRX	Xerox Corp
-2565	3351	3351	XYF	X Financial
-2566	3352	3352	XYL	Xylem Inc
-2567	3353	3353	Y	Alleghany Corp
-2568	3354	3354	YAC	Yucaipa Acquisition Corp Cl A
-2569	3357	3357	YALA	Yalla Group Limited ADR
-2570	3358	3358	YELP	Yelp Inc
-2571	3359	3359	YETI	Yeti Holdings Inc
-2572	3360	3360	YEXT	Yext Inc
-2573	3361	3361	YPF	Ypf Sociedad Anonima
-2574	3362	3362	YRD	Yirendai Ltd
-2575	3363	3363	YSG	Yatsen Holding Limited ADR
-2576	3364	3364	YUM	Yum! Brands
-2577	3365	3365	YUMC	Yum China Holdings Inc
-2578	3366	3366	ZBH	Zimmer Biomet Holdings
-2579	3367	3367	ZEN	Zendesk Inc
-2580	3368	3368	ZEPP	Zepp Health Corp
-2581	3369	3369	ZIM	Zim Integrated Shipping Services Ltd
-2582	3370	3370	ZNH	China Southern Airlines Company
-2583	3371	3371	ZTO	Zto Express Cayman Inc
-2584	3372	3372	ZTR	Virtus Global Divd & Income Fund
-2585	3373	3373	ZTS	Zoetis Inc Cl A
-2586	3374	3374	ZUO	Zuora Inc
-2587	3375	3375	ZYME	Zymeworks Inc
+	Symbol	Description
+0	A	Agilent Technologies
+1	AA	Alcoa Corp
+2	AAIC	Arlington Asset Investment Corp
+3	AAN	Aarons Holdings Company Inc
+4	AAP	Advance Auto Parts Inc
+5	AAT	American Assets Trust
+6	AB	Alliancebernstein Holding LP
+7	ABB	Abb Ltd
+8	ABBV	Abbvie Inc
+9	ABC	Amerisourcebergen Corp
+10	ABEV	Ambev S.A.
+11	ABG	Asbury Automotive Group Inc
+12	ABM	ABM Industries Inc
+13	ABR	Arbor Realty Trust
+14	ABT	Abbott Laboratories
+15	AC	Associated Capital Group Inc
+16	ACA	Arcosa Inc
+17	ACB	Aurora Cannabis Inc
+18	ACC	American Campus Communities Inc
+19	ACCO	Acco Brands Corp
+20	ACEL	Accel Entertainment Inc
+21	ACH	Aluminum Corp of China Ltd
+22	ACI	Albertsons Companies Inc Cl A
+23	ACIC	Atlas Crest Investment Corp Cl A
+24	ACM	Aecom Technology Corp
+25	ACN	Accenture Plc
+26	ACND	Ascendant Digital Acquisition Corp Cl A
+27	ACP	Avenue Income Credit Strategies
+28	ACR	Acres Commercial Realty Corp
+29	ACRE	Ares Commercial Real Estate Cor
+30	ACV	Allianzgi Diversified Income &
+31	ADC	Agree Realty Corp
+32	ADCT	Adc Therapeutics Sa
+33	ADM	Archer Daniels Midland
+34	ADNT	Adient Plc
+35	ADS	Alliance Data Systems Corp
+36	ADT	ADT Inc
+37	ADX	Adams Diversified Equity Fund
+38	AEB	Aegon N.V. Perp Cap Secs Floating Rate [Ne]
+39	AEE	Ameren Corp
+40	AEFC	Aegon Funding Company Llc 5.10%
+41	AEG	Aegon N.V.
+42	AEL	American Equity Investment Life
+43	AEM	Agnico-Eagle Mines Ltd
+44	AENZ	Aenza S.A.A.
+45	AEO	American Eagle Outfitters
+46	AER	Aercap Holdings N.V.
+47	AES	The Aes Corp
+48	AFB	Alliance National Municipal
+49	AFC	Allied Capital Corp
+50	AFG	American Financial Group
+51	AFGB	American Financial Group Inc 5.875%
+52	AFGC	American Financial Group Inc 5.125%
+53	AFGD	American Financial Group Inc 5.625%
+54	AFGE	American Financial Group Inc 4.500%
+55	AFI	Armstrong Flooring Inc
+56	AFL	Aflac Inc
+57	AFT	Apollo Senior Floating Rate Fund Inc
+58	AG	First Majestic Silver
+59	AGCB	Altimeter Growth Corp 2 Cl A
+60	AGCO	Agco Corp
+61	AGD	Alpine Global Dynamic Dividend Fund
+62	AGI	Alamos Gold Inc
+63	AGM	Federal Agricultural Mortgage Corp
+64	AGO	Assured Guaranty Ltd
+65	AGR	Avangrid Inc
+66	AGRO	Adecoagro S.A.
+67	AGS	Playags Inc
+68	AGX	Argan Inc
+69	AHC	A.H. Belo Corp
+70	AHH	Armada Hoffler Properties Inc
+71	AHT	Ashford Hospitality Trust Inc
+72	AI	C3.Ai Inc Cl A
+73	AIC	Arlington Asset Investment Cor
+74	AIF	Apollo Tactical Income Fund Inc
+75	AIG	American International Group
+76	AIN	Albany International Corp
+77	AIO	Virtus Allianzgi Artificial Intel & Tech Opp
+78	AIR	AAR Corp
+79	AIRC	Apartment Income REIT Corp
+80	AIT	Applied Industrial Technologies
+81	AIV	Apartment Investment and Management
+82	AIW	Arlington Asset Investment Cor
+83	AIZ	Assurant Inc
+84	AIZN	Assurant Inc 5.25% Subordinated Notes Due 2061
+85	AIZP	Assurant Inc 6.50% Series D Mandatory Converti
+86	AJAX	Ajax I Cl A
+87	AJG	Arthur J. Gallagher & Company
+88	AJRD	Aerojet Rocketdyne Holdings
+89	AJX	Great Ajax Corp
+90	AJXA	Great Ajax Corp 7.25% Convertible Senior Notes
+91	AKR	Acadia Realty Trust
+92	AL	Air Lease Corp Cl A
+93	ALB	Albemarle Corp
+94	ALC	Alcon Inc
+95	ALE	Allete Inc
+96	ALEX	Alexander and Baldwin Inc
+97	ALG	Alamo Group
+98	ALK	Alaska Air Group
+99	ALL	Allstate Corp
+100	ALLE	Allegion Plc
+101	ALLY	Ally Financial
+102	ALSN	Allison Transmission Holdings
+103	ALTG	Alta Equipment Group Inc
+104	ALUS	Alussa Energy Acquisition Corp Cl A
+105	ALV	Autoliv Inc
+106	ALX	Alexander's Inc
+107	AM	Antero Midstream Corp
+108	AMBC	Ambac Financial Group
+109	AMC	Amc Entertainment Holdings Inc
+110	AMCR	Amcor Plc
+111	AME	Amtek Inc
+112	AMG	Affiliated Managers Group
+113	AMH	American Homes 4 Rent
+114	AMK	Assetmark Financial Holdings Inc
+115	AMN	Amn Healthcare Services Inc
+116	AMOV	America Movil A ADR
+117	AMP	Ameriprise Financial Services
+118	AMPY	Amplify Energy Corp
+119	AMR	Alpha Metallurgical Resources Inc
+120	AMRC	Ameresco Inc
+121	AMRX	Amneal Pharmaceuticals Inc
+122	AMT	American Tower Corp
+123	AMWL	American Well Corp Cl A
+124	AMX	America Movil S.A.B. DE C.V.
+125	AN	Autonation Inc
+126	ANET	Arista Networks Inc
+127	ANF	Abercrombie & Fitch Company
+128	ANH	Anworth Mortgage Asset Corp
+129	ANTM	Anthem Inc
+130	AOD	Alpine Total Dynamic Dividend
+131	AON	AON Plc
+132	AONE	One Cl A
+133	AOS	Smith A.O. Corp
+134	AP	Ampco-Pittsburgh Corp
+135	APAM	Artisan Partners Asset Mgmt
+136	APD	Air Products and Chemicals
+137	APG	Api Group Corp
+138	APH	Amphenol Corp
+139	APLE	Apple Hospitality REIT Inc
+140	APO	Apollo Global Management Llc C
+141	APRN	Blue Apron Holdings Inc
+142	APSG	Apollo Strategic Growth Capital Cl A
+143	APTS	Preferred Apartment Communities
+144	APTV	Aptiv Plc
+145	AQN	Algonquin Pwr & Util
+146	AQNA	Algonquin Power & Utilities Corp
+147	AQNB	Algonquin Power & Utilities Corp 6.20% Fixed-To
+148	AQUA	Evoqua Water Technologies Corp
+149	AR	Antero Resources Corp
+150	ARC	American Reprographics Company
+151	ARCH	Arch Resources Inc
+152	ARCO	Arcos Dorados Holdings Inc
+153	ARD	Ardagh Group S.A.
+154	ARDC	Ares Dynamic Credit Allocation
+155	ARE	Alexandria Real Estate Equities
+156	ARES	Ares Management LP
+157	ARGD	Argo Grp Itl Snr NTS
+158	ARGO	Argo Group Intl Hlds
+159	ARI	Apollo Commercial Real Estate
+160	ARL	American Realty Investors
+161	ARLO	Arlo Technologies Inc
+162	ARMK	Aramark Holdings Corp
+163	ARNC	Arconic Corp
+164	AROC	Archrock Inc
+165	ARR	Armour Residential R
+166	ARW	Arrow Electronics
+167	ASA	ASA Gold and Precious Metals
+168	ASAN	Asana Inc Cl A
+169	ASAQ	Atlantic Street Acquisition Corp Cl A
+170	ASB	Associated Banc-Corp
+171	ASC	Ardmore Shipping Corp
+172	ASG	Liberty All-Star Growth Fund
+173	ASGI	Aberdeen Standard Global Infrastructure
+174	ASGN	On Assignment
+175	ASH	Ashland Global Holdings Inc
+176	ASIX	Advansix Inc
+177	ASPL	Aspirational Consumer Lifestyle Corp Cl A
+178	ASPN	Aspen Aerogels Inc
+179	ASR	Grupo Aeroportuario Del Sureste
+180	ASX	Ase Industrial Holding CO Ltd
+181	AT	Atlantic Power Corp
+182	ATA	Americas Technology Acquisition Corp
+183	ATAC	Altimar Acquisition Corp Cl A
+184	ATC	Atotech Limited
+185	ATCO	Atlas Corp
+186	ATEN	A10 Networks Inc
+187	ATGE	Adtalem Global Education Inc
+188	ATH	Athene Holding Ltd
+189	ATHM	Autohome Inc
+190	ATI	Allegheny Technologies Inc
+191	ATKR	Atkore Inc
+192	ATO	Atmos Energy Corp
+193	ATR	Aptargroup
+194	ATTO	Atento S.A.
+195	ATUS	Altice USA Inc Cl A
+196	AU	Anglogold Ashanti Ltd
+197	AUY	Yamana Gold
+198	AVA	Avista Corp
+199	AVAL	Grupo Aval Acciones Y Valores S
+200	AVAN	Avanti Acquisition Corp Cl A
+201	AVB	Avalonbay Communities
+202	AVD	American Vanguard Corp
+203	AVK	Advent Claymore Convertible Securities
+204	AVLR	Avalara Inc
+205	AVNS	Avanos Medical Inc
+206	AVNT	Avient Corp
+207	AVTR	Avantor Inc
+208	AVY	Avery Dennison Corp
+209	AVYA	Avaya Holdings Corp
+210	AWF	Alliancebernstein Global High Income Fund
+211	AWI	Armstrong World Industries Inc
+212	AWK	American Water Works
+213	AWP	Aberdeen Global Premier Properties Fund
+214	AWR	American States Water Company
+215	AX	Axos Financial Inc
+216	AXL	American Axle & Manufacturing
+217	AXO	Axos Financial Inc
+218	AXP	American Express Company
+219	AXR	Amrep Corp
+220	AXS	Axis Capital Holdings
+221	AXTA	Axalta Coating Systems Ltd
+222	AYI	Acuity Brands Inc
+223	AYX	Alteryx Inc
+224	AZEK	The Azek Company Inc Cl A
+225	AZO	Autozone
+226	AZRE	Azure Power Global Ltd
+227	AZZ	Azz Inc
+228	B	Barnes Group
+229	BA	Boeing Company
+230	BABA	Alibaba Group Holding
+231	BAC	Bank of America Corp
+232	BAF	Blackrock Income Inv Quality Trust
+233	BAH	Booz Allen Hamilton Holding Corp
+234	BAK	Braskem S.A.
+235	BALY	Bally's Corp
+236	BAM	Brookfield Asset Management Inc
+237	BAMH	Brookfield Finance Inc 4.625% Subordinated Notes
+238	BAMI	Brookfield Finance Inc 4.50%
+239	BANC	First Pactrust Bancorp
+240	BAP	Credicorp Ltd
+241	BAX	Baxter International Inc
+242	BB	Blackberry Ltd
+243	BBAR	Bbva Banco Frances S.A.
+244	BBD	Banco Bradesco S.A.
+245	BBDC	Barings Bdc Inc
+246	BBDO	Banco Bradesco S.A.
+247	BBF	Blackrock Muni Income Trust
+248	BBK	Blackrock Muni Trust
+249	BBL	Bhp Billiton Plc
+250	BBN	Balckrock Build America Trust
+251	BBU	Brookfield Business Partners LP
+252	BBVA	Banco Bilbao Viscaya Argentaria S.A.
+253	BBW	Build-A-Bear Workshop
+254	BBY	Best Buy Company
+255	BC	Brunswick Corp
+256	BCAT	Blackrock Capital Allocation Trust
+257	BCC	Boise Cascade L.L.C.
+258	BCE	BCE Inc
+259	BCEI	Bonanza Creek Energy Inc
+260	BCH	Banco DE Chile
+261	BCO	Brink's Company
+262	BCS	Barclays Plc
+263	BCSF	Bain Capital Specialty Finance Inc
+264	BCX	Blackrock Resources
+265	BDC	Belden Inc
+266	BDJ	Blackrock Enhanced Dividend Achievers
+267	BDN	Brandywine Realty Trust
+268	BDX	Becton Dickinson and Company
+269	BDXB	Becton Dickinson & CO
+270	BE	Bloom Energy Corp Cl A
+271	BEDU	Bright Scholar Education Holdings Ltd
+272	BEKE	Ke Holdings Inc ADR
+273	BEN	Franklin Resources
+274	BEP	Brookfield Renewable
+275	BEPC	Brookfield Renewable Corp
+276	BERY	Berry Global Group
+277	BEST	Best Inc
+278	BFAM	Bright Horizons Family Solutions Inc
+279	BFK	Blackrock Muni Income Trust
+280	BFLY	Butterfly Network Inc
+281	BFS	Saul Centers
+282	BFT	Foley Trasimene Acquisition Corp II Cl A
+283	BFY	Blackrock New York Muni Trust II
+284	BFZ	Blackrock California Muni Trust
+285	BG	Bunge Ltd
+286	BGB	Blackstone / Gso Strategic Cre
+287	BGH	Babson Capital Global Short Du
+288	BGIO	Blackrock 2022 Global Income Opportunity Trust
+289	BGR	Blackrock Energy and Resources Trust
+290	BGS	B&G Foods Holdings
+291	BGSF	Bgsf Inc
+292	BGT	Blackrock Global
+293	BGX	Blackstone Long-Short Credit Income Fund
+294	BGY	Blackrock International
+295	BH	Biglari Holdings Inc
+296	BHC	Bausch Health Companies Inc
+297	BHE	Benchmark Electronics
+298	BHK	Blackrock Core Trust
+299	BHLB	Berkshire Hills Bancorp
+300	BHP	Bhp Billiton Ltd
+301	BHR	Braemar Hotels & Resorts Inc
+302	BHV	Blackrock Virginia Muni Trust
+303	BHVN	Biohaven Pharmaceutical Holding Company Ltd
+304	BIF	Boulder Growth & Income Fund Inc
+305	BIG	Big Lots
+306	BILL	Bill.com Holdings Inc
+307	BIO	Bio-Rad Laboratories
+308	BIP	Brookfield Infrastructure Partners LP
+309	BIPC	Brookfield Infrastructure Partners LP Cl A
+310	BIT	Blackrock Multi-Sector Income T
+311	BJ	Bj's Wholesale Club Holdings Inc
+312	BK	Bank of New York Mellon Corp
+313	BKD	Brookdale Senior Living Inc
+314	BKE	Buckle Inc
+315	BKH	Black Hills Corp
+316	BKI	Black Knight Inc
+317	BKN	Blackrock Investment Quality Municipal
+318	BKR	Baker Hughes A Ge CO Cl A
+319	BKT	Blackrock Income Trust Inc
+320	BKU	BankUnited Inc
+321	BLD	Topbuild Corp
+322	BLE	Blackrock Muni Income Trust II
+323	BLK	Blackrock Inc
+324	BLL	Ball Corp
+325	BLW	Blackrock Ltd Duration Income Trust
+326	BLX	Banco Latinoamericano DE Comercio
+327	BMA	Banco Macro S.A.
+328	BME	Blackrock Health Sciences Trust
+329	BMEZ	Blackrock Health Sciences Trust II
+330	BMI	Badger Meter
+331	BMO	Bank of Montreal
+332	BMY	Bristol-Myers Squibb Company
+333	BNED	Barnes & Noble Education Inc C
+334	BNL	Broadstone Net Lease Inc Cl A
+335	BNS	Bank of Nova Scotia
+336	BNY	Blackrock New York Muni Trust Inc
+337	BOAC	Bluescape Opportunities Acquisition Cl A
+338	BOE	Blackrock Global
+339	BOH	Bank of Hawaii Corp
+340	BOOT	Boot Barn Holdings Inc
+341	BORR	Borr Drilling Ltd
+342	BOX	Box Inc
+343	BP	BP Plc
+344	BPMP	BP Midstream Partners LP
+345	BPT	BP Prudhoe Bay Royalty Trust
+346	BQ	Boqii Holding Limited ADR
+347	BR	Broadridge Financial Solutions Llc
+348	BRBR	Bellring Brands Inc Cl A
+349	BRC	Brady Corp
+350	BRFS	Brf-Brasil Foods S.A.
+351	BRMK	Broadmark Realty Capital Inc
+352	BRO	Brown & Brown
+353	BRT	BRT Realty Trust
+354	BRX	Brixmor Property Group Inc
+355	BSA	Brightsphere Investment Group Plc
+356	BSAC	Banco Santander Chile ADR
+357	BSBR	Banco Santander Brasil S.A.
+358	BSD	Blackrock Strategic Muni Trust Inc
+359	BSE	Blackrock New York Muni Income Trust
+360	BSIG	Brightsphere Investment Group Plc
+361	BSL	Blackstone Gso Senior Floating Rate
+362	BSM	Black Stone Minerals LP
+363	BSMX	Grupo Financiero Santander Mexico
+364	BSN	Broadstone Acquisition Corp Cl A
+365	BST	Blackrock Science and Technolo
+366	BSTZ	Blackrock Science and Technology Trust II
+367	BSX	Boston Scientific Corp
+368	BTA	Blackrock Long-Term Muni Advantage Trust
+369	BTI	British American Tobacco Industries
+370	BTO	John Hancock Bank and Thrift Fund
+371	BTT	Blackrock Municipal Target Term
+372	BTU	Peabody Energy Corp
+373	BTZ	Blackrock Preferred
+374	BUD	Anheuser-Busch Inbev S.A.
+375	BUI	Blackrock Utility and Infrastr
+376	BUR	Burford Capital Limited
+377	BURL	Burlington Stores Inc
+378	BV	Brightview Holdings Inc
+379	BVH	Bluegreen Vacations Hldg Corp.
+380	BVN	Compania Mina Buenaventura S.A.
+381	BW	Babcock & Wilcox Enterprises
+382	BWA	Borgwarner Inc
+383	BWG	Legg Mason Bw Global Income
+384	BWSN	Babcock & Wilcox Enterprises Inc
+385	BWXT	Bwx Technologies Inc
+386	BX	The Blackstone Group LP
+387	BXC	Bluelinx Holdings Inc
+388	BXG	Bluegreen Vacations Corp
+389	BXMT	Blackstone Mortgage Trust Inc Cl A
+390	BXMX	Nuveen Equity Premium
+391	BXP	Boston Properties
+392	BXS	Bancorpsouth Inc
+393	BY	Byline Bancorp Inc
+394	BYD	Boyd Gaming Corp
+395	BYM	Blackrock Muni Income Quality Trust
+396	BZH	Beazer Homes USA
+397	BZM	Blackrock Maryland Muni Trust
+398	C	Citigroup Inc
+399	CAAP	Corporacion America Airports Sa
+400	CABO	Cable One Inc
+401	CACI	Caci International
+402	CADE	Cadence Bancorp Cl A
+403	CAE	Cae Inc
+404	CAF	Morgan Stanley China A Share Fund Inc
+405	CAG	Conagra Brands Inc
+406	CAH	Cardinal Health
+407	CAI	Cai International
+408	CAJ	Canon Inc
+409	CAL	Caleres Inc
+410	CALX	Calix Inc
+411	CANG	Cango Inc ADR
+412	CAP	Capitol Investment Corp. V Cl A
+413	CAPL	Crossamerica Partners LP
+414	CARR	Carrier Global Corp [Carr/I]
+415	CARS	Cars.com Inc
+416	CAS	Cascade Acquisition Corp Cl A
+417	CAT	Caterpillar Inc
+418	CATO	Cato Corp
+419	CB	Chubb Ltd
+420	CBAH	CBRE Acquisition Holdings Inc Cl A
+421	CBB	Cincinnati Bell Inc
+422	CBD	Companhia Brasileira DE Distribuicao
+423	CBH	Allianzgi Convertible Income 2024 Target Term Fu
+424	CBRE	CBRE Group Inc
+425	CBT	Cabot Corp
+426	CBU	Community Bank System
+427	CBZ	Cbiz Inc
+428	CC	Chemours Company
+429	CCAC	Citic Capital Acquisition Corp Cl A
+430	CCEP	Coca Cola European Partners
+431	CCI	Crown Castle International Corp
+432	CCIV	Churchill Capital IV Cl A
+433	CCJ	Cameco Corp
+434	CCK	Crown Cork & Seal Company
+435	CCL	Carnival Corp
+436	CCM	Concord Medical Services
+437	CCO	Clear Channel Outdoor Holdings
+438	CCS	Century Communities Inc
+439	CCU	Compania Cervecerias Unidas S.A.
+440	CCV	Churchill Capital V Cl A
+441	CCX	Churchill Capital II Cl A
+442	CCZ	Comcast Corp
+443	CDAY	Ceridian Hcm Holding Inc
+444	CDE	Coeur Mining Inc
+445	CDR	Cedar Realty Trust Inc
+446	CE	Celanese Corp
+447	CEA	China Eastern Airlines Corp Ltd
+448	CEE	Central Europe and Russia Fund
+449	CEIX	Consol Energy Inc
+450	CEL	Cellcom Israel
+451	CELP	Cypress Energy Partners LP
+452	CEM	Clearbridge Energy MLP Fund Inc
+453	CEN	Center Coast MLP & Infrastructure
+454	CEO	Cnooc Ltd
+455	CEPU	Central Puerto S.A. ADR
+456	CEQP	Crestwood Equity Partners LP
+457	CF	Cf Industries Holdings
+458	CFG	Citizens Financial Group Inc/Ri
+459	CFR	Cullen/Frost Bankers
+460	CFX	Colfax Corp
+461	CFXA	Colfax Corp Tangible Equity Unit
+462	CGA	China Green Agriculture
+463	CHCT	Community Healthcare Trust Inc
+464	CHD	Church & Dwight Company
+465	CHE	Chemed Inc
+466	CHGG	Chegg Inc
+467	CHH	Choice Hotels International
+468	CHMI	Cherry Hill Mortgage Investmen
+469	CHN	China Fund
+470	CHRA	Charah Solutions Inc
+471	CHS	Chico's Fas
+472	CHT	Chunghwa Telecom CO Ltd
+473	CHWY	Chewy Inc
+474	CI	Cigna Corp
+475	CIA	Citizens Inc
+476	CIB	Bancolombia S.A.
+477	CIEN	Ciena Corp
+478	CIF	Colonial Intermediate High
+479	CIG	Comp En DE MN Cemig ADR
+480	CII	Blackrock Capital and Income Strategies
+481	CIM	Chimera Investment Corp
+482	CINR	Ciner Resources LP
+483	CIO	City Office REIT Inc
+484	CIR	Circor International
+485	CIT	Cit Group Inc
+486	CIXX	CI Financial Corp OR
+487	CKH	Seacor Smit Inc
+488	CL	Colgate-Palmolive Company
+489	CLA	Colonnade Acquisition Corp Cl A
+490	CLB	Core Laboratories N.V.
+491	CLDR	Cloudera Inc
+492	CLDT	Chatham Lodging Trust REIT
+493	CLF	Cleveland-Cliffs Inc
+494	CLGX	Corelogic
+495	CLH	Clean Harbors
+496	CLI	Mack-Cali Realty Corp
+497	CLII	Climate Real Impact I Acquisition Corp
+498	CLNC	Colony Northstar Credit Real Estate Inc Class
+499	CLNY	Colony Capital Inc
+500	CLPR	Clipper Realty Inc
+501	CLR	Continental Resources
+502	CLS	Celestica Inc
+503	CLVT	Clarivate Analytics Plc
+504	CLW	Clearwater Paper Corp
+505	CLX	Clorox Company
+506	CM	Canadian Imperial Bank of Commerce
+507	CMA	Comerica Inc
+508	CMC	Commercial Metals Company
+509	CMCM	Cheetah Mobile Inc
+510	CMD	Cantel Medical
+511	CMG	Chipotle Mexican Grill
+512	CMI	Cummins Inc
+513	CMO	Capstead Mortgage Corp
+514	CMP	Compass Minerals Intl Inc
+515	CMRE	Costamare Inc
+516	CMS	Cms Energy Corp
+517	CMSA	Cms Energy Corp 5.625% Junior Subordinate
+518	CMSC	Cms Energy Corp
+519	CMSD	Cms Energy Corp 5.875% Junior Subordinate
+520	CMU	Colonial Muni Income Trust
+521	CNA	Cna Financial Corp
+522	CNC	Centene Corp
+523	CND	Concord Acquisition Corp Cl A
+524	CNF	Cnfinance Holdings Ltd ADR
+525	CNHI	CNH Industrial N.V.
+526	CNI	Canadian National Railway
+527	CNK	Cinemark Holdings Inc
+528	CNMD	C O N M E D Cp
+529	CNNE	Cannae Holdings Inc
+530	CNO	Cno Financial Group
+531	CNP	Centerpoint Energy Inc
+532	CNQ	Canadian Natural Resources
+533	CNR	Cornerstone Building Brands Inc
+534	CNS	Cohn & Steers Inc
+535	CNX	CNX Resources Corp
+536	CO	Global Cord Blood Corp
+537	CODI	Compass Diversified Holdings
+538	COE	China Online Education Group
+539	COF	Capital One Financial Corp
+540	COG	Cabot Oil & Gas Corp
+541	COLD	Americold Realty Trust
+542	COO	Cooper Companies
+543	COP	Conocophillips
+544	COR	Coresite Realty Corp
+545	CORR	Corenergy Infrastructure Trust Inc
+546	COTY	Coty Inc
+547	CP	Canadian Pacific Railway
+548	CPA	Copa Holdings S.A.
+549	CPAC	Cementos Pacasmayo S.A.A
+550	CPB	Campbell Soup Company
+551	CPE	Callon Petroleum Company
+552	CPF	Central Pacific Financial Company
+553	CPG	Crescent Pt Energy
+554	CPK	Chesapeake Utilities Corp
+555	CPLG	Corepoint Lodging Inc
+556	CPRI	Capri Holdings Ltd
+557	CPS	Cooper Std Hld Inc
+558	CPSR	Capstar Special Acquisition Corp Cl A
+559	CPT	Camden Property Trust
+560	CR	Crane Company
+561	CRC	California Resources Corp
+562	CRH	CRH Plc
+563	CRHC	Cohn Robbins Holdings Corp Cl A
+564	CRI	Carter's Inc
+565	CRK	Comstock Resources
+566	CRL	Charles River Laboratories Intl
+567	CRM	Salesforce.com Inc
+568	CRS	Carpenter Technology Corp
+569	CRT	Cross Timbers Royalty Trust
+570	CRU	Crucible Acquisition Corporation Cl A
+571	CRY	Cryolife
+572	CS	Credit Suisse Group
+573	CSL	Carlisle Companies Inc
+574	CSLT	Castlight Health Inc
+575	CSPR	Casper Sleep Inc
+576	CSR	Centerspace
+577	CSTM	Constellium N.V.
+578	CSU	Capital Senior Living Corp
+579	CSV	Carriage Services
+580	CTAA	Qwest Corp
+581	CTAC	Cerberus Telecom Acquisition Corp Cl A
+582	CTB	Cooper Tire & Rubber Company
+583	CTBB	Qwest Corp
+584	CTDD	Qwest Corp 6.75% Notes Due 2057
+585	CTK	Cootek Cayman Inc
+586	CTLT	Catalent Inc
+587	CTO	Consolidated-Tomoka Land Company
+588	CTR	Clearbridge Energy MLP Fund IN
+589	CTRA	Contura Energy Inc
+590	CTS	Cts Corp
+591	CTT	Catchmark Timber Trust Inc
+592	CTVA	Corteva Inc
+593	CUB	Cubic Corp
+594	CUBB	Customers Bancorp Inc 5.375%
+595	CUBE	Cubesmart
+596	CUBI	Customers Bancorp
+597	CUK	Carnival Plc ADR
+598	CULP	Culp Inc
+599	CURO	Curo Group Holdings Corp
+600	CUZ	Cousins Properties Inc
+601	CVA	Covanta Holding Corp
+602	CVE	Cenovus Energy Inc
+603	CVEO	Civeo Corp
+604	CVI	Cvr Energy Inc
+605	CVNA	Carvana CO Cl A
+606	CVS	CVS Corp
+607	CVX	Chevron Corp
+608	CW	Curtiss-Wright Corp
+609	CWEN	Clearway Energy Inc Cl C
+610	CWH	Camping World Holdings Inc
+611	CWK	Cushman & Wakefield Plc
+612	CWT	California Water Service Group Holding
+613	CX	Cemex S.A.B. DE C.V.
+614	CXE	Colonial High Income Muni Trust
+615	CXH	Colonial Investment Grade Muni Trust
+616	CXP	Columbia Property Trust Inc
+617	CXW	Corecivic Inc
+618	CYD	China Yuchai International
+619	CYH	Community Health Systems
+620	CZZ	Cosan Ltd
+621	D	Dominion Resources
+622	DAC	Danaos Corp
+623	DAL	Delta Air Lines Inc
+624	DAN	Dana Inc
+625	DAO	Youdao Inc ADR
+626	DAR	Darling International Inc
+627	DASH	Doordash Inc Cl A
+628	DAVA	Endava Plc
+629	DB	Deutsche Bank Ag
+630	DBD	Diebold Nixdorf Inc
+631	DBI	Designer Brands Inc
+632	DBL	Doubleline Opportunistic Credi
+633	DCF	Dreyfus Alcentra Global Credit Income 2024 Targe
+634	DCI	Donaldson Company
+635	DCO	Ducommun Inc
+636	DCP	Dcp Midstream LP
+637	DCUE	Dominion Energy Inc 2019 Series A
+638	DD	Du Pont De.Nemours Inc
+639	DDD	3D Systems Corp
+640	DDF	Delaware Dividend & Income
+641	DDS	Dillard's
+642	DDT	Dillard's
+643	DE	Deere & Company
+644	DEA	Easterly Government Properties
+645	DECK	Deckers Outdoor Corp
+646	DEH	D8 Holdings Corp Cl A
+647	DEI	Douglas Emmett
+648	DELL	Dell Technologies Inc
+649	DEN	Denbury Inc
+650	DEO	Diageo Plc
+651	DESP	Despegar.com Corp
+652	DEX	Delaware Enhanced Global Dividend
+653	DFIN	Donnelly Financial Solutions Inc
+654	DFNS	LGL Systems Acquisition Corp
+655	DFP	Flaherty & Crumrine Dynamic
+656	DFS	Discover Financial Services
+657	DG	Dollar General Corp
+658	DGNR	Dragoneer Growth Opportunities Corp Cl A
+659	DGX	Quest Diagnostics Inc
+660	DHF	Dreyfus High Yield Strategies Fund
+661	DHI	D.R. Horton
+662	DHR	Danaher Corp
+663	DHT	Dht Holdings
+664	DHX	Dice Holdings
+665	DIAX	Nuveen Dow
+666	DIN	Dineequity Inc
+667	DIS	Walt Disney Company
+668	DK	Delek US Holdings
+669	DKL	Delek Logistics Partners LP
+670	DKS	Dick's Sporting Goods Inc
+671	DL	China Distance Education Holdings
+672	DLB	Dolby Laboratories
+673	DLNG	Dynagas Lng Partners LP
+674	DLR	Digital Realty Trust
+675	DLX	Deluxe Corp
+676	DLY	Doubleline Yield Opportunities Fund Common Share
+677	DM	Desktop Metal Inc
+678	DMB	Dreyfus Municipal Bond Infrastr
+679	DMO	Western Asset Mortgage Defined Opp
+680	DMS	Digital Media Solutions Inc
+681	DMYD	Dmy Technology Group Inc II Cl A
+682	DMYI	Dmy Technology Group Inc III Cl A
+683	DNB	Dun & Bradstreet Holdings Inc
+684	DNK	Phoenix Tree Holdings Limited ADR
+685	DNMR	Danimer Scientific Inc
+686	DNOW	Now Inc
+687	DNP	Duff & Phelps Utilities Income
+688	DOC	Physicians Realty Trust
+689	DOOR	Masonite Worldwide Hld
+690	DOV	Dover Corp
+691	DOW	Dow Inc
+692	DPG	Duff & Phelps Global Utility
+693	DPZ	Domino's Pizza Inc
+694	DQ	Daqo New Energy
+695	DRD	Drdgold Ltd
+696	DRE	Duke Realty Corp
+697	DRH	Diamondrock Hospitality Company
+698	DRI	Darden Restaurants
+699	DRQ	Dril-Quip
+700	DRUA	Dominion Resources Inc
+701	DS	Drive Shack Inc
+702	DSE	Duff & Phelps Select Energy ML
+703	DSL	Doubleline Income Solutions Fun
+704	DSM	Dreyfus Strategic Muni Bond Fund
+705	DSSI	Diamond S Shipping Inc
+706	DSU	Blackrock Debt Strategies Fund
+707	DSX	Diana Shipping Inc
+708	DT	Dynatrace Inc
+709	DTB	Dte Energy Company 2020 Series G 4.375% Junior S
+710	DTE	Dte Energy Company
+711	DTF	Duff & Phelps Utilities Tax-Free Income
+712	DTJ	Dte Energy Company 2016 Series
+713	DTP	Dte Energy CO Units
+714	DTW	Dte Energy Company 2017 Series E 5.25% Jr
+715	DTY	Dignity Plc
+716	DUC	Duff & Phelps Utility & Corporate Trust
+717	DUK	Duke Energy Corp
+718	DUKB	Duke Energy Corp 5.625%
+719	DUKH	Duke Energy Corp 5.125%
+720	DVA	Davita Healthcare Partners Inc
+721	DVD	Dover Downs Entertainment
+722	DVN	Devon Energy Corp
+723	DWIN	Delwinds Insurance Acquisition Corp Cl A
+724	DX	Dynex Capital
+725	DXC	Dxc Technology Company
+726	DY	Dycom Industries
+727	DYFN	Angel Oak Dynamic Financial Strategies
+728	E	Eni S.P.A.
+729	EAF	Graftech International Ltd
+730	EAI	Entergy Arkansas Inc
+731	EARN	Ellington Residential Mortgage
+732	EAT	Brinker International
+733	EB	Eventbrite Inc
+734	EBF	Ennis Inc
+735	EBR	Centrais Electricas Brazil
+736	EBS	Emergent Biosolutions
+737	EC	Ecopetrol S.A.
+738	ECC	Eagle Point Credit CO Inc
+739	ECCB	Eagle Point Credit Company Inc
+740	ECCX	Eagle Point Credit Company Inc 6.6875% Notes Du
+741	ECCY	Eagle Point Credit Company Inc
+742	ECL	Ecolab Inc
+743	ECOM	Channeladvisor Corp
+744	ED	Consolidated Edison Company of New York
+745	EDD	Emerging Markets Domestic Debt Fund
+746	EDF	Stone Harbor Emerging Markets
+747	EDI	Stone Harbor Emerging Markets
+748	EDN	Empresa Distribuidora Y Comercializadora
+749	EDU	New Oriental Education & Technology Group
+750	EEA	European Equity Fund
+751	EEX	Emerald Expositions Events Inc
+752	EFC	Ellington Financial Llc
+753	EFF	Eaton Vance Floating-Rate Inco
+754	EFL	Eaton Vance Floating-Rate 2022 Target Term Trust
+755	EFR	Eaton Vance Senior Floating-Rate Fund
+756	EFT	Eaton Vance Floating Rate Income Trust
+757	EFX	Equifax Inc
+758	EGF	Blackrock Enhanced Government Fund
+759	EGHT	8X8 Inc
+760	EGO	Eldorado Gold Corp
+761	EGP	Eastgroup Properties
+762	EGY	Vaalco Energy Inc
+763	EHC	Encompass Health Corp
+764	EHI	Western Asset Global High
+765	EHT	Eaton Vance High Income 2021 Ta
+766	EIC	Eagle Point Income Company Inc
+767	EIG	Employers Holdings Inc
+768	EIX	Edison International
+769	EL	Estee Lauder Companies
+770	ELAN	Elanco Animal Health Inc
+771	ELAT	Elanco Animal Health Inc Units
+772	ELC	Entergy Louisiana Llc
+773	ELF	E.L.F. Beauty Inc
+774	ELP	Companhia Paranaense DE Energia
+775	ELS	Equity Lifestyle Properties
+776	ELVT	Elevate Credit Inc
+777	ELY	Callaway Golf Company
+778	EMD	Western Asset Emerging Market Debt Fund Inc
+779	EME	Emcor Group
+780	EMF	Templeton Emerging Markets Fund
+781	EMN	Eastman Chemical Company
+782	EMO	Clearbridge Energy MLP Opportu
+783	EMP	Entergy Mississippi Inc 4.9% Bonds
+784	EMPW	Empower Ltd Cl A
+785	EMR	Emerson Electric Company
+786	ENB	Enbridge Inc
+787	ENBA	Enbridge Inc 6.375% Fixed-To-Floating Rate
+788	ENBL	Enable Midstream Partners LP
+789	ENIA	Enersis Americas S.A. American
+790	ENIC	Enersis Chile S.A. ADR
+791	ENJ	Entergy New Orleans Inc
+792	ENLC	Enlink Midstream Llc
+793	ENO	Entergy New Orleans Incfirst
+794	ENPC	Executive Network Partnering Corp Cl A
+795	ENR	Energizer Holdings Inc
+796	ENS	Enersys Inc
+797	ENV	Envestnet Inc
+798	ENVA	Enova International Inc
+799	ENZ	Enzo Biochem
+800	EOD	Wells Fargo Global Dividend Opportunity
+801	EOG	Eog Resources
+802	EOI	Eaton Vance Enhance Equity
+803	EOS	Eaton Vance Enhanced Equity II
+804	EOT	Eaton Vance Muni Income Trust
+805	EPAC	Actuant Corp
+806	EPAM	Epam Systems Inc
+807	EPC	Edgewell Personal Care
+808	EPD	Enterprise Products Partners LP
+809	EPR	Entertainment Properties Trust
+810	EPRT	Essential Properties Realty Trust Inc
+811	EQC	Equity Commonwealth
+812	EQD	Equity Distribution Acquisition Corp Cl A
+813	EQH	Axa Equitable Holdings Inc
+814	EQNR	Equinor ASA
+815	EQR	Equity Residential
+816	EQS	Equus Total Return
+817	EQT	Eqt Corp
+818	ERF	Enerplus Corp
+819	ERJ	Embraer-Empresa Brasileira DE Aeronautica
+820	ES	Eversource Energy
+821	ESE	Esco Technologies Inc
+822	ESGC	Eros Stx Global Corp.
+823	ESI	Element Solutions Inc
+824	ESNT	Essent Group Ltd
+825	ESRT	Empire State Realty Trust Inc
+826	ESS	Essex Property Trust
+827	ESTC	Elastic N.V.
+828	ESTE	Earthstone Energy
+829	ET	Energy Transfer LP
+830	ETB	Eaton Vance Tax-Managed Buy-Write
+831	ETG	Eaton Vance Tax-Advantaged Global Dividend
+832	ETH	Ethan Allen Interiors Inc
+833	ETJ	Eaton Vance Risk-Managed Diversified Equity
+834	ETM	Entercom Communications Corp
+835	ETN	Eaton Corp
+836	ETO	Eaton Vance Tax-Advantage Global Dividend Opp
+837	ETR	Entergy Corp
+838	ETRN	Equitrans Midstream Corp
+839	ETV	Eaton Vance Corp
+840	ETW	Eaton Vance Corp
+841	ETWO	E2Open Parent Hldg Inc
+842	ETX	Eaton Vance Municipal Income T
+843	ETY	Eaton Vance Tax-Managed Diversified Equity
+844	EURN	Euronav NV
+845	EV	Eaton Vance Corp
+846	EVA	Enviva Partners LP
+847	EVC	Entravision Communications Corp
+848	EVF	Eaton Vance Senior Income Trust
+849	EVG	Eaton Vance Short Diversified
+850	EVH	Evolent Health Inc Cl A Com
+851	EVN	Eaton Vance Muni Income Trust
+852	EVR	Evercore Partners Inc
+853	EVRG	Evergy Inc
+854	EVRI	Everi Holdings Inc
+855	EVT	Eaton Vance Tax Advantaged Dividend
+856	EVTC	Evertec Inc
+857	EW	Edwards Lifesciences Corp
+858	EXD	Eaton Vance Tax-Advantaged Bond
+859	EXG	Eaton Vance Tax-Managed Global Diversified Equit
+860	EXK	Endeavour Silver Corp
+861	EXP	Eagle Materials Inc
+862	EXPR	Express Inc
+863	EXR	Extra Space Storage Inc
+864	EXTN	Exterran Corp
+865	F	Ford Motor Company
+866	FAF	First American Corp
+867	FAII	Fortress Value Acquisition Corp II Cl A
+868	FAM	First Trust/Aberdeen Global Opportunity
+869	FBC	Flagstar Bancorp
+870	FBHS	Fortune Brands Home & Security
+871	FBK	Fb Financial Corp
+872	FBP	First Bancorp
+873	FC	Franklin Covey Company
+874	FCF	First Commonwealth Financial Corp
+875	FCN	Fti Consulting
+876	FCPT	Four Corners Property Trust IN
+877	FCRW	First Eagle Alternative Capital Gbc Inc
+878	FCRZ	First Eagle Alternative Capital Bdc Inc
+879	FCT	Senior Floating Rate II
+880	FCX	Freeport-Mcmoran Inc
+881	FDEU	First Trust Dynamic Europe Equi
+882	FDP	Fresh Del Monte Produce
+883	FDS	Factset Research Systems Inc
+884	FDX	Fedex Corp
+885	FE	Firstenergy Corp
+886	FEDU	Four Seasons Education Cayman Inc
+887	FEI	First Trust MLP and Energy Inc
+888	FENG	Phoenix New Media Ltd
+889	FEO	First Trust/Aberdeen Emerging Opportunity Fund
+890	FET	Forum Energy Technologies Inc
+891	FF	Futurefuel Corp
+892	FFA	First Trust Enhanced Equity Income Fund
+893	FFC	Flaherty Crumrine/Claymore Preferred Securities
+894	FFG	Fbl Financial Group
+895	FGB	Specialty Finance and Financial Fund
+896	FGNA	Fg New America Acquisition Corp Cl A
+897	FHI	Federated Investors
+898	FHN	First Horizon Corp
+899	FI	Frank's International N.V.
+900	FICO	Fair Isaac and Company Inc
+901	FIF	First Trust Energy Infrastruct
+902	FINS	Angel Oak Financial Strategies Income Term Trust
+903	FINV	Finvolution Group
+904	FIS	Fidelity National Information Services
+905	FIV	First Trust Senior Floating Rate 2022 Target Ter
+906	FIX	Comfort Systems USA
+907	FL	Footlocker Inc
+908	FLC	Flaherty & Crumrine/Claymore Total Return
+909	FLNG	Flex Lng Ltd
+910	FLO	Flowers Foods
+911	FLOW	SPX Flow Inc
+912	FLR	Fluor Corp
+913	FLS	Flowserve Corp
+914	FLT	Fleetcor Technologies
+915	FLY	Fly Leasing Ltd
+916	FMAC	Firstmark Horizon Acquisition Corp Cl A
+917	FMC	FMC Corp
+918	FMN	Federated Premier Muni
+919	FMO	Fiduciary/Claymore MLP Opportunity Fund
+920	FMS	Fresenius Medical Care Corp
+921	FMX	Fomento Economico Mexicano S.A.B. DE C.V.
+922	FMY	First Trust/Fidac Mortgage Income Fund
+923	FN	Fabrinet
+924	FNB	F.N.B. Corp
+925	FND	Floor & Decor Holdings Inc
+926	FNF	Fidelity National Financial
+927	FNV	Franco Nev Corp
+928	FOE	Ferro Corp
+929	FOF	Cohen & Steers Closed-End Opportunity Fund
+930	FOR	Forestar Group Inc
+931	FOUR	Shift4 Payments Inc
+932	FPAC	Far Peak Acquisition Corporation Cl A
+933	FPF	First Trust Intermediate Durat
+934	FPH	Five Point Holdings Llc Cl A
+935	FPI	Farmland Partners Inc
+936	FPL	First Trust New Opportunities M
+937	FR	First Industrial Realty Trust
+938	FRA	Blackrock Floating Rate Income Fund
+939	FRC	First Republic Bank
+940	FRO	Frontline Ltd
+941	FRT	Federal Realty Investment Trust
+942	FRX	Forest Road Acquisition Corp Cl A
+943	FSD	High Income Long Short Fund
+944	FSK	FS KKR Capital Corp
+945	FSKR	FS KKR Capital Corp II
+946	FSLF	First Eagle Senior Loan Fund
+947	FSLY	Fastly Inc
+948	FSM	Fortuna Silver Mines
+949	FSR	Fisker Inc
+950	FSS	Federal Signal Corp
+951	FST	Fast Acquisition Corp Cl A
+952	FT	Franklin Universal Trust
+953	FTAI	Fortress Transportation & Infra
+954	FTCH	Farfetch Ltd Cl A
+955	FTHY	First Trust High Yield Opportunities 2027 Term F
+956	FTI	Technipfmc Plc
+957	FTK	Flotek Industries
+958	FTS	Fortis Inc
+959	FTV	Fortive Corp
+960	FUBO	Fubotv Inc
+961	FUL	H. B. Fuller Company
+962	FUN	Cedar Fair LP
+963	FUSE	Fusion Acquisition Corp Cl A
+964	FVRR	Fiverr International Ltd
+965	FVT	Fortress Value Acquisition Corp. III Cl A
+966	G	Genpact Ltd
+967	GAB	Gabelli Equity Trust
+968	GAM	General American Investors
+969	GATO	Gatos Silver Inc
+970	GATX	GATX Corp
+971	GB	Global Blue Group Holding Ag
+972	GBAB	Guggenheim Taxable Muni Bond Inv Grd Debt Trst
+973	GBL	Gamco Investors
+974	GBX	Greenbrier Companies
+975	GCI	Gannett CO Inc
+976	GCO	Genesco Inc
+977	GCP	Gcp Applied Technologies Inc C
+978	GCV	Gabelli Convertible and Income Securities
+979	GD	General Dynamics Corp
+980	GDDY	Godaddy Inc
+981	GDL	The Gdl Fund
+982	GDO	Western Asset Global Corporate Defined
+983	GDOT	Green Dot Corp
+984	GDV	Gabelli Dividend
+985	GE	General Electric Company
+986	GEF	Greif Bros. Corp
+987	GEL	Genesis Energy LP
+988	GEN	Genesis Healthcare Inc
+989	GEO	Geo Group Inc
+990	GER	Goldman Sachs MLP Energy Renai
+991	GES	Guess Inc
+992	GF	New Germany Fund
+993	GFF	Griffon Corp
+994	GFI	Gold Fields Ltd
+995	GFL	Gfl Environmental Inc
+996	GFLU	Gfl Environmental Inc Tangible Equity Units
+997	GFX	Golden Falcon Acquisition Corp Cl A
+998	GGB	Gerdau S.A.
+999	GGG	Graco Inc
+1000	GGM	Guggenheim Credit Allocation F
+1001	GGT	Gabelli Global Multi-Media Trust
+1002	GGZ	Gabelli Global Small and Mid CA
+1003	GHC	Graham Holdings Company
+1004	GHG	Greentree Hospitality Group Ltd ADR
+1005	GHL	Greenhill & CO Inc
+1006	GHLD	Guild Holdings Company Cl A
+1007	GHM	Graham Corp
+1008	GHY	Prudential Global Short Durati
+1009	GIB	CGI Group
+1010	GIK	Gigcapital3 Inc
+1011	GIL	Gildan Activewear
+1012	GIM	Templeton Global
+1013	GIS	General Mills
+1014	GIX	Gigcapital2 Inc
+1015	GJH	Strats Sm Trust For United States Cellular Corp
+1016	GJO	Strats Sm Trust For Wal-Mart Stores Inc Securiti
+1017	GJP	Strats Sm Trust For Dominion Resources Inc Secur
+1018	GJR	Strats Sm Trust For The Procter & Gamble CO Sec
+1019	GJS	Strats Sm Trust For Goldman Sachs Group Securiti
+1020	GJT	Strats Sm Trust For Allstate Corp Securities Ser
+1021	GKOS	Glaukos Corp
+1022	GL	Globe Life Inc
+1023	GLEO	Galileo Acquisition Corp
+1024	GLOB	Globant S.A.
+1025	GLOG	Gaslog Ltd
+1026	GLOP	Gaslog Partners LP
+1027	GLP	Global Partners LP
+1028	GLT	Glatfelter
+1029	GLW	Corning Inc
+1030	GM	General Motors Company
+1031	GME	Gamestop Corp
+1032	GMED	Globus Medical Inc
+1033	GMRE	Global Medical REIT Inc
+1034	GMS	Gms Inc
+1035	GMTA	GATX Corp 5.625% Senior
+1036	GNE	Genie Energy Ltd Cl B
+1037	GNK	Genco Shipping & Trading Ltd
+1038	GNL	Global Net Lease Inc
+1039	GNPK	Genesis Park Acquisition Corp Cl A
+1040	GNRC	Generac Holdings Inc
+1041	GNT	Gabelli Natural Resources Gold
+1042	GNW	Genworth Financial Inc
+1043	GOAC	Go Acquisition Corp Cl A
+1044	GOF	Claymore/Guggenheim Strategic Fund
+1045	GOL	Gol Linhas Aereas Inteligentes S.A.
+1046	GOLD	Barrick Gold Corp
+1047	GOLF	Acushnet Holdings Corp
+1048	GOOS	Canada Goose Holdings Inc
+1049	GPC	Genuine Parts Company
+1050	GPI	Group 1 Automotive
+1051	GPJA	Georgia Power Company Series 2017A 5.00% Jr
+1052	GPK	Graphic Packaging Holding Company
+1053	GPM	Guggenheim Enhanced Equity
+1054	GPMT	Granite Point Mortgage Trust Inc
+1055	GPN	Global Payments Inc
+1056	GPRK	Geopark Hlds Lmtd
+1057	GPS	Gap Inc
+1058	GPX	Gp Strategies Corp
+1059	GRA	W.R. Grace & Company
+1060	GRC	Gorman-Rupp Company
+1061	GRUB	Grubhub Inc
+1062	GRX	The Gabelli Healthcare & Wellness Trust
+1063	GS	Goldman Sachs Group
+1064	GSAH	GS Acquisition Holdings Corp II Cl A
+1065	GSBD	Goldman Sachs Bdc Inc
+1066	GSK	Glaxosmithkline Plc
+1067	GSL	Global Ship Lease Inc
+1068	GSLD	Global Ship Lease Inc 8.00% Senior Notes Due 20
+1069	GSX	Gsx Techedu Inc ADR
+1070	GTES	Gates Industrial Corp Plc
+1071	GTLS	Chart Industries IN
+1072	GTN	Gray Television
+1073	GTS	Triple-S Management Corp
+1074	GTT	Global Telcom & Technology Inc
+1075	GTY	Getty Realty Corp
+1076	GUT	Gabelli Utility Trust
+1077	GVA	Granite Construction Inc
+1078	GWB	Great Western Bancorp Inc
+1079	GWRE	Guidewire Software Inc
+1080	GWW	W.W. Grainger
+1081	GYC	Corporate Asset Backed Corp Cabco
+1082	H	Hyatt Hotels Corp
+1083	HAE	Haemonetics Corp
+1084	HAL	Halliburton Company
+1085	HASI	Hannon Armstrong Sustainable IN
+1086	HBB	Hamilton Beach Brands Holding Company Cl A
+1087	HBI	Hanesbrands Inc
+1088	HBM	Hudbay Minerals Inc
+1089	HCA	Hca Holdings Inc
+1090	HCC	Warrior Met Coal Inc
+1091	HCHC	Hc2 Holdings Inc
+1092	HCI	Homeowners Choice
+1093	HCXY	Hercules Capital Inc 6.25% Notes Due 2033
+1094	HCXZ	Hercules Capital Inc 5.25% Notes Due 2025
+1095	HD	Home Depot
+1096	HDB	Hdfc Bank Ltd
+1097	HE	Hawaiian Electric Industries
+1098	HEI	Heico Corp
+1099	HEP	Holly Energy Partners LP
+1100	HEQ	John Hancock Hedged Eqty & Inc
+1101	HES	Hess Corp
+1102	HESM	Hess Midstream Partners LP
+1103	HEXO	Hexo Corp
+1104	HFC	Hollyfrontier Corp
+1105	HFRO	Highland Floating Rate Opportunities Fund
+1106	HGH	The Hartford Financial Srvcs G
+1107	HGLB	Highland Global Allocation Fund
+1108	HGV	Hilton Grand Vacations Inc
+1109	HHC	Howard Hughes Corp
+1110	HI	Hillenbrand Inc
+1111	HIE	Miller/Howard High Income Eqty
+1112	HIG	Hartford Financial Services Group
+1113	HIGA	H.I.G. Acquisition Corp Cl A
+1114	HII	Huntington Ingalls Industries
+1115	HIL	Hill International Inc
+1116	HIMS	Hims & Hers Health Inc
+1117	HIO	Western Asset High
+1118	HIW	Highwoods Properties
+1119	HIX	Western Asset High Income Fund II Inc
+1120	HKIB	Amtd International Inc
+1121	HL	Hecla Mining Company
+1122	HLF	Herbalife Ltd
+1123	HLI	Houlihan Lokey
+1124	HLT	Hilton Inc
+1125	HLX	Helix Energy Solutions Group
+1126	HMC	Honda Motor Company
+1127	HMI	Huami Corp ADR
+1128	HMLP	Hoegh Lng Partners LP
+1129	HMN	Horace Mann Educators Corp
+1130	HMY	Harmony Gold Mining CO Ltd
+1131	HNGR	Hanger Inc
+1132	HNI	Hon Industries Inc
+1133	HNP	Huaneng Power Intl
+1134	HOG	Harley-Davidson Inc
+1135	HOME	At Home Group Inc
+1136	HON	Honeywell International Inc
+1137	HOV	Hovnanian Enterprises Inc
+1138	HP	Helmerich & Payne
+1139	HPE	Hewlett Packard Enterprise Comp
+1140	HPF	John Hancock Pfd II
+1141	HPI	John Hancock Preferred
+1142	HPP	Hudson Pacific Properties
+1143	HPQ	HP Inc
+1144	HPR	Highpoint Resources Corp
+1145	HPS	John Hancock Preferred Income Fund III
+1146	HPX	Hpx Corp Cl A
+1147	HQH	Tekla Healthcare Investors
+1148	HQL	Tekla Life Sciences Investors
+1149	HR	Healthcare Realty Trust Inc
+1150	HRB	H&R Block
+1151	HRC	Hill-Rom Holdings Inc
+1152	HRI	Herc Holdings Inc
+1153	HRL	Hormel Foods Corp
+1154	HRTG	Heritage Insurance Holdings
+1155	HSBC	HSBC Holdings Plc
+1156	HSC	Harsco Corp
+1157	HSY	Hershey Foods Corp
+1158	HT	Hersha Hospitality Trust
+1159	HTA	Healthcare Trust of America
+1160	HTD	John Hancock Tax Advantaged Dividend
+1161	HTFA	Horizon Technology Finance 6.25% Notes Due 2022
+1162	HTGC	Hercules Technology Growth Capital
+1163	HTH	Hilltop Holdings Inc
+1164	HTPA	Highland Transcend Partners I Corp Cl A
+1165	HTY	John Hancock Tax-Advantaged Global
+1166	HUBB	Hubbell Inc B
+1167	HUBS	Hubspot Inc
+1168	HUM	Humana Inc
+1169	HUN	Huntsman Corp
+1170	HUYA	Huya Inc
+1171	HVT	Haverty Furniture Companies
+1172	HWM	Howmet Aerospace Inc
+1173	HXL	Hexcel Corp
+1174	HY	Hyster-Yale Materials Handling
+1175	HYB	New America High
+1176	HYI	Western Asset High Yield Defined
+1177	HYLN	Hyliion Hldg Corp Cl A
+1178	HYT	Blackrock High Yield Fund VI Inc
+1179	HZAC	Horizon Acquisition Corp Cl A
+1180	HZN	Horizon Global Corp Comm
+1181	HZO	Marinemax Inc
+1182	HZON	Horizon Acquisition Corp II Cl A
+1183	IAA	Iaa Inc
+1184	IACA	ION Acquisition Corp 1 Ltd Cl A
+1185	IAE	VOYA Asia Pacific High Dividend Equity
+1186	IAG	Iamgold Corp
+1187	IBA	Industrias Bachoco S.A. DE C.V.
+1188	IBM	International Business Machines
+1189	IBN	Icici Bank Ltd
+1190	IBP	Installed Building Products
+1191	ICD	Independence Contract Drilling Inc
+1192	ICE	Intercontinental Exchange
+1193	ICL	Israel Chemicals Ltd
+1194	IDA	Idacorp Inc
+1195	IDE	VOYA Infrastructure Industrial
+1196	IDT	IDT Corp
+1197	IEX	Idex Corp
+1198	IFF	International Flavors & Fragrances
+1199	IFFT	International Flavors & Fragrances Inc
+1200	IFN	India Fund
+1201	IFS	Intercorp Financial Services Inc
+1202	IGA	VOYA Global Advantage and Premium
+1203	IGD	VOYA Global Equity Dividend and Premium
+1204	IGI	Western Asset Investment Grade Defined
+1205	IGR	VOYA Clarion Global Real Estate
+1206	IGT	International Game Technology
+1207	IH	Ihuman Inc ADR
+1208	IHC	Independence Holding Company
+1209	IHD	VOYA Emerging Markets High Dividend
+1210	IHG	Intercontinental Hotels Group
+1211	IHIT	Invesco High Income 2023 Target Term Fund
+1212	IHTA	Invesco High Income 2024 Target Term Fund
+1213	IIAC	Investindustrial Acquisition Corp Cl A
+1214	IID	VOYA International High Dividend Equity
+1215	IIF	Morgan Stanley India Investment Fund Inc
+1216	IIM	Invesco Insured Muni Income Trust
+1217	IIPR	Innovative Industrial Properties
+1218	IMAX	Imax Corp
+1219	IMPX	Aea-Bridges Impact Corp Cl A
+1220	INFO	IHS Markit Ltd
+1221	INFY	Infosys Ltd
+1222	ING	ING Groep N.V. ADR
+1223	INGR	Ingredion Inc
+1224	INN	Summit Hotel Properties
+1225	INSI	Insight Select Income Fund
+1226	INSP	Inspire Medical Systems Inc
+1227	INSW	International Seaways Inc
+1228	INT	World Fuel Services Corp
+1229	INVH	Invitation Homes Inc
+1230	IO	ION Geophysical Corp
+1231	IP	International Paper Company
+1232	IPG	Interpublic Group of Companies
+1233	IPI	Intrepid Potash Inc
+1234	IPOD	Social Capital Hedosophia Corp IV Cl A
+1235	IPOE	Social Capital Hedosophia Corp V Cl A
+1236	IPOF	Social Capital Hedosophia Corp VI Cl A
+1237	IPV	Interprivate Acquisition Corp
+1238	IQI	Invesco Quality Muni Income Trust
+1239	IQV	Iqvia Holdings Inc
+1240	IR	Ingersoll Rand Inc
+1241	IRL	Irish Investment Fund
+1242	IRM	Iron Mountain Inc
+1243	IRR	VOYA Risk Managed Natural Resources Fund
+1244	IRS	Irsa Inversiones Y Representaciones S.A.
+1245	IRT	Independence Realty Trust Inc
+1246	ISD	Prudential Short Duration High
+1247	IT	Gartner Inc
+1248	ITCB	Itau Corpbanca
+1249	ITGR	Integer Holdings Corp
+1250	ITT	ITT Inc
+1251	ITUB	Itau Unibanco Banco Holding S.A.
+1252	ITW	Illinois Tool Works Inc
+1253	IVC	Invacare Corp
+1254	IVH	Ivy High Income Opportunities
+1255	IVR	Invesco Mortgage Capital Inc
+1256	IVZ	Invesco Plc
+1257	IX	Orix Corp ADR
+1258	J	Jacobs Engineering Group Inc
+1259	JAX	J. Alexander's Holdings Inc C
+1260	JBGS	Jbg Smith Properties
+1261	JBK	Lehman Abs Corp
+1262	JBL	Jabil Circuit
+1263	JBT	John Bean Technologies Corp
+1264	JCE	Nuveen Core Equity Alpha Fund
+1265	JCI	Johnson Controls Intl
+1266	JCO	Nuveen Credit Opportunities 2022 Target Term Fun
+1267	JDD	Nuveen Diversified Dividend and
+1268	JE	Just Energy Group Inc
+1269	JEF	Jefferies Financial Group Inc
+1270	JELD	Jeld-Wen Holding Inc
+1271	JEMD	Nuveen Emerging Markets Debt 2022 Target Term Fu
+1272	JEQ	Japan Equity Fund
+1273	JFR	Nuveen Floating Rate
+1274	JGH	Nuveen Global High Income Fund
+1275	JHAA	Nuveen High Income 2023 Target Term Fund
+1276	JHB	Nuveen High Income November 2021 Target Term Fun
+1277	JHG	Janus Henderson Group Plc
+1278	JHI	John Hancock Investors Trust
+1279	JHS	John Hancock Income Securities Trust
+1280	JHX	James Hardie Industries Se
+1281	JIH	Juniper Industrial Holdings Inc Cl A
+1282	JILL	J. Jill Inc
+1283	JKS	Jinkosolar Holding Company Ltd
+1284	JLL	Jones Lang Lasalle Inc
+1285	JLS	Nuveen Mortgage Opportunity Term Fund
+1286	JMIA	Jumia Technologies Ag ADR
+1287	JMM	Nuveen Multi-Market Income Fund Inc
+1288	JMP	JMP Group Inc
+1289	JNJ	Johnson & Johnson
+1290	JNPR	Juniper Networks
+1291	JOE	St. Joe Company
+1292	JOF	Japan Smaller Capitalization Fund Inc
+1293	JP	Jupai Holdings Ltd
+1294	JPC	Nuveen Preferred and Convertible
+1295	JPI	Nuveen Preferred and Income Term Fund
+1296	JPM	JP Morgan Chase & Company
+1297	JPS	Nuveen Quality Preferred 2
+1298	JPT	Nuveen Preferred and Income 2022 Term Fund
+1299	JQC	Nuveen Preferred and Convertible 2
+1300	JRI	Nuveen Real Asset Income and Gr
+1301	JRO	Nuveen Floating Rate Income Opportuntiy
+1302	JRS	Nuveen Real Estate Fund
+1303	JSD	Nuveen Short Duration Credit O
+1304	JT	Jianpu Technology Inc
+1305	JTA	Nuveen Tax-Advantaged Total Return
+1306	JTD	Nuveen Tax-Advantaged Dividend Growth
+1307	JWN	Nordstrom
+1308	JWS	Jaws Acquisition Corp Cl A.
+1309	K	Kellogg Company
+1310	KAI	Kadant Inc
+1311	KAMN	Kaman Corp
+1312	KAR	Kar Auction Services Inc
+1313	KB	KB Financial Group Inc
+1314	KBH	KB Home
+1315	KBR	KBR Inc
+1316	KEN	Kenon Holdings Ltd
+1317	KEP	Korea Electric Power Corp
+1318	KEX	Kirby Corp
+1319	KEY	Keycorp
+1320	KEYS	Keysight Technologies Inc Comm
+1321	KF	Korea Fund
+1322	KFS	Kingsway Financial Services
+1323	KFY	Korn/Ferry International
+1324	KGC	Kinross Gold Corp
+1325	KIM	Kimco Realty Corp
+1326	KIO	KKR Income Opportunities Fund
+1327	KKR	KKR & CO LP
+1328	KL	Kirkland Lake Gold Ltd
+1329	KMB	Kimberly-Clark Corp
+1330	KMF	Kayne Anderson Midstream Energy Fund
+1331	KMI	Kinder Morgan
+1332	KMPR	Kemper Corp
+1333	KMT	Kennametal Inc
+1334	KMX	Carmax Inc
+1335	KN	Knowles Corp
+1336	KNL	Knoll Inc
+1337	KNOP	Knot Offshore Partners LP
+1338	KNX	Knight-Swift Transporation Inc
+1339	KO	Coca-Cola Company
+1340	KODK	Eastman Kodak
+1341	KOF	Coca Cola Femsa S.A.B. DE C.V.
+1342	KOP	Koppers Holdings Inc
+1343	KOS	Kosmos Energy Ltd
+1344	KR	Kroger Company
+1345	KRA	Kraton Performance Polymers Inc
+1346	KRC	Kilroy Realty Corp
+1347	KREF	KKR Real Estate Finance Trust Inc
+1348	KRG	Kite Realty Group Trust
+1349	KRO	Kronos Worldwide Inc
+1350	KRP	Kimbell Royalty Partners
+1351	KSM	Scudder Strategic Municiple Income Trust
+1352	KSS	Kohl's Corp
+1353	KSU	Kansas City Southern
+1354	KSU.P	Kansas City Southern [Ksu/P]
+1355	KT	Korea Telecom Corp
+1356	KTB	Kontoor Brands Inc [Ktb/I]
+1357	KTF	Scudder Municiple Income Trust
+1358	KTH	Lehman Abs Corp
+1359	KTN	Lehman Abs Corp
+1360	KUKE	Kuke Music Holding Limited ADR
+1361	KW	Kennedy-Wilson Holdings Inc
+1362	KWAC	Kingswood Acquisition Corp Cl A
+1363	KWR	Quaker Chemical Corp
+1364	KYN	Kayne Anderson MLP Investment Company
+1365	L	Loews Corp
+1366	LAC	Lithium Americas Corp
+1367	LAD	Lithia Motors
+1368	LADR	Ladder Capital Corp
+1369	LAIX	Laix Inc ADR
+1370	LAZ	Lazard Ltd
+1371	LB	L Brands Inc
+1372	LBRT	Liberty Oilfield Services Inc
+1373	LC	Lendingclub Corp
+1374	LCI	Lannett CO Inc
+1375	LCII	Lci Industries
+1376	LDI	Loandepot Inc Cl A
+1377	LDL	Lydall Inc
+1378	LDOS	Leidos Holdings Inc
+1379	LDP	Cohen & Steers Ltd Duration Prfd Income Fund
+1380	LEA	Lear Corp
+1381	LEAF	Leaf Group Ltd
+1382	LEAP	Ribbit Leap Ltd Cl A
+1383	LEE	Lee Enterprises Inc
+1384	LEG	Leggett & Platt Inc
+1385	LEJU	Leju Holdings Ltd
+1386	LEN	Lennar Corp
+1387	LEO	Dreyfus Strategic Municipals
+1388	LEVI	Levi Strauss & CO Cl A
+1389	LFC	China Life Insurance Company Ltd
+1390	LFT	Lument Finance Trust Inc
+1391	LGF.B	Lions Gate Entertainment Corp Cl B
+1392	LGI	Lazard Global Total Return and
+1393	LGVW	Longview Acquisition Corp Cl A
+1394	LH	Laboratory Corp of America Holdings
+1395	LHX	L3Harris Technologies Inc
+1396	LII	Lennox International
+1397	LIN	Linde Plc
+1398	LINX	Linx S.A. ADR
+1399	LITB	Lightinthebox Holding CO Ltd
+1400	LL	Lumber Liquidators Holdings Inc
+1401	LLY	Eli Lilly and Company
+1402	LMND	Lemonade Inc
+1403	LMT	Lockheed Martin Corp
+1404	LNC	Lincoln National Corp
+1405	LND	Brasilagro ADR
+1406	LNFA	L&F Acquisition Corp Cl A
+1407	LNN	Lindsay Corp
+1408	LOKB	Live Oak Acquisition Corp. II Cl A
+1409	LOMA	Loma Negra Comp Indu Argentina Sociedad ADR
+1410	LOW	Lowe's Companies
+1411	LPG	Dorian Lpg Ltd
+1412	LPI	Laredo Petroleum Holdings Inc
+1413	LPL	Lg Display CO Ltd
+1414	LPX	Louisiana-Pacific Corp
+1415	LRN	Stride Inc
+1416	LSI	Life Storage
+1417	LSPD	Lightspeed Pos Inc
+1418	LTC	Ltc Properties
+1419	LTHM	Livent Corp
+1420	LU	Lufax Holding Ltd ADR
+1421	LUB	Luby's Inc
+1422	LUMN	Centurylink
+1423	LUV	Southwest Airlines Company
+1424	LVS	Las Vegas Sands
+1425	LW	Lamb Weston Holdings Inc
+1426	LXFR	Luxfer Holdings Plc
+1427	LXP	Lexington Realty Trust
+1428	LXU	Lsb Industries Inc
+1429	LYB	Lyondellbasell Industries NV
+1430	LYG	Lloyds Banking Group Plc
+1431	LYV	Live Nation Entertainment
+1432	LZB	La-Z-Boy Inc
+1433	M	Macy's Inc
+1434	MA	Mastercard Inc
+1435	MAA	Mid-America Apartment Communities
+1436	MAC	Macerich Company
+1437	MAIN	Main Street Capital Corp
+1438	MAN	Manpower Inc
+1439	MANU	Manchester United Ltd
+1440	MAS	Masco Corp
+1441	MATX	Matson Inc
+1442	MAV	Pioneer Muni High Income Advantage Trust
+1443	MAX	Mediaalpha Inc Cl A
+1444	MAXR	Maxar Technologies Ltd
+1445	MBI	MBIA Inc
+1446	MBT	Mobile Telesystems
+1447	MC	Moelis
+1448	MCA	Blackrock Muniyield California Insured Fund
+1449	MCB	Metropolitan Bank Holding Corp
+1450	MCD	McDonald's Corp
+1451	MCI	Massmutual Corporate Investors
+1452	MCK	Mckesson Corp
+1453	MCN	Madison/Claymore Covered Call & Equity Strategy
+1454	MCO	Moody's Corp
+1455	MCR	MFS Charter Income Trust
+1456	MCS	Marcus Corp
+1457	MCY	Mercury General Corp
+1458	MD	Mednax Inc
+1459	MDC	M.D.C. Holdings
+1460	MDLA	Medallia Inc
+1461	MDLQ	Medley Llc 7.25% Notes Due 2024
+1462	MDLX	Medley Llc
+1463	MDLY	Medley Management Inc
+1464	MDP	Meredith Corp
+1465	MDT	Medtronic Inc
+1466	MDU	Mdu Res Group Inc
+1467	MEC	Mayville Engineering Company Inc
+1468	MED	Medifast Inc
+1469	MEG	Montrose Environmental Group Inc
+1470	MEI	Methode Electronics
+1471	MEN	Blackrock Munienhanced Fund
+1472	MET	Metlife Inc
+1473	MFA	MFA Financial Inc
+1474	MFC	Manulife Financial Corp
+1475	MFD	Macquarie/First Trust Global
+1476	MFG	Mizuho Financial Group
+1477	MFGP	Micro Focus Intl Plc
+1478	MFL	Blackrock Muniholdings Investment Quality Fund
+1479	MFM	MFS Muni Income Trust
+1480	MFT	Blackrock Muniyield Investment Qualityfund
+1481	MFV	MFS Special Value Trust
+1482	MG	Mistras Group Inc
+1483	MGA	Magna International
+1484	MGF	MFS Government Markets Income Trust
+1485	MGM	MGM Resorts International
+1486	MGP	MGM Growth Properties Llc
+1487	MGR	Affiliated Managers Group Inc
+1488	MGRB	Affiliated Managers Group Inc 4.750% Junior Sub
+1489	MGU	Macquarie Global Infrastructure Total Return Fun
+1490	MGY	Magnolia Oil & Gas Corp
+1491	MH-D	Maiden Holdings Ltd [Mh/Pd]
+1492	MHD	Blackrock Muniholdings Fund
+1493	MHE	Massachusetts Health and Education Tax-Exempt TR
+1494	MHF	Western Asset Muni High
+1495	MHI	Pioneer Muni High Income Trust
+1496	MHK	Mohawk Industries
+1497	MHLA	Maiden Holdings Ltd 6.625% No
+1498	MHN	Blackrock Muniholdings New York Quality Fund
+1499	MHNC	Maiden Holdings North America
+1500	MHO	M/I Homes
+1501	MIC	Macquarie Infrastructure Company Trust
+1502	MIE	Cohen & Steers MLP Income and
+1503	MIN	MFS Intermediate Income Trust
+1504	MITT	Ag Mortgage Investment Trust
+1505	MIXT	Mix Telematics Ltd
+1506	MIY	Blackrock Muniyield Michigan Quality Fund
+1507	MKC	Mccormick & Company Inc
+1508	MKL	Markel Corp
+1509	MLI	Mueller Industries
+1510	MLM	Martin Marietta Materials
+1511	MLP	Maui Land & Pineapple Company
+1512	MLR	Miller Industries
+1513	MMC	Marsh & Mclennan Companies
+1514	MMD	Mainstay Defined Muni Opp Fund
+1515	MMI	Marcus & Millichap
+1516	MMM	3M Company
+1517	MMP	Magellan Midstream Partners LP
+1518	MMS	Maximus Inc
+1519	MMT	MFS Multimarket Income Trust
+1520	MMU	Western Asset Managed Municipals Fund
+1521	MN	Manning & Napier Inc
+1522	MNP	Western Asset Muni Partners Fund
+1523	MNR	Monmouth Real Estate Investment Corp
+1524	MNRL	Brigham Minerals Inc
+1525	MNSO	Miniso Group Holding Ltd ADR
+1526	MO	Altria Group
+1527	MOD	Modine Manufacturing Company
+1528	MODN	Model N Inc
+1529	MOGU	Mogu Inc ADR
+1530	MOH	Molina Healthcare Inc
+1531	MOS	Mosaic Company
+1532	MOTV	Motive Capital Corp Cl A
+1533	MOV	Movado Group Inc
+1534	MP	Mp Materials Corp
+1535	MPA	Blackrock Muniyield Pennsylvania Quality Fund
+1536	MPC	Marathon Petroleum Corp
+1537	MPLN	Multiplan Corp
+1538	MPLX	Mplx LP
+1539	MPV	Massmutual Participation Investors
+1540	MPW	Medical Properties Trust
+1541	MPX	Marine Products Corp
+1542	MQT	Blackrock Muniyield Quality Fund II
+1543	MQY	Blackrock Muniyield Quality Fund
+1544	MRC	Mrc Global Inc
+1545	MRK	Merck & Company
+1546	MRO	Marathon Oil Corp
+1547	MS	Morgan Stanley
+1548	MSA	Msa Safety Inc
+1549	MSB	Mesabi Trust
+1550	MSC	Studio City Intl Holdings Ltd ADR
+1551	MSCI	MSCI Inc
+1552	MSD	Morgan Stanley Emerging Markets Debt
+1553	MSGE	Madison Square Garden Entertainment Corp
+1554	MSGN	Msg Networks Inc
+1555	MSGS	Madison Square Garden Sports Corp
+1556	MSI	Motorola Solutions
+1557	MSM	Msc Industrial Direct Company
+1558	MSP	Datto Holding Corp
+1559	MT	Arcelormittal
+1560	MTB	M&T Bank Corp
+1561	MTCN	Arcelormittal 5.50% Mandatorily
+1562	MTD	Mettler-Toledo International
+1563	MTDR	Matador Resources Company
+1564	MTG	Mgic Investment Corp
+1565	MTH	Meritage Corp
+1566	MTL	Mechel Oao
+1567	MTL.P	Mechel Pao [Mtl/P]
+1568	MTN	Vail Resorts
+1569	MTOR	Meritor Inc
+1570	MTR	Mesa Royalty Trust
+1571	MTRN	Materion Corp
+1572	MTT	Western Asset Muni Defined Opportunity Trust Inc
+1573	MTW	Manitowoc Company
+1574	MTX	Minerals Technologies Inc
+1575	MTZ	Mastec Inc
+1576	MUA	Blackrock Muniassets Fund
+1577	MUC	Blackrock Muniholdings California Quality Fund
+1578	MUE	Blackrock Muniholdings Quality Fund II
+1579	MUFG	Mitsubishi Ufj Financial Group Inc
+1580	MUH	Blackrock Muniholdings Fund II
+1581	MUI	Blackrock Muni Intermediate Duration Fund Inc
+1582	MUJ	Blackrock Muniholdings New Jersey Insured Fund
+1583	MUR	Murphy Oil Corp
+1584	MUS	Blackrock Muniholdings Quality Fund
+1585	MUSA	Murphy USA Inc
+1586	MUX	Mcewen Mining Inc
+1587	MVF	Munivest Fund
+1588	MVO	Mv Oil Trust
+1589	MVT	Blackrock Munivest Fund II
+1590	MWA	Mueller Water Products
+1591	MX	Magnachip Semiconductor Corp
+1592	MXE	Mexico Equity and
+1593	MXF	Mexico Fund
+1594	MXL	Maxlinear Inc
+1595	MYC	Blackrock Muniyield California Fund
+1596	MYD	Blackrock Muniyield Fund
+1597	MYE	Myers Industries
+1598	MYF	Blackrock Muniyield Investment Fund
+1599	MYI	Blackrock Muniyield Quality Fund III
+1600	MYJ	Blackrock Muniyield New Jersey Fund
+1601	MYN	Blackrock Muniyield New York Quality Fund
+1602	MYOV	Myovant Sciences Ltd
+1603	MYTE	Myt Netherlands Parent B.V. ADR
+1604	MZA	Muniyield Arizona Fund
+1605	NAC	Nuveen California Divadv Fund
+1606	NAD	Nuveen Divadv Fund
+1607	NAN	Nuveen New York Divadv Fund
+1608	NAT	Nordic American Tanker Shipping Ltd
+1609	NAV	Navistar International Corp
+1610	NAZ	Nuveen Arizona Premium Fund
+1611	NBB	Nuveen Build America Bond Fund
+1612	NBHC	National Bank Holdings Corp
+1613	NBR	Nabors Industries
+1614	NC	Nacco Industries
+1615	NCA	Nuveen California Muni Value Fund
+1616	NCB	Nuveen California Muni Value Fund 2
+1617	NCLH	Norwegian Cruise Ord
+1618	NCR	NCR Corp
+1619	NCV	Virtus Allianzgi Convertible & Income Fund
+1620	NCZ	Virtus Allianzgi Convertible & Income Fund II
+1621	NDMO	Nuveen Dynamic Municipal Opportunities Fund Comm
+1622	NDP	Tortoise Energy Independence F
+1623	NEA	Nuveen Insured Tax-Free Advantage Fund
+1624	NEE	Nextera Energy
+1625	NEM	Newmont Mining Corp
+1626	NEP	Nextera Energy Partners LP
+1627	NET	Cloudflare Inc Cl A
+1628	NETI	Eneti Inc
+1629	NEU	Newmarket Corp
+1630	NEV	Nuveen Enhanced Muni Value Fund
+1631	NEW	Puxin Ltd
+1632	NEWR	New Relic Inc
+1633	NEX	Nextier Oilfield Solutions Inc
+1634	NEXA	Nexa Resources S.A.
+1635	NFG	National Fuel Gas Company
+1636	NFH	New Frontier Health Corp
+1637	NFJ	Virtus Dividend Interest & Premium Strategy
+1638	NGA	Northern Genesis Acquisition Corp
+1639	NGG	National Grid Transco Plc
+1640	NGL	Ngl Energy Partners LP
+1641	NGS	Natural Gas Services Group
+1642	NGVC	Natural Grocers By Vitamin Cottage Inc
+1643	NGVT	Ingevity Corp
+1644	NHA	Nuveen Municipal
+1645	NHF	Nexpoint Strategic Opportunities Fund
+1646	NHI	National Health Investors
+1647	NI	NiSource Inc
+1648	NID	Nuveen Intermediate Duration M
+1649	NIE	Virtus Allianzgi Equity & Convertible Income
+1650	NIM	Nuveen Maturities Fund
+1651	NINE	Nine Energy Service Inc
+1652	NIO	Nio Inc
+1653	NIQ	Nuveen Intermediate Duration Q
+1654	NJR	Newjersey Resources Corp
+1655	NJV	Nuveen New Jersey Muni Value Fund
+1656	NKE	Nike Inc
+1657	NKG	Nuveen Georgia Divadv Fund 2
+1658	NKX	Nuveen Insured California Tax-Free
+1659	NL	NL Industries
+1660	NLS	Nautilus Group
+1661	NLSN	Nielsen Holdings Plc
+1662	NLY	Annaly Capital Management Inc
+1663	NM	Navios Maritime Holdings Inc
+1664	NMCO	Nuveen Municipal Credit Opportunities Fund
+1665	NMI	Nuveen Muni
+1666	NMM	Navios Maritime Partners LP
+1667	NMR	Nomura Holdings Inc ADR
+1668	NMS	Nuveen Minnesota Municipal Inco
+1669	NMT	Nuveen Massachusetts Premium Fund
+1670	NMY	Nuveen Maryland Premium Fund
+1671	NMZ	Nuveen Muni High Income Opportunity
+1672	NNA	Navios Maritime Acquisition Corp
+1673	NNI	Nelnet Inc
+1674	NNN	National Retail Properties
+1675	NNY	Nuveen New York Muni Value Fund
+1676	NOA	North American Construction Group Ltd.
+1677	NOAH	Noah Holdings Ltd
+1678	NOC	Northrop Grumman Corp
+1679	NOK	Nokia Corp
+1680	NOM	Nuveen Missouri Premium Fund
+1681	NOMD	Nomad Foods Ltd
+1682	NOV	Nov Inc
+1683	NOVA	Sunnova Energy International Inc
+1684	NOW	Servicenow Inc
+1685	NP	Neenah Paper
+1686	NPK	National Presto Industries
+1687	NPN	Nuveen Pennsylvania Muni Value Fund
+1688	NPO	Enpro Industries
+1689	NPTN	Neophotonics Corp
+1690	NPV	Nuveen Virginia Premium Fund
+1691	NQP	Nuveen Pennsylvania Investment
+1692	NR	Newpark Resources
+1693	NREF	Nexpoint Real Estate Finance Inc
+1694	NRG	NRG Energy
+1695	NRGX	Neurologix Inc
+1696	NRK	Nuveen Insured New York Tax-Free
+1697	NRP	Natural Resource Partners LP
+1698	NRT	North European Oil Royality Trust
+1699	NRUC	National Rural Utilities Coop Finance Corp 5.500
+1700	NRZ	New Residential Investment Corp
+1701	NS	Nustar Energy LP
+1702	NSA	National Storage Affiliates Tru
+1703	NSC	Norfolk Southern Corp
+1704	NSCO	Nesco Holdings Inc
+1705	NSH	Navsight Holdings Inc Cl A
+1706	NSL	Nuveen Senior
+1707	NSP	Insperity Inc
+1708	NSS	Nustar Logistics LP
+1709	NSTB	Northern Star Investment Corp. II Cl A
+1710	NTB	Bank of Butterfield Ltd
+1711	NTCO	Natura &Co Holding S.A. ADR
+1712	NTG	Tortoise MLP Fund
+1713	NTP	Nam Tai Electronics
+1714	NTR	Nutrien Ltd
+1715	NTST	Netstreit Corp
+1716	NTZ	Natuzzi S.P.A.
+1717	NUE	Nucor Corp
+1718	NUM	Nuveen Michigan Quality
+1719	NUO	Nuveen Ohio Quality
+1720	NUS	Nu Skin Enterprises
+1721	NUV	Nuveen Muni Value Fund
+1722	NUVB	Nuvation Bio Inc
+1723	NUW	Nuveen Muni Value Fund
+1724	NVG	Nuveen Insured Divadv Fund
+1725	NVGS	Navigator Holdings
+1726	NVO	Novo Nordisk A/S
+1727	NVR	NVR Inc
+1728	NVRO	Nevro Corp
+1729	NVS	Novartis Ag
+1730	NVST	Envista Holdings Corp
+1731	NVT	Nvent Electric Plc
+1732	NVTA	Invitae Corp
+1733	NWG	Natwest Group Plc
+1734	NWHM	New Home CO Llc
+1735	NWN	Northwest Natural Gas Company
+1736	NX	Quanex Building Products Corp
+1737	NXC	Nuveen California Tax-Free Income
+1738	NXJ	Nuveen New Jersey Divadv Fund
+1739	NXN	Nuveen Insured New York Tax-Free
+1740	NXP	Nuveen Tax Free Income Portfolio
+1741	NXQ	Nuveen Tax Free Income Portfolio II
+1742	NXR	Nuveen Tax Free Income Portfolio III
+1743	NXRT	Nexpoint Residential Trust Inc
+1744	NYC	New York City REIT Inc Cl A
+1745	NYCB	New York Community Bancorp
+1746	NYT	New York Times Company
+1747	NYV	Nuveen New York Muni Value Fund 2
+1748	NZF	Nuveen Divadv Fund 3
+1749	O	Realty Income Corp
+1750	OACB	Oaktree Acquisition Corp II Cl A
+1751	OC	Owens Corning Inc
+1752	OCA	Omnichannel Acquisition Corp Cl A
+1753	OCFT	Oneconnect Financial Technology CO Ltd America
+1754	OCN	Ocwen Financial Corp
+1755	ODC	Oil-Dri Corp of America
+1756	OEC	Orion Engineered Carbons S.A R
+1757	OFC	Corporate Office Properties
+1758	OFG	OFG Bancorp
+1759	OGE	Oge Energy Corp
+1760	OGS	One Gas Inc
+1761	OHI	Omega Healthcare Investors
+1762	OI	Owens-Illinois
+1763	OIA	Invesco Muni Income Trust
+1764	OII	Oceaneering International
+1765	OIS	Oil States International
+1766	OKE	Oneok Inc
+1767	OLN	Olin Corp
+1768	OLP	One Liberty Properties
+1769	OMC	Omnicom Group Inc
+1770	OMF	Onemain Holdings Inc
+1771	OMI	Owens & Minor
+1772	ONE	Onesmart International Education Group Ltd A
+1773	ONTF	On24 Inc
+1774	ONTO	Onto Innovation Inc
+1775	OOMA	Ooma Inc
+1776	OPP	Rivernorth/Doubleline Strategic Opportunity Fund
+1777	OPY	Oppenheimer Holdings
+1778	OR	Osisko Gold Royalties Ltd
+1779	ORA	Ormat Technologies
+1780	ORAN	Orange ADR
+1781	ORC	Orchid Island Capital Inc
+1782	ORCC	Owl Rock Capital Corp
+1783	ORCL	Oracle Corp
+1784	ORI	Old Republic International Corp
+1785	ORN	Orion Group Holdings Inc
+1786	OSG	Overseas Shipholding Group Inc
+1787	OSH	Oak Street Health Inc
+1788	OSK	Oshkosh Truck Corp
+1789	OTIS	Otis Worldwide Corp [Otis/I]
+1790	OUT	Outfront Media Inc
+1791	OVV	Ovintiv Inc
+1792	OXM	Oxford Industries
+1793	OXY	Occidental Petroleum Corp
+1794	PAC	Grupo Aeroportuario Del Pacifico
+1795	PACE	Tpg Pace Tech Opportunities Corp Cl A
+1796	PACK	Ranpak Holdings Corp
+1797	PAG	Penske Automotive Group
+1798	PAGS	Pagseguro Digital Ltd Cl A
+1799	PAI	Pacific American Income Shares
+1800	PAM	Pampa Energia S.A.
+1801	PANA	Panacea Acquisition Corp Cl A
+1802	PANW	Palo Alto Networks Inc
+1803	PAR	Par Technology Corp
+1804	PARR	Par Petroleum Corp
+1805	PAYC	Paycom Software Inc
+1806	PB	Prosperity Bancshares
+1807	PBA	Pembina Pipeline Cor
+1808	PBB	Prospect Capital Corp
+1809	PBC	Prospect Capital Corp 6.875% Notes Due 20
+1810	PBF	PBF Energy Inc
+1811	PBFX	PBF Logistics LP
+1812	PBH	Prestige Brand Holdings
+1813	PBI	Pitney Bowes Inc
+1814	PBR	Petroleo Brasileiro S.A. Petrobras
+1815	PBT	Permian Basin Royalty Trust
+1816	PBY	Prospect Capital Corp 6.25% Notes Due 202
+1817	PCF	Putnam High Income Bond Fund
+1818	PCG	Pacific Gas & Electric Company
+1819	PCGU	PG&E Corp
+1820	PCI	Pimco Dynamic Credit Income Fun
+1821	PCK	Pimco California Muni II
+1822	PCM	Pimco Commercial Mortgage Securities
+1823	PCN	Pimco Corporate
+1824	PCPC	Periphas Capital Partnering Corporation Cl A
+1825	PCPL	CC Neuberger Principal Holdings I Cl A
+1826	PCQ	Pimco California Muni
+1827	PD	Pagerduty Inc
+1828	PDAC	Peridot Acquisition Corp Cl A
+1829	PDI	Pimco Dynamic Income Fund
+1830	PDM	Piedmont Office Realty Trust
+1831	PDO	Pimco Dynamic Income Opportunities Fund
+1832	PDS	Precision Drilling Corp
+1833	PDT	John Hancock Premium Dividend Fund
+1834	PEAK	Healthpeak Properties Inc
+1835	PEB	Pebblebrook Hotel Trust
+1836	PEG	Public Service Enterprise Group Inc
+1837	PEI	Pennsylvania Real Estate Investment
+1838	PEN	Penumbra Inc
+1839	PEO	Adams Natural Resources Fund Inc
+1840	PFD	Flaherty & Crumrine Preferred Inc
+1841	PFE	Pfizer Inc
+1842	PFGC	Performance Food Group Company
+1843	PFH	Prudential Financial Inc 4.125% Junior
+1844	PFL	Pimco Income Strategy Fund
+1845	PFN	Pimco Income Strategy Fund II
+1846	PFO	Flaherty & Crumrine Preferred Fund
+1847	PFS	Provident Financial Services
+1848	PFSI	Pennymac Financial Services IN
+1849	PG	Procter & Gamble Company
+1850	PGP	Pimco Global Stocksplus & Income
+1851	PGR	Progressive Corp
+1852	PGRE	Paramount Group Inc
+1853	PGTI	Pgt Inc
+1854	PGZ	Principal Real Estate Income F
+1855	PH	Parker-Hannifin Corp
+1856	PHD	Pioneer Floating Rate Trust
+1857	PHG	Koninklijke Philips Electronics
+1858	PHI	Philippine Long Distance Telephone
+1859	PHK	Pimco High Income Fund
+1860	PHM	Pultegroup
+1861	PHR	Phreesia Inc
+1862	PHT	Pioneer High Income Trust
+1863	PHX	Phx Minerals Inc
+1864	PIAI	Prime Impact Acquisition I Cl A
+1865	PII	Polaris Industries Inc
+1866	PIM	Putnam Master Intermediate Income
+1867	PINE	Alpine Income Property Trust Inc
+1868	PING	Ping Identity Holding Corp
+1869	PINS	Pinterest Inc
+1870	PIPP	Pine Island Acquisition Corp Cl A
+1871	PIPR	Piper Jaffray Companies
+1872	PJT	Pjt Partners Inc Cl A
+1873	PK	Park Hotels & Resorts Inc
+1874	PKE	Park Electrochemical Corp
+1875	PKG	Packaging Corp of America
+1876	PKI	Perkinelmer
+1877	PKO	Pimco Income Opportunity Fund
+1878	PKX	Posco ADR
+1879	PLAN	Anaplan Inc
+1880	PLD	Prologis Inc
+1881	PLNT	Planet Fitness
+1882	PLOW	Douglas Dynamics
+1883	PLT	Plantronics
+1884	PLTR	Palantir Technologies Inc Cl A
+1885	PLYM	Plymouth Industrial REIT Inc
+1886	PM	Philip Morris International Inc
+1887	PMF	Pimco Muni
+1888	PML	Pimco Muni II
+1889	PMM	Putnam Managed Muni Income Trust
+1890	PMO	Putnam Muni Opportunities Trust
+1891	PMT	Pennymac Mortgage Investment Trust
+1892	PMVC	Pmv Consumer Acquisition Corp Cl A
+1893	PMX	Pimco Muni Income Fund III
+1894	PNC	PNC Bank
+1895	PNF	Pimco New York Muni
+1896	PNI	Pimco New York Muni II
+1897	PNM	PNM Resources Inc
+1898	PNR	Pentair Ltd
+1899	PNW	Pinnacle West Capital Corp
+1900	POR	Portland General Electric Company
+1901	POST	Post Holdings Inc
+1902	PPG	PPG Industries
+1903	PPL	PPL Corp
+1904	PPR	VOYA Prime Rate Trust
+1905	PPT	Putnam Premier Income Trust
+1906	PPX	PPL Capital Funding Inc
+1907	PQG	Pq Group Holdings Inc
+1908	PRA	Pro-Assurance Corp
+1909	PRG	Prog Hldgs Inc
+1910	PRGO	Perrigo Company
+1911	PRI	Primerica Inc
+1912	PRLB	Proto Labs Inc
+1913	PRMW	Primo Water Corp
+1914	PRO	Pros Holdings
+1915	PROS	Prosight Global Inc
+1916	PRPB	CC Neuberger Principal Holdings II Cl A
+1917	PRS	Prudential Financial Inc 5.625% Junior
+1918	PRSP	Perspecta Inc
+1919	PRT	Permrock Royalty Trust Trust Units
+1920	PRTY	Party City Holdco Inc
+1921	PRU	Prudential Financial Inc
+1922	PSA	Public Storage
+1923	PSB	Business Parks
+1924	PSF	Cohen & Steers Preferred Fund
+1925	PSN	Parsons Corp
+1926	PSO	Pearson Plc
+1927	PSTG	Pure Storage Inc
+1928	PSTH	Pershing Square Tontine Hldgs Cl A
+1929	PSTL	Postal Realty Trust Cl A
+1930	PSX	Phillips 66
+1931	PSXP	Phillips 66 Partners LP
+1932	PTA	Cohen & Steers Tax-Advantaged Preferred Securiti
+1933	PTR	Petrochina Company Ltd
+1934	PTY	Pimco Corporate Opportunity Fund
+1935	PUK	Prudential Public Ltd Company
+1936	PUMP	Propetro Holding Corp
+1937	PVG	Pretium Res Inc
+1938	PVH	Phillips-Van Heusen Corp
+1939	PVL	Permianville Royalty Trust
+1940	PWR	Quanta Services
+1941	PXD	Pioneer Natural Resources Company
+1942	PYN	Pimco New York Muni Income Fund III
+1943	PYS	Pplus Trust
+1944	PYT	Pplus Trust
+1945	PZC	Pimco California Muni Income Fund III
+1946	PZN	Pzena Investment Management Inc
+1947	QD	Qudian Inc ADR
+1948	QEP	Qep Resources
+1949	QGEN	Qiagen N.V.
+1950	QS	Quantumscape Corp
+1951	QSR	Restaurant Brands International
+1952	QTS	Qts Realty Trust Inc
+1953	QTWO	Q2 Holdings Inc
+1954	QUAD	Quad Graphics Inc
+1955	QUOT	Quotient Technology Inc
+1956	QVCC	Qvc Inc 6.250% Senior Secured Notes Due 2068
+1957	QVCD	Qvc Inc 6.375% Senior Secured Notes Due 2067
+1958	R	Ryder System
+1959	RA	Brookfield Real Assets Income Fund Inc
+1960	RAAS	Cloopen Group Holding Limited ADR
+1961	RACE	Ferrari N.V.
+1962	RAD	Rite Aid Corp
+1963	RAMP	Liveramp Holdings Inc
+1964	RBA	Ritchie Bros. Auctioneers Inc
+1965	RBAC	Redball Acquisition Corp Cl A
+1966	RBC	Regal-Beloit Corp
+1967	RC	Ready Capital Corp
+1968	RCA	Ready Capital Corp 7.00%
+1969	RCB	Ready Capital Corp 6.20% Senior Notes Due
+1970	RCC	Ready Capital Corporation 5.75%
+1971	RCI	Rogers Communication
+1972	RCL	Royal Caribbean Cruises Ltd
+1973	RCP	Ready Capital Corp 6.50% Series
+1974	RCS	Rcm Strategic Global Government Fund
+1975	RCUS	Arcus Biosciences Inc
+1976	RDN	Radian Group Inc
+1977	RDY	Dr. Reddy's Laboratories Ltd
+1978	RE	Everest Re Group
+1979	RELX	Relx Plc
+1980	RENN	Renren Inc
+1981	RES	RPC Inc
+1982	REV	Revlon Inc
+1983	REVG	Rev Group Inc
+1984	REX	Rex American Resources Corp
+1985	REXR	Rexford Industrial Realty Inc
+1986	REZI	Resideo Technologies Inc
+1987	RF	Regions Financial Corp
+1988	RFI	Cohen & Steers Total Return Realty Fund
+1989	RFL	Rafael Holdings Inc
+1990	RFM	Rivernorth Flexible Municipal Income Fund Inc
+1991	RFMZ	Rivernorth Flexible Municipal Income Fund II Inc
+1992	RFP	Resolute Forest Products Inc
+1993	RGA	Reinsurance Group of America Inc
+1994	RGR	Sturm Ruger & Company
+1995	RGS	Regis Corp
+1996	RGT	Royce Global Value Trust Inc
+1997	RH	Restoration Hardware Holdings
+1998	RHI	Robert Half International Inc
+1999	RHP	Ryman Hospitality Properties REIT
+2000	RICE	Rice Acquisition Corp Cl A
+2001	RIG	Transocean Inc
+2002	RIO	Rio Tinto Plc
+2003	RIV	Rivernorth Opportunities Fund
+2004	RJF	Raymond James Financial
+2005	RKT	Rocket Companies Inc Cl A
+2006	RL	Ralph Lauren Corp
+2007	RLGY	Realogy Holdings Corp
+2008	RLH	Red Lion Hotels Corp
+2009	RLI	Rli Corp
+2010	RLJ	Rlj Lodging Trust
+2011	RLX	Rlx Technology Inc ADR
+2012	RM	Regional Managment Corp
+2013	RMAX	Re/Max Holdings Inc
+2014	RMD	Resmed Inc
+2015	RMI	Rivernorth Opportunistic Municipal Income Fund
+2016	RMM	Rivernorth Managed Duration Municipal Income Fun
+2017	RMO	Romeo Power Inc
+2018	RMT	Royce Micro-Cap Trust
+2019	RNG	Ringcentral Inc
+2020	RNGR	Ranger Energy Services Inc Cl A
+2021	RNP	Cohen & Steers REIT and Preferred
+2022	RNR	Renaissancere Holdings Ltd
+2023	ROG	Rogers Corp
+2024	ROK	Rockwell Automation Inc
+2025	ROL	Rollins Inc
+2026	ROP	Roper Industries
+2027	RPAI	Retail Properties of America
+2028	RPLA	Replay Acquisition Corp
+2029	RPM	RPM International Inc
+2030	RPT	Ramco-Gershenson Properties Trust
+2031	RQI	Cohen & Steers Quality Income Realty Fund Inc
+2032	RRC	Range Resources Corp
+2033	RRD	Donnelley R.R. & Sons Company
+2034	RS	Reliance Steel & Aluminum Company
+2035	RSF	Rivernorth Marketplace Lending Corp
+2036	RSG	Republic Services
+2037	RSI	Rush Street Interactive Inc
+2038	RTP	Reinvent Technology Partners Cl A
+2039	RTPZ	Reinvent Technology Partners Z Cl A
+2040	RTX	Raytheon Technologies Corp
+2041	RVI	Retail Value Inc
+2042	RVLV	Revolve Group Inc
+2043	RVT	Royce Value Trust
+2044	RWT	Redwood Trust
+2045	RXN	Rexnord Corp
+2046	RY	Royal Bank of Canada
+2047	RYAM	Rayonier Advanced Materials Inc
+2048	RYB	Ryb Education Inc Aps
+2049	RYI	Ryerson Holding Corp
+2050	RYN	Rayonier Inc REIT
+2051	RZA	Reinsurance Group of America
+2052	RZB	Reinsurance Group of America
+2053	SA	Seabridge Gold
+2054	SAF	Saratoga Investment Corp
+2055	SAFE	Safehold Inc
+2056	SAH	Sonic Automotive
+2057	SAIC	Science Applications International
+2058	SAIL	Sailpoint Technologies Holdings Inc
+2059	SAK	Saratoga Investment Corp 7.25% Notes Due 2025
+2060	SALT	Scorpio Bulkers Inc
+2061	SAM	Boston Beer Company
+2062	SAN	Banco Santander
+2063	SAND	Sandstorm Gold Ltd
+2064	SAP	SAP Ag
+2065	SAR	Saratoga Investment Corp
+2066	SAVE	Spirit Airlines Inc
+2067	SB	Safe Bulkers Inc
+2068	SBBA	Scorpio Tankers Inc 7.00% Senior Notes Due 2025
+2069	SBE	Switchback Energy Acquisition Corp Cl A
+2070	SBG	Sandbridge Acquisition Corp Cl A
+2071	SBH	Sally Beauty Holdings
+2072	SBI	Western Asset Intermediate Fund Inc
+2073	SBOW	Silverbow Resources Inc
+2074	SBR	Sabine Royalty Trust
+2075	SBS	Cia DE Saneamento Basico Do Estado
+2076	SBSW	Sibanye Gold Ltd ADR
+2077	SC	Santander Consumer USA Holdings
+2078	SCCO	Southern Peru Copper Corp
+2079	SCD	Lmp Capital and Income Fund Inc
+2080	SCHW	The Charles Schwab Corp
+2081	SCI	Service Corp International
+2082	SCL	Stepan Company
+2083	SCM	Stellus Capital Investment Cor
+2084	SCPE	SC Health Corp Cl A
+2085	SCS	Steelcase Inc
+2086	SCU	Sculptor Capital Management Inc
+2087	SCVX	Scvx Corp Cl A
+2088	SCX	L.S. Starrett Company
+2089	SD	Sandridge Energy Inc
+2090	SDHY	PGIM Short Duration High Yield Opportunities Fun
+2091	SE	Sea Ltd ADR
+2092	SEAH	Sports Entertainment Acquisition Cl A
+2093	SEAS	Seaworld Entertainment Inc Company
+2094	SEE	Sealed Air Corp
+2095	SEM	Select Medical Holdings Corp
+2096	SF	Stifel Financial Corp
+2097	SFE	Safeguard Scientifics
+2098	SFL	Ship Finance International
+2099	SFTW	Osprey Technology Acquisition Corp Cl A
+2100	SFUN	Fang Holdings Ltd
+2101	SGFY	Signify Health Inc Cl A
+2102	SGU	Star Gas Partners LP
+2103	SHAK	Shake Shack Inc
+2104	SHG	Shinhan Financial Group CO Ltd
+2105	SHI	Sinopec Shangai Petrochemical Company Ltd
+2106	SHLX	Shell Midstream Partners LP
+2107	SHO	Sunstone Hotel Investors
+2108	SHOP	Shopify Inc
+2109	SHW	Sherwin-Williams Company
+2110	SI	Silvergate Capital Corp Cl A
+2111	SID	Companhia Siderurgica Nacional
+2112	SIG	Signet Jewelers Ltd
+2113	SII	Sprott Inc
+2114	SITC	Site Centers Corp
+2115	SITE	Siteone Landscape Supply
+2116	SIX	Six Flags Entertainment Corp
+2117	SJI	South Jersey Industries
+2118	SJIJ	South Jersey Industries Inc 5.625% Junior
+2119	SJIU	South Jersey Industries Inc
+2120	SJM	J.M. Smucker Company
+2121	SJR	Shaw Communications Inc
+2122	SJT	San Juan Basin Royalty Trust
+2123	SJW	SJW Corp
+2124	SKLZ	Skillz Inc
+2125	SKM	Sk Telecom Corp
+2126	SKT	Tanger Factory Outlet Centers
+2127	SKX	Skechers U.S.A.
+2128	SKY	Skyline Corp
+2129	SLB	Schlumberger N.V.
+2130	SLCA	U.S. Silica Holdings Inc
+2131	SLF	Sun Life Financial Inc
+2132	SLG	SL Green Realty Corp
+2133	SLQT	Selectquote Inc
+2134	SM	Sm Energy Company
+2135	SMAR	Smartsheet Inc Cl A
+2136	SMFG	Sumitomo Mitsui Financial Group Inc
+2137	SMG	Scotts Miracle-Gro Company
+2138	SMHI	Seacor Marine Holdings Inc
+2139	SMLP	Summit Midstream Partners LP
+2140	SMM	Salient Midstream & MLP Fund
+2141	SMP	Standard Motor Products
+2142	SNA	Snap-On Inc
+2143	SNAP	Snap Inc
+2144	SNDR	Schneider National Inc
+2145	SNE	Sony Corp
+2146	SNN	Smith & Nephew Snats
+2147	SNOW	Snowflake Inc Cl A
+2148	SNP	China Petroleum & Chemical Corp
+2149	SNPR	Tortoise Acquisition Corp II Cl A
+2150	SNR	New Senior Investment Group Inc
+2151	SNV	Synovus Financial Corp
+2152	SNX	Synnex Corp
+2153	SO	Southern Company
+2154	SOAC	Sustainable Opportunities Acquisition Cl A
+2155	SOGO	Sogou Inc
+2156	SOI	Solaris Oilfield Infrastructure Inc Cl A
+2157	SOJB	Southern Company
+2158	SOJC	Southern Company Series 2017B 5.25% Junior
+2159	SOJD	Southern Company Series 2020A 4.95% Junior
+2160	SOJE	Southern Company Series 2020C 4.20%
+2161	SOL	Renesola Ltd
+2162	SOLN	Southern Company
+2163	SON	Sonoco Products Company
+2164	SOR	Source Capital
+2165	SOS	Sos Ltd
+2166	SPB	Spectrum Brands Holdings Inc
+2167	SPCE	Virgin Galactic Holdings Inc
+2168	SPE	Special Opportunities Fund Inc
+2169	SPFR	Jaws Spitfire Acquisition Corporation Cl A
+2170	SPG	Simon Property Group
+2171	SPGI	S&P Global Inc
+2172	SPH	Suburban Propane Partners LP
+2173	SPLP	Steel Partners Hlds
+2174	SPNV	Supernova Partners Acquisition Cl A
+2175	SPOT	Spotify Technology S.A.
+2176	SPR	Spirit Aerosystems Holdings
+2177	SPRQ	Spartan Acquisition Corp. II Cl A
+2178	SPXC	SPX Corp
+2179	SPXX	Nuveen Equity Premium and Growth Fund
+2180	SQ	Square
+2181	SQM	Sociedad Quimica Y Minera S.A.
+2182	SQNS	Sequans Communications S A
+2183	SQZ	Sqz Biotechnologies Company
+2184	SR	Spire Inc
+2185	SRC	Spirit Realty Capital Inc
+2186	SRE	Sempra Energy
+2187	SREA	Sempra Energy 5.750% Junior
+2188	SRG	Seritage Growth Properties
+2189	SRI	Stoneridge Inc
+2190	SRL	Scully Royalty Ltd
+2191	SRLP	Sprague Resources LP
+2192	SRT	Startek Inc
+2193	SRV	The Cushing MLP Total Return Fund
+2194	SSD	Simpson Manufacturing Company
+2195	SSL	Sasol Ltd
+2196	SSTK	Shutterstock Inc
+2197	ST	Sensata Technologies Holding N.V.
+2198	STAG	STI Inc
+2199	STAR	Istar Financial Inc
+2200	STC	Stewart Information Services Corp
+2201	STE	Steris Corp
+2202	STG	Sunlands Online Education Group ADR
+2203	STIC	Northern Star Acquisition Cl A
+2204	STK	Columbia Seligman Premium Technology
+2205	STL	Sterling Bancorp
+2206	STLA	Stellantis N.V.
+2207	STM	Stmicroelectronics N.V.
+2208	STN	Stantec Inc
+2209	STNG	Scorpio Tankers Inc
+2210	STON	Stonemor Partners LP
+2211	STOR	Store Capital Corpstore Capital
+2212	STPK	Star Peak Energy Transition Corp Cl A
+2213	STT	State Street Corp
+2214	STWD	Starwood Property Trust
+2215	STZ	Constellation Brands Inc
+2216	SU	Suncor Energy Inc
+2217	SUI	Sun Communities
+2218	SUM	Summit Materials Inc
+2219	SUN	Sunoco LP
+2220	SUP	Superior Industries International
+2221	SUPV	Grupo Supervielle S.A.
+2222	SUZ	Suzano Papel E Celul
+2223	SWCH	Switch Inc
+2224	SWI	Solarwinds Corp
+2225	SWK	Stanley Black & Decker Inc
+2226	SWM	Schweitzer-Mauduit International
+2227	SWN	Southwestern Energy Company
+2228	SWT	Stanley Black & Decker Inc
+2229	SWX	Southwest Gas Corp
+2230	SWZ	Swiss Helvetia Fund
+2231	SXC	Suncoke Energy Inc
+2232	SXI	Standex International Corp
+2233	SXT	Sensient Technologies Corp
+2234	SYF	Synchrony Financial
+2235	SYK	Stryker Corp
+2236	SYX	Systemax Inc
+2237	SYY	Sysco Corp
+2238	SZC	The Cushing Renaissance Fund
+2239	T	AT&T Inc
+2240	TAC	Transalta Corp
+2241	TACA	Trepont Acquisition Corp I Cl A
+2242	TAK	Takeda Pharmaceutical CO Ltd
+2243	TAL	Tal Education Group
+2244	TALO	Talos Energy Inc
+2245	TAP	Molson Coors Brewing Company
+2246	TARO	Taro Pharm Inds
+2247	TBA	Thoma Bravo Advantage Cl A
+2248	TBB	AT&T Inc 5.350% Global Notes Due 2066
+2249	TBC	AT&T Inc 5.625% Global Notes Due 2067
+2250	TBI	Trueblue Inc
+2251	TCI	Transcontinental Realty Investors
+2252	TCP	TCP Pipelines
+2253	TCS	The Container Store Group Inc
+2254	TD	Toronto Dominion Bank
+2255	TDA	Telephone and Data Systems Inc
+2256	TDC	Teradata Corp
+2257	TDE	Telephone and Data Systems
+2258	TDF	Templeton Dragon Fund
+2259	TDG	Transdigm Group Inc
+2260	TDI	Telephone and Data Systems
+2261	TDJ	Telephone and Data Systems Inc
+2262	TDOC	Teladoc Health Inc
+2263	TDS	Telephone and Data Systems
+2264	TDW	Tidewater Inc
+2265	TDY	Teledyne Technologies Inc
+2266	TEAF	Tortoise Essential Assets Income Term Fund
+2267	TECK	Teck Resources Ltd
+2268	TEF	Telefonica S.A.
+2269	TEI	Templeton Emerging Markets
+2270	TEL	Te Connectivity Ltd
+2271	TEN	Tenneco Automotive
+2272	TEO	Telecom Argentina Stet France Telecom S.A.
+2273	TEVA	Teva Pharmaceutical Industries Ltd
+2274	TEX	Terex Corp
+2275	TFC	Truist Financial Corp
+2276	TFII	Tfi International Inc
+2277	TFSA	Terra Income Fund VI 7.00% Notes Due 2026
+2278	TFX	Teleflex Inc
+2279	TG	Tredegar Corp
+2280	TGH	Textainer Group Holdings
+2281	TGI	Triumph Group
+2282	TGNA	Tegna Inc
+2283	TGP	Teekay Lng Partners LP
+2284	TGS	Transportadora DE Gas Sa Ord B
+2285	TGT	Target Corp
+2286	THC	Tenet Healthcare Corp
+2287	THG	The Hanover Insurance Group
+2288	THO	Thor Industries
+2289	THQ	Tekla Healthcare Opportunities
+2290	THR	Thermon Group Holdings Inc
+2291	THS	Treehouse Foods
+2292	THW	Tekla World Healthcare Fund
+2293	TIMB	Tim S.A. ADR
+2294	TINV	Tiga Acquisition Corp Cl A
+2295	TISI	Team Inc
+2296	TIXT	Telus International [Cda] Inc Subordinate Voting
+2297	TJX	TJX Companies
+2298	TK	Teekay Shipping Corp
+2299	TKC	Turkcell Iletisim Hizmetleri As
+2300	TKR	Timken Company
+2301	TLK	P.T. Telekomunikasi Indonesia Tbk
+2302	TLYS	Tilly's Inc
+2303	TM	Toyota Motor Corp Ltd Ord
+2304	TME	Tencent Music Entertainment Group ADR
+2305	TMHC	Taylor Morrison Home Corp
+2306	TMO	Thermo Fisher Scientific Inc
+2307	TMST	Timken Steel Corp
+2308	TMX	Terminix Global Hldgs Inc
+2309	TNC	Tennant Company
+2310	TNET	Trinet Group Inc
+2311	TNK	Teekay Tankers Ltd
+2312	TNL	Travel + Leisure CO
+2313	TNP	Tsakos Energy Navigation Ltd
+2314	TOL	Toll Brothers Inc
+2315	TOT	Totalfinaelf S.A.
+2316	TPB	Turning Point Brands
+2317	TPC	Tutor Perini Corp
+2318	TPGY	Tpg Pace Beneficial Finance Corp Cl A
+2319	TPH	Tri Pointe Homes Inc
+2320	TPL	Texas Pacific Land Trust
+2321	TPR	Tapestry Inc
+2322	TPRE	Third Point Reinsurance Ltd Company
+2323	TPVG	Triplepoint Venture Growth Bdc
+2324	TPVY	Triplepoint Venture Growth Bdc Corp 5.75% Notes
+2325	TPX	Tempur-Pedic International Inc
+2326	TPZ	Tortoise Power and Energy
+2327	TR	Tootsie Roll Industries
+2328	TRC	Tejon Ranch Company
+2329	TREB	Trebia Acquisition Corp Cl A
+2330	TREC	Trecora Resources
+2331	TREX	Trex Company
+2332	TRGP	Targa Resources
+2333	TRI	Thomson Reuters Corp
+2334	TRN	Trinity Industries
+2335	TRNO	Terreno Realty Corp
+2336	TROX	Tronox Inc
+2337	TRP	Tc Energy Corp
+2338	TRQ	Turquoise Hill Resources Ltd
+2339	TRTN	Triton International Ltd
+2340	TRTX	Tpg Re Finance Trust Inc
+2341	TRU	Transunion
+2342	TRV	The Travelers Companies Inc
+2343	TS	Tenaris S.A.
+2344	TSE	Trinseo S.A.
+2345	TSI	Tcw Strategic
+2346	TSLX	Tpg Specialty Lending Inc
+2347	TSM	Taiwan Semiconductor Manufacturing
+2348	TSN	Tyson Foods
+2349	TSQ	Townsquare Media Llc
+2350	TT	Trane Technologies Plc
+2351	TTC	Toro Company
+2352	TTI	Tetra Technologies
+2353	TTM	Tata Motors Ltd
+2354	TTP	Tortoise Pipeline & Energy Fund
+2355	TU	Telus Corp
+2356	TUFN	Tufin Software Technologies Ltd
+2357	TUP	Tupperware Corp
+2358	TV	Grupo Televisa S.A.
+2359	TVC	Tennessee Valley Authority
+2360	TVE	Tennessee Valley Authority
+2361	TWI	Titan International
+2362	TWLO	Twilio
+2363	TWN	Taiwan Fund
+2364	TWND	Tailwind Acquisition Corp Cl A
+2365	TWO	Two Harbors Investments Corp
+2366	TWTR	Twitter Inc
+2367	TX	Ternium S.A.
+2368	TXT	Textron Inc
+2369	TY	Tri Continental Corp
+2370	TY.P	Tri Contl Corp [Ty/P]
+2371	TYG	Tortoise Energy Infrastructure Corp
+2372	TYL	Tyler Technologies
+2373	U	Unity Software Inc
+2374	UA	Under Armour Inc Cl C
+2375	UAA	Under Armour
+2376	UAN	Cvr Partners LP
+2377	UBA	Urstadt Biddle Properties Inc
+2378	UBER	Uber Technologies Inc
+2379	UBP	Urstadt Biddle Properties Inc
+2380	UBS	UBS Group Ag
+2381	UDR	United Dominion Realty Trust
+2382	UE	Urban Edge Properties
+2383	UFI	Unifi Inc
+2384	UFS	Domtar Corp
+2385	UGI	Ugi Corp
+2386	UGP	Ultrapar Participacoes S.A.
+2387	UHS	Universal Health Services
+2388	UHT	Universal Health Realty Income Trust
+2389	UI	Ubiquiti Networks
+2390	UIS	Unisys Corp
+2391	UL	Unilever Plc
+2392	UMC	United Microelectronics Corp
+2393	UMH	Umh Properties
+2394	UNF	Unifirst Corp
+2395	UNFI	United Nat Foods
+2396	UNH	Unitedhealth Group Inc
+2397	UNM	Unumprovident Corp
+2398	UNMA	Unum Group 6.250% Junior
+2399	UNP	Union Pacific Corp
+2400	UNVR	Univar Inc
+2401	UPS	United Parcel Service
+2402	URI	United Rentals
+2403	USA	Liberty All-Star Equity Fund
+2404	USAC	USA Compression Partners LP
+2405	USB	U.S. Bancorp
+2406	USDP	USD Partners LP
+2407	USFD	US Foods Holding
+2408	USM	United States Cellular Corp
+2409	USNA	Usana Health Sciences Inc
+2410	USPH	U.S. Physical Therapy
+2411	USX	U.S. Xpress Enterprises Inc Cl A
+2412	UTF	Cohen & Steers Infrastructure Fund
+2413	UTI	Universal Technical Institute Inc
+2414	UTL	Unitil Corp
+2415	UTZ	Utz Brands Inc
+2416	UVE	Universal Insurance Holdings Inc
+2417	UVV	Universal Corp
+2418	UWMC	Uwm Hldg Corp
+2419	UZA	United States Cellular Corp
+2420	UZB	United States Cellular Corp
+2421	UZC	United States Cellular Corp
+2422	UZD	United States Cellular Corp 6.250% Senior
+2423	UZE	United States Cellular Corp
+2424	V	Visa Inc
+2425	VAC	Marriot Vacations Worldwide Cor
+2426	VALE	Vale S.A.
+2427	VAPO	Vapotherm Inc
+2428	VAR	Varian Medical Systems
+2429	VBF	Invesco Van Kampen Bond Fund
+2430	VCIF	Vertical Capital Income Fund Common Shares of BE
+2431	VCRA	Vocera Communications Inc
+2432	VCV	Invesco California Value Muni Income Trust
+2433	VEC	Vectrus Inc
+2434	VEDL	Vedanta Ltd
+2435	VEEV	Veeva Systems Inc
+2436	VEL	Velocity Financial Inc
+2437	VER	Vereit Inc
+2438	VET	Vermilion Energy Inc
+2439	VFC	V.F. Corp
+2440	VGAC	VG Acquisition Corp Cl A
+2441	VGI	Virtus Global Multi-Sector Inc
+2442	VGM	Invesco Trust For Investment Grade Municipals
+2443	VGR	Vector Group Ltd
+2444	VHC	Virnetx Holding Corp
+2445	VHI	Valhi Inc
+2446	VIAO	Via Optronics Ag ADR
+2447	VICI	Vici Properties Inc
+2448	VIPS	Vipshop Holdings Ltd
+2449	VIST	Vista Oil & Gas S.A.B. DE C.V.
+2450	VIV	Telecomunicacoes DE Sao Paulo ADR
+2451	VKQ	Invesco Muni Trust
+2452	VLO	Valero Energy Corp
+2453	VLRS	Controladora Vuela Compaia DE
+2454	VLT	Invesco High
+2455	VMC	Vulcan Materials Company
+2456	VMI	Valmont Industries
+2457	VMO	Invesco Muni Opportunity Trust
+2458	VMW	Vmware Inc
+2459	VNCE	Vince Holding Corp
+2460	VNE	Veoneer Inc
+2461	VNO	Vornado Realty Trust
+2462	VNT	Vontier Corp [Vnt/I]
+2463	VNTR	Venator Materials Plc
+2464	VOC	Voc Energy Trust
+2465	VOYA	VOYA Financial Inc
+2466	VPG	Vishay Precision Group
+2467	VPV	Invesco Pennsylvania Muni
+2468	VRS	Verso Corp
+2469	VRT	Vertiv Holdings Llc.
+2470	VRTV	Veritiv Corp
+2471	VSH	Vishay Intertechnology
+2472	VST	Vistra Energy Corp
+2473	VSTO	Vista Outdoor Inc
+2474	VTA	Invesco Dynamic Credit Fund
+2475	VTN	Invesco Trust New York Muni
+2476	VTOL	Bristow Group Inc
+2477	VTR	Ventas Inc
+2478	VVI	Viad Corp
+2479	VVNT	Vivint Smart Home Inc
+2480	VVR	Invesco Senior Income Trust
+2481	VVV	Valvoline Inc
+2482	VYGG	Vy Global Growth Cl A
+2483	VZ	Verizon Communications Inc
+2484	W	Wayfair Inc
+2485	WAB	Wabtec Corp
+2486	WAL	Western Alliance Bancorp
+2487	WALA	Western Alliance Bancorp
+2488	WAT	Waters Corp
+2489	WBAI	500Wan.com Ltd
+2490	WBK	Westpac Banking Corp
+2491	WBS	Webster Financial Corp
+2492	WBT	Welbilt Inc
+2493	WCC	Wesco International
+2494	WCN	Waste Connections Inc
+2495	WD	Walker & Dunlop
+2496	WDR	Waddell & Reed Financial
+2497	WEA	Western Asset Bond Fund
+2498	WEC	Wisconsin Energy Corp
+2499	WEI	Weidai Ltd ADR
+2500	WELL	Welltower Inc
+2501	WES	Western Midstream Partners LP
+2502	WEX	Wex Inc
+2503	WF	Woori Finance Holdings CO Ltd
+2504	WFC	Wells Fargo & Company
+2505	WFG	West Fraser Timber L
+2506	WGO	Winnebago Industries
+2507	WH	Wyndham Hotels & Resorts Inc
+2508	WHD	Cactus Inc Cl A
+2509	WHG	Westwood Holdings Group Inc
+2510	WHR	Whirlpool Corp
+2511	WIA	U.S. Treasury Inflation Prot Secs Fd
+2512	WIT	Wipro Ltd
+2513	WIW	U.S Treasury Inflation Prot Secs Fd 2
+2514	WK	Workiva Llc
+2515	WLK	Westlake Chemical Corp
+2516	WLKP	Westlake Chemical Partners LP
+2517	WLL	Whiting Petroleum Corp
+2518	WM	Waste Management
+2519	WMB	Williams Companies
+2520	WMC	Western Asset Mortgage Capital
+2521	WMK	Weis Markets
+2522	WMS	Advanced Drainage Systems Inc
+2523	WMT	Wal-Mart Stores
+2524	WNC	Wabash National Corp
+2525	WNS	Wns Ltd
+2526	WOR	Worthington Industries
+2527	WORK	Slack Technologies Inc
+2528	WOW	Wideopenwest Inc
+2529	WPC	W.P. Carey & CO Llc
+2530	WPF	Foley Trasimene Acquisition Cl A
+2531	WPG	Washington Prime Group Inc
+2532	WPM	Wheaton Precious Metals
+2533	WPP	Wpp Plc ADR
+2534	WRB	W.R. Berkley Corp
+2535	WRE	Washington Real Estate Investment
+2536	WRI	Weingarten Realty Investors
+2537	WRK	Westrock Company
+2538	WSM	Williams-Sonoma
+2539	WSO	Watsco Inc
+2540	WSR	Whitestone REIT
+2541	WST	West Pharmaceutical Services
+2542	WTI	W&T Offshore
+2543	WTM	White Mountains Insurance Group
+2544	WTRG	Essential Utilities Inc
+2545	WTRU	Aqua America Inc 6.00% Tangible Equity Units
+2546	WTS	Watts Water Technologies
+2547	WTTR	Select Energy Services Inc
+2548	WU	Western Union Company
+2549	WWE	World Wrestling Entertainment
+2550	WWW	Wolverine World Wide
+2551	WY	Weyerhaeuser Company
+2552	WYND	Wyndham Destinations Inc
+2553	X	United States Steel Corp
+2554	XAN	Exantas Capital Corp
+2555	XEC	Cimarex Energy Company
+2556	XFLT	Xai Octagon Floating Alt Income Term Trust Compa
+2557	XHR	Xenia Hotels & Resorts Inc
+2558	XIN	Xinyuan Real Estate CO Ltd
+2559	XL	XL Fleet Corp
+2560	XOM	Exxon Mobil Corp
+2561	XPEV	Xpeng Inc ADR
+2562	XPO	Xpo Logistics Inc
+2563	XPOA	Dpcm Capital Inc Cl A
+2564	XRX	Xerox Corp
+2565	XYF	X Financial
+2566	XYL	Xylem Inc
+2567	Y	Alleghany Corp
+2568	YAC	Yucaipa Acquisition Corp Cl A
+2569	YALA	Yalla Group Limited ADR
+2570	YELP	Yelp Inc
+2571	YETI	Yeti Holdings Inc
+2572	YEXT	Yext Inc
+2573	YPF	Ypf Sociedad Anonima
+2574	YRD	Yirendai Ltd
+2575	YSG	Yatsen Holding Limited ADR
+2576	YUM	Yum! Brands
+2577	YUMC	Yum China Holdings Inc
+2578	ZBH	Zimmer Biomet Holdings
+2579	ZEN	Zendesk Inc
+2580	ZEPP	Zepp Health Corp
+2581	ZIM	Zim Integrated Shipping Services Ltd
+2582	ZNH	China Southern Airlines Company
+2583	ZTO	Zto Express Cayman Inc
+2584	ZTR	Virtus Global Divd & Income Fund
+2585	ZTS	Zoetis Inc Cl A
+2586	ZUO	Zuora Inc
+2587	ZYME	Zymeworks Inc
