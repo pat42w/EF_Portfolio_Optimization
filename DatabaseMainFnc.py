@@ -103,3 +103,24 @@ def update_db(exchange,refetchAll = False):
     # Write the data to CSV
     writeDbToExcelFile(database,exchange)
     return
+
+# for a given echange removes any tickers which have all NULLS in the data base 
+def cleanCompanyList(exchange):
+    #Load db
+    df=connectAndLoadDb(exchange)
+    
+    #create list of NULL columns
+    l_drop=df.columns[df.isna().all()].tolist()
+
+    #read in company list TSV
+    df_info=pd.read_csv('Company lists/companylist_'+str(exchange)+'.tsv',sep='\t') 
+    df_info.drop(columns=['Unnamed: 0'],inplace=True)
+    df_info.index=df_info.Symbol
+
+    #drop listed rows
+    df_info.drop(index=l_drop, inplace=True)
+    df_info.reset_index(drop=True, inplace=True)
+
+    df_info.to_csv('Company lists/companylist_'+str(exchange)+'.tsv',sep='\t')
+    print(str(len(l_drop))+' Rows dropped from '+str(exchange))
+    return
