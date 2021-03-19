@@ -124,3 +124,20 @@ def cleanCompanyList(exchange):
     df_info.to_csv('Company lists/companylist_'+str(exchange)+'.tsv',sep='\t')
     print(str(len(l_drop))+' Rows dropped from '+str(exchange))
     return
+
+def net_gains(principal,expected_returns,years,people=1):
+    """Calculates the net gain after Irish Capital Gains Tax of a given principal for a given expected_returns over a given period of years"""
+    cgt_tax_exemption=1270*people  #tax free threashold all gains after this are taxed at the cgt_ta_rate
+    cgt_tax_rate=0.33  #cgt_tax_rate as of 19/3/21
+    total_p=principal
+    year=0
+    while year < years:
+        year+=1
+        gross_returns=total_p*expected_returns
+        if gross_returns >cgt_tax_exemption:
+            taxable_returns=gross_returns-cgt_tax_exemption
+            net_returns=cgt_tax_exemption+(taxable_returns*(1-cgt_tax_rate))
+        else:
+            net_returns=gross_returns
+        total_p= total_p + net_returns
+    return total_p
