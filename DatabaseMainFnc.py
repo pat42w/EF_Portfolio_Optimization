@@ -141,3 +141,29 @@ def net_gains(principal,expected_returns,years,people=1):
             net_returns=gross_returns
         total_p= total_p + net_returns
     return total_p
+
+
+def priceDB_validation(database):
+    """Takes the prices database checkes for negative stock prices, if there are it attempts to repull the data, if it cannot it drops those columns"""
+    #check for negative prices (should not have any)
+    neg_cols=database.columns[(database < 0).any()]
+    print('---------------------------------------------------------------------')
+    print('Negative prices are seen in the following assets: '+str(len(neg_cols)))
+    if len(neg_cols) >0:
+        print(neg_cols.tolist())
+
+        #Try to fix by rerunning the data
+        df_retry=yf.download(neg_cols.tolist(),'2006-1-1')['Adj Close']
+        print('Are there negatives in the repulled data : '+str((df_retry< 0).any()))
+        if (df_retry< 0).any() ==True:
+            print('Issue not solved by repulling data so the following columns have been dropped:')
+            print(neg_cols.tolist())
+            database.drop(columns=neg_cols.tolist(), inplace=True)
+
+        
+        else:
+            print('Issue has been solved by repulling data, the following columns have been updated with repulled data:')
+            print(neg_cols.tolist())
+            database[neg_cols.tolist()]=df_retry[neg_cols.tolist()]
+        
+        return database
