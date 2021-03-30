@@ -10,10 +10,24 @@ from datetime import timedelta
 
 DATE_FORMAT = '%Y-%m-%d'
 
-# Data base maintainance functions
+# Database maintainance functions
 
 #Connects to a the pre-existing CSV price database
 def connectAndLoadDb(exchange):
+    """Connects to and loads the data for an exchange
+    Parameters
+    ----------
+    exchange : str
+        The name of the exchange stored at
+        "Price Databases\database_"+str(exchange)+".csv"
+
+    Returns
+    -------
+    DataFrame 
+        database with dates & assets prices 
+        in the native currency in each column
+    """
+
     print("Connecting database:"+str(exchange))
     filename="Price Databases\database_"+str(exchange)+".csv"
     database = pd.read_csv(filename,index_col=False) 
@@ -22,12 +36,32 @@ def connectAndLoadDb(exchange):
 
 #Gets the latest date of data in the db
 def getLastEntryDate(database):
+    """Gets the most recent entry date from 
+    the prices database
+    Parameters
+    ----------
+    database : DataFrame
+        The database of prices with a date column or index 'Date'
+
+    Returns
+    -------
+    str
+        The most recent entry date in '%Y-%m-%d' format
+    """
     lastDateEntry = database.iloc[-1]['Date']
     lastDateEntry = datetime.datetime.strptime(lastDateEntry, DATE_FORMAT)    
     return lastDateEntry
 
 #Writes the updated pandas dataframe to the CSV
 def writeDbToExcelFile(database,exchange):
+    """Saves the database as a csv to the directory: 
+    'Price Databases\database_'+str(exchange)+'.csv'
+    ----------
+    database : DataFrame
+        The database of prices with a date column or index 'Date'
+    exchange : str
+        The name of the index to use in the filename 
+    """
     filename='Price Databases\database_'+str(exchange)+'.csv'
     print('Writing database to filename: '+ filename)
     database.index=database['Date']
@@ -37,6 +71,12 @@ def writeDbToExcelFile(database,exchange):
 
 #Formats the date from number for printing      
 def prettyPrintDate(date):
+    """Formats a date string to '%Y-%m-%d' format, 
+    used to consistantly print the same date format
+    ----------
+    date : str
+        The date we want to format
+    """
     return date.strftime(DATE_FORMAT)
 
 #Data Fetching functions
