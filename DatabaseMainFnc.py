@@ -14,10 +14,24 @@ from forex_python.converter import get_rate
 
 DATE_FORMAT = '%Y-%m-%d'
 
-# Data base maintainance functions
+# Database maintainance functions
 
 #Connects to a the pre-existing CSV price database
 def connectAndLoadDb(exchange):
+    """Connects to and loads the data for an exchange
+    Parameters
+    ----------
+    exchange : str
+        The name of the exchange stored at
+        "Price Databases\database_"+str(exchange)+".csv"
+
+    Returns
+    -------
+    DataFrame 
+        database with dates & assets prices 
+        in the native currency in each column
+    """
+
     print("Connecting database:"+str(exchange))
     filename="Price Databases\database_"+str(exchange)+".csv"
     database = pd.read_csv(filename,index_col=False) 
@@ -26,12 +40,32 @@ def connectAndLoadDb(exchange):
 
 #Gets the latest date of data in the db
 def getLastEntryDate(database):
+    """Gets the most recent entry date from 
+    the prices database
+    Parameters
+    ----------
+    database : DataFrame
+        The database of prices with a date column or index 'Date'
+
+    Returns
+    -------
+    str
+        The most recent entry date in '%Y-%m-%d' format
+    """
     lastDateEntry = database.iloc[-1]['Date']
     lastDateEntry = datetime.datetime.strptime(lastDateEntry, DATE_FORMAT)    
     return lastDateEntry
 
 #Writes the updated pandas dataframe to the CSV
 def writeDbToExcelFile(database,exchange):
+    """Saves the database as a csv to the directory: 
+    'Price Databases\database_'+str(exchange)+'.csv'
+    ----------
+    database : DataFrame
+        The database of prices with a date column or index 'Date'
+    exchange : str
+        The name of the index to use in the filename 
+    """
     filename='Price Databases\database_'+str(exchange)+'.csv'
     print('Writing database to filename: '+ filename)
     database.index=database['Date']
@@ -41,40 +75,67 @@ def writeDbToExcelFile(database,exchange):
 
 #Formats the date from number for printing      
 def prettyPrintDate(date):
+    """Formats a date string to '%Y-%m-%d' format, 
+    used to consistantly print the same date format
+    ----------
+    date : str
+        The date we want to format
+    """
     return date.strftime(DATE_FORMAT)
 
 #Data Fetching functions
 
 #get ticker list from our tsv files
 def getTickers(exchange):
-    #We have the lists saved as TSV ie delimited wth tabs rather than commas
+    """Pulls in the list of stock tickers for an exchange
+    stored at 'Company lists/companylist_'+str(exchange)+'.tsv'
+    Parameters
+    ----------
+    exchange : str
+        The name of the exchange stored at
+        'Company lists/companylist_'+str(exchange)+'.tsv'
+
+    Returns
+    -------
+    l_tickers : list 
+        list of stock tickers listed on the exchange
+    """
+    #We have the lists saved as TSV ie delimited with tabs rather than commas
     df_info=pd.read_csv('Company lists/companylist_'+str(exchange)+'.tsv',sep='\t') 
     l_tickers=df_info.Symbol.tolist()
     return l_tickers
 
-#Pulls adj closing price data from yfinance for a given list of stock tickers 'l_tickers', for all dates up to today from a given 'date' merges this data with an existing database 'database'
-def fetchAndAppendToDb(date, database, exchange):  
-    dateStr = prettyPrintDate(date)
-    print('Fetching stock closing price of '+str(exchange)+' for days over: ' + dateStr)
-
-    l_tickers=getTickers(exchange)
-    #Pulling adj closing price data from yfinance
-    mergedData = yf.download(l_tickers,date)['Adj Close']
-
-    #Making date the index col
-    mergedData['Date']=mergedData.index
-
-    #append our new data onto the existing databae
-    database = database.append(mergedData, ignore_index=True)
-    return database
-
 # Updates data for a given exchange or creates a db from a given ticker list
 def fetchData(database,exchange, refetchAll = False):
+    """adds adj closing price data from a given exchange 
+    from date using Yfinance.
+
+    Parameters
+    ----------
+    database : DataFrame
+        The data base of prices to be appended.
+        Empty DataFrame if starting a new prices database.
+
+    exchange : str
+        The name of the exchange stored at
+        'Company lists/companylist_'+str(exchange)+'.tsv'
+
+    refetchAll : Boolean
+        False: updates price data from the latest entry up to yesterday
+        True:  refetches all price data from '2006-01-01' to yesterday
+    Returns
+    -------
+    database : DataFrame 
+        The database of with latest prices added.
+    """ 
+
     if refetchAll == True:
         lastEntryDate = datetime.datetime.strptime('2006-01-01', DATE_FORMAT) #Start date here 
     else:
         lastEntryDate = getLastEntryDate(database)
     ydaysDate = datetime.datetime.today() - timedelta(days = 1)
+
+    # checks is the data base already up to date
     if lastEntryDate >= ydaysDate:
         print('Data already loaded up to Yesterday')
         return database
@@ -84,7 +145,19 @@ def fetchData(database,exchange, refetchAll = False):
     
         dateToFetch = lastEntryDate + timedelta(days=1)
 
-        database = fetchAndAppendToDb(dateToFetch, database, exchange)
+        dateStr = prettyPrintDate(dateToFetch)
+        print('Fetching stock closing price of '+str(exchange)+' for days over: ' + dateStr)
+
+        l_tickers=getTickers(exchange)
+
+        #Pulling adj closing price data from yfinance
+        mergedData = yf.download(l_tickers,dateToFetch)['Adj Close']
+
+        #Making date the index col
+        mergedData['Date']=mergedData.index
+
+        #append our new data onto the existing databae
+        database = database.append(mergedData, ignore_index=True)
     
         print("----------------------------------------------")
         print("Data fill completed! 👍👍")
@@ -92,6 +165,23 @@ def fetchData(database,exchange, refetchAll = False):
 
 # one line  function to create or update a db for a given exchange 
 def update_db(exchange,refetchAll = False):
+    """One line funcion that pulls adj closing price data for 
+    a given exchange into a DataFrame and saves as a csv to: 
+    'Price Databases\database_'+str(exchange)+'.csv'.
+    Parameters
+    ----------
+    exchange : str
+        The name of the exchange stored at
+        'Company lists/companylist_'+str(exchange)+'.tsv'
+
+    refetchAll : Boolean
+        False: updates price data from the latest entry up to yesterday
+        True:  refetches all price data from '2006-01-01' to yesterday
+    Returns
+    -------
+    database : DataFrame 
+        The database of with latest prices added for the exchange.
+    """ 
     if refetchAll == True:
         #For a fresh run 
         database = pd.DataFrame()
@@ -110,6 +200,15 @@ def update_db(exchange,refetchAll = False):
 
 # for a given echange removes any tickers which have all NULLS in the data base 
 def cleanCompanyList(exchange):
+    """After database is created run this to check for any empty 
+    columns and remove the ticket from the company list.
+    After this is ran re run update_db with Refetchall = True.
+    Parameters
+    ----------
+    exchange : str
+        The name of the database stored at
+        'Company lists/companylist_'+str(exchange)+'.tsv'
+    """ 
     #Load db
     df=connectAndLoadDb(exchange)
     
@@ -145,6 +244,7 @@ def net_gains(principal,expected_returns,years,people=1):
             net_returns=gross_returns
         total_p= total_p + net_returns
     return total_p
+
 
 def gen_curr_csv():
     """
@@ -200,3 +300,43 @@ def load_curr_csv(stocks_df,input_curr):
     result = pd.DataFrame(np.array(rates_df) * np.array(stocks_df),columns=stocks_df.columns,index=stocks_df.index)
 
     return result
+
+
+def priceDB_validation(database):
+    """Takes the prices database checkes for negative stock prices, 
+    if there are it attempts to repull the data, 
+    if it cannot it drops those columns.
+    Parameters
+    ----------
+    database : DataFrame
+        The dataframe of stock prices to be checked.
+
+    Returns
+    -------
+    database : DataFrame 
+        The database of negative prices ammended 
+        or offending stocks removed.
+    """
+    #check for negative prices (should not have any)
+    neg_cols=database.columns[(database < 0).any()]
+    print('---------------------------------------------------------------------')
+    print('Negative prices are seen in the following assets: '+str(len(neg_cols)))
+    if len(neg_cols) >0:
+        print(neg_cols.tolist())
+
+        #Try to fix by rerunning the data
+        df_retry=yf.download(neg_cols.tolist(),'2006-1-1')['Adj Close']
+        print('Are there negatives in the repulled data : '+str((df_retry< 0).any()))
+        if (df_retry< 0).any() ==True:
+            print('Issue not solved by repulling data so the following columns have been dropped:')
+            print(neg_cols.tolist())
+            database.drop(columns=neg_cols.tolist(), inplace=True)
+
+        
+        else:
+            print('Issue has been solved by repulling data, the following columns have been updated with repulled data:')
+            print(neg_cols.tolist())
+            database[neg_cols.tolist()]=df_retry[neg_cols.tolist()]
+        
+        return database
+
