@@ -8,6 +8,10 @@ import datetime
 import math
 from datetime import timedelta 
 
+# Import libraries to fetch historical EUR/USD prices
+from datetime import datetime
+from forex_python.converter import get_rate
+
 DATE_FORMAT = '%Y-%m-%d'
 
 # Database maintainance functions
@@ -242,6 +246,62 @@ def net_gains(principal,expected_returns,years,people=1):
     return total_p
 
 
+def gen_curr_csv():
+    """
+    Generates dataframe for currency pairs between 1st Jan. 2006 and yesterday, and saves to CSV
+    """
+
+    input_currencies = ['USD','JPY','GBP']
+    start_date = datetime(2006,1,1).date()
+    
+    # May take up to 50 minutes to generate full set of rates
+    end_date = (datetime.today() - timedelta(1)).date()
+    #end_date = datetime(2006,3,1).date() # For testing
+
+    # Generate list of dates
+    dates = []
+    for i in range((end_date - start_date).days + 1):
+        dates.append((start_date + timedelta(i)))
+    
+    # Add dates to dataframe
+    rates_df = pd.DataFrame()
+    rates_df['Date'] = dates
+
+    rates_0 = []
+    for date in dates:
+        rates_0.append(get_rate(input_currencies[0],'EUR', date))
+
+    rates_1 = []
+    for date in dates:
+        rates_1.append(get_rate(input_currencies[1],'EUR', date))
+
+    rates_2 = []
+    for date in dates:
+        rates_2.append(get_rate(input_currencies[2],'EUR', date))
+    
+    rates_df[input_currencies[0]] = rates_0
+    rates_df[input_currencies[1]] = rates_1
+    rates_df[input_currencies[2]] = rates_2
+
+    rates_df.to_csv('rates.csv',index = False)
+
+    return 'rates.csv'
+
+def load_curr_csv(stocks_df,input_curr):
+    rates_df = pd.read_csv('rates.csv')
+    
+    rates_df=rates_df.set_index(pd.DatetimeIndex(rates_df['Date'].values))
+    rates_df.drop(columns=['Date'],axis=1, inplace=True)
+
+    if not input_curr in list(rates_df.columns):
+        return 'Currency not supported'
+
+    # Multiply each row of stocks dataframe by its' corresponding exchange rate
+    result = pd.DataFrame(np.array(rates_df) * np.array(stocks_df),columns=stocks_df.columns,index=stocks_df.index)
+
+    return result
+
+
 def priceDB_validation(database):
     """Takes the prices database checkes for negative stock prices, 
     if there are it attempts to repull the data, 
@@ -279,3 +339,4 @@ def priceDB_validation(database):
             database[neg_cols.tolist()]=df_retry[neg_cols.tolist()]
         
         return database
+
