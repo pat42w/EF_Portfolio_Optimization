@@ -9,7 +9,6 @@ import math
 from datetime import timedelta 
 
 # Import libraries to fetch historical EUR/USD prices
-from datetime import datetime
 from forex_python.converter import get_rate
 
 DATE_FORMAT = '%Y-%m-%d'
@@ -18,7 +17,7 @@ DATE_FORMAT = '%Y-%m-%d'
 
 #Connects to a the pre-existing CSV price database
 def connectAndLoadDb(exchange):
-    """Connects to and loads the data for an exchange
+    """Connects to and loads the data for an exchange.
     Parameters
     ----------
     exchange : str
@@ -252,12 +251,15 @@ def gen_curr_csv():
     """
 
     input_currencies = ['USD','JPY','GBP']
-    start_date = datetime(2006,1,1).date()
-    
-    # May take up to 50 minutes to generate full set of rates
-    end_date = (datetime.today() - timedelta(1)).date()
-    #end_date = datetime(2006,3,1).date() # For testing
+    start_date = datetime.datetime(2006,1,1).date()
+    print("Fetching Currecy rates from : "+prettyPrintDate(start_date))
+    print("For Eur from : "+str(input_currencies))
 
+    # May take up to 50 minutes to generate full set of rates
+    end_date = (datetime.datetime.today() - timedelta(1)).date()
+    #end_date = datetime(2007,1,1).date() # For testing
+
+    print("Generating date list")
     # Generate list of dates
     dates = []
     for i in range((end_date - start_date).days + 1):
@@ -268,27 +270,31 @@ def gen_curr_csv():
     rates_df['Date'] = dates
 
     rates_0 = []
+    rates_1 = []
+    rates_2 = []
+    print("Fetching exchange data")
+    #attempted to speed up by combining loops
     for date in dates:
         rates_0.append(get_rate(input_currencies[0],'EUR', date))
-
-    rates_1 = []
-    for date in dates:
         rates_1.append(get_rate(input_currencies[1],'EUR', date))
-
-    rates_2 = []
-    for date in dates:
         rates_2.append(get_rate(input_currencies[2],'EUR', date))
-    
+
+    #saving into DF
     rates_df[input_currencies[0]] = rates_0
     rates_df[input_currencies[1]] = rates_1
     rates_df[input_currencies[2]] = rates_2
+    print("Currecy rates updated")
 
-    rates_df.to_csv('rates.csv',index = False)
-
-    return 'rates.csv'
+    
+    # Saved into the folder with the rest of our pricing data
+    print("Writing database to filename: Price Databases\curr_rates.csv")
+    rates_df.to_csv("Price Databases\curr_rates.csv")
+    
+    print("Database updated with new entries!!")
+    return 
 
 def load_curr_csv(stocks_df,input_curr):
-    rates_df = pd.read_csv('rates.csv')
+    rates_df = pd.read_csv("Price Databases\curr_rates.csv")
     
     rates_df=rates_df.set_index(pd.DatetimeIndex(rates_df['Date'].values))
     rates_df.drop(columns=['Date'],axis=1, inplace=True)
@@ -317,26 +323,33 @@ def priceDB_validation(database):
         The database of negative prices ammended 
         or offending stocks removed.
     """
-    #check for negative prices (should not have any)
+#check for negative prices (should not have any)
     neg_cols=database.columns[(database < 0).any()]
     print('---------------------------------------------------------------------')
     print('Negative prices are seen in the following assets: '+str(len(neg_cols)))
     if len(neg_cols) >0:
         print(neg_cols.tolist())
 
+        #Drop the offending columns
+        print('The following columns have been dropped:')
+        print(neg_cols.tolist())
+        database.drop(columns=neg_cols.tolist(), inplace=True)
+       
+        
+        #I cant get this part working so i am just droping the columns that have issues for now
         #Try to fix by rerunning the data
-        df_retry=yf.download(neg_cols.tolist(),'2006-1-1')['Adj Close']
-        print('Are there negatives in the repulled data : '+str((df_retry< 0).any()))
-        if (df_retry< 0).any() ==True:
-            print('Issue not solved by repulling data so the following columns have been dropped:')
-            print(neg_cols.tolist())
-            database.drop(columns=neg_cols.tolist(), inplace=True)
+        #df_retry=yf.download(neg_cols.tolist(),'2006-1-1')['Adj Close']
+        #print('Are there negatives in the repulled data : '+str((df_retry< 0).any()))
+        #if (df_retry< 0).any() ==True:
+        #    print('Issue not solved by repulling data so the following columns have been dropped:')
+        #    print(neg_cols.tolist())
+        #    database.drop(columns=neg_cols.tolist(), inplace=True)
 
         
-        else:
-            print('Issue has been solved by repulling data, the following columns have been updated with repulled data:')
-            print(neg_cols.tolist())
-            database[neg_cols.tolist()]=df_retry[neg_cols.tolist()]
+        #else:
+        #   print('Issue has been solved by repulling data, the following columns have been updated with repulled data:')
+        #    print(neg_cols.tolist())
+        #    database[neg_cols]=yf.download(neg_cols.tolist(),'2006-1-1')['Adj Close']
         
         return database
 
