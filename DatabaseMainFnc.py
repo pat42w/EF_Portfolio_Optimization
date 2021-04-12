@@ -10,6 +10,7 @@ from datetime import timedelta
 
 # Import libraries to fetch historical EUR/USD prices
 from forex_python.converter import get_rate
+from joblib import Parallel, delayed
 
 DATE_FORMAT = '%Y-%m-%d'
 
@@ -247,9 +248,9 @@ def net_gains(principal,expected_returns,years,people=1):
 
 def gen_curr_csv():
     """
-    Generates dataframe for currency pairs between 1st Jan. 2006 and yesterday, and saves to CSV
+    Generates dataframe for currency pairs between 1st Jan. 2006 up to yesterday, 
+    and saves to "Price Databases\curr_rates.csv
     """
-
     input_currencies = ['USD','JPY','GBP']
     start_date = datetime.datetime(2006,1,1).date()
     print("Fetching Currecy rates from : "+prettyPrintDate(start_date))
@@ -257,7 +258,7 @@ def gen_curr_csv():
 
     # May take up to 50 minutes to generate full set of rates
     end_date = (datetime.datetime.today() - timedelta(1)).date()
-    #end_date = datetime(2007,1,1).date() # For testing
+    #end_date = datetime.datetime(2008,2,2).date() # For testing
 
     print("Generating date list")
     # Generate list of dates
@@ -269,23 +270,13 @@ def gen_curr_csv():
     rates_df = pd.DataFrame()
     rates_df['Date'] = dates
 
-    rates_0 = []
-    rates_1 = []
-    rates_2 = []
-    print("Fetching exchange data")
-    #attempted to speed up by combining loops
-    for date in dates:
-        rates_0.append(get_rate(input_currencies[0],'EUR', date))
-        rates_1.append(get_rate(input_currencies[1],'EUR', date))
-        rates_2.append(get_rate(input_currencies[2],'EUR', date))
+    #attempted to speed up by parallelising the date loops, this just over halves the time to run on the 15 years of data
+    for curr in input_currencies:
+        print("Fetching exchange data for: "+str(curr))
+        rates_df[curr]=Parallel(n_jobs=-1)(delayed(get_rate)(curr,'EUR', date) for date in dates)
 
-    #saving into DF
-    rates_df[input_currencies[0]] = rates_0
-    rates_df[input_currencies[1]] = rates_1
-    rates_df[input_currencies[2]] = rates_2
     print("Currecy rates updated")
 
-    
     # Saved into the folder with the rest of our pricing data
     print("Writing database to filename: Price Databases\curr_rates.csv")
     rates_df.to_csv("Price Databases\curr_rates.csv")
