@@ -322,7 +322,7 @@ def priceDB_validation(database):
         print(neg_cols.tolist())
 
         #Drop the offending columns
-        print('The following columns have been dropped:')
+        print('The following columns have been dropped: ')
         print(neg_cols.tolist())
         database.drop(columns=neg_cols.tolist(), inplace=True)
        
