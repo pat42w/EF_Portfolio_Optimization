@@ -8,6 +8,12 @@ import datetime
 import math
 from datetime import timedelta 
 
+from pypfopt.efficient_frontier import EfficientFrontier
+from pypfopt import risk_models
+from pypfopt import expected_returns
+from pypfopt import plotting
+import cvxpy as cp
+
 # Import libraries to fetch historical EUR/USD prices
 from forex_python.converter import get_rate
 from joblib import Parallel, delayed
@@ -343,4 +349,151 @@ def priceDB_validation(database):
         #    database[neg_cols]=yf.download(neg_cols.tolist(),'2006-1-1')['Adj Close']
         
         return database
+
+#generates historic performance data
+def portfolio_generate_test(database,startdate,enddate,p_max=400, min_returns=0.01, s_asset=0, asset_len=50, obj_method='SHARPE', target_percent=0.1, silent=True):
+    """Takes the prices database checkes for negative stock prices, 
+    if there are it attempts to repull the data, 
+    if it cannot it drops those columns.
+    Parameters
+    ----------
+    database : DataFrame
+        The dataframe of stock prices.
+
+    Returns
+    -------
+    database : DataFrame 
+        The database of negative prices ammended 
+        or offending stocks removed.
+    """
+    if silent == False:
+        print('Running for :'+str(startdate)+' to '+str(enddate))
+    # Subset for date range
+    df_input=database[startdate:enddate]
+    if silent == False:
+        print ("Initial number of stocks: "+str(len(df_input.columns)))
+
+    #Check for stocks which are too expensive for us to buy & drop those
+    p_now=database.iloc[-1,:]
+    df_unaffordable=p_now[p_now>p_max] #we can set max price here maybe as an optional
+    l_unaffordable=df_unaffordable.index.tolist()
+    df_input.drop(columns=l_unaffordable, inplace=True)
+    if silent == False:
+        print ("-----------------------------------------------------")
+        print ("Our max price is : €"+str(p_max))
+        print ("Number of stocks to drop due being unnaffordble: "+str(len(l_unaffordable)))
+        print ("Number of stocks remaining: "+str(len(df_input.columns)))
+
+
+    # drop any columns with more than half or more Nas as the models dont like these
+    half_length=int(len(df_input)*0.50)
+    l_drop=df_input.columns[df_input.iloc[:half_length,:].isna().all()].tolist()
+    df_input.drop(columns=l_drop, inplace=True)
+    if silent == False:
+        print ("-----------------------------------------------------")
+        print ("Number of stocks due to NAs: "+str(len(l_drop)))
+        print ("Number of stocks remaining: "+str(len(df_input.columns)))
+
+    # drop any columns with more  Nas for their last 5 rows as these have been delisted
+    l_drop=df_input.columns[df_input.iloc[-5:,:].isna().all()].tolist()
+    df_input.drop(columns=l_drop, inplace=True)
+    if silent == False:
+        print ("-----------------------------------------------------")
+        print ("Number of stocks due to being delisted: "+str(len(l_drop)))
+        print ("Number of stocks remaining: "+str(len(df_input.columns)))
+
+
+    #see which stocks have negative returns or low returns in the period & drop those
+    df_pct=(df_input.iloc[-1,:].fillna(0) / df_input.iloc[0,:])
+    df_pct=df_pct[df_pct<= (min_returns + 1)] #we can set minimum returns here maybe as an optional
+    l_pct=df_pct.index.tolist()
+    df_input.drop(columns=l_pct, inplace=True)
+    if silent == False:
+        print ("-----------------------------------------------------")
+        print ("Number of stocks due to Negative returns: "+str(len(l_pct)))
+        print ("Number of stocks remaining: "+str(len(df_input.columns)))
+        print ("Number of days data: "+str(len(df_input)))
+        print ("As default we will only keep the top 50 performing stocks when creating our portfolio(this can be varied using s_asset & asset_len)")
+
+    #We will only keep the X best performing assets can make this an optional input
+    e_asset=s_asset + asset_len
+    df=df_input
+    mu = expected_returns.mean_historical_return(df)
+    top_stocks = mu.sort_values(ascending=False).index[s_asset:e_asset]
+    df = df[top_stocks]
+
+    #Calculate expected annulised returns & annual sample covariance matrix of the daily asset
+    mu = expected_returns.mean_historical_return(df)
+    S = risk_models.sample_cov(df)
+
+    # Optomise for maximal Sharpe ratio
+    ef= EfficientFrontier(mu, S) #Create the Efficient Frontier Object
+
+    #We can try a variety of objectives look at adding this as an input
+    if obj_method == "SHARPE":
+        objective_summary=obj_method #description of the objective we used for our output df
+        weights = ef.max_sharpe()
+
+    elif obj_method == "MIN_VOL":
+        objective_summary=obj_method #description of the objective we used for our output df
+        weights = ef.min_volatility()
+
+    elif obj_method == "RISK":
+        objective_summary=obj_method+"_"+str(target_percent) #description of the objective we used for our output df
+        weights = ef.efficient_risk(target_percent)
+
+    elif obj_method == "RETURN":
+        objective_summary=obj_method+"_"+str(target_percent) #description of the objective we used for our output df
+        weights = ef.efficient_return(target_percent)
+
+    else:   
+        print("obj_method must be one of SHARPE, MIN_VOL, RISK, RETURN")
+
+    cl_weights= ef.clean_weights()
+    #print(cl_weights)
+    if silent == False:
+        print("-------------------------------------------------------------")
+        print("Our Benchmark portfolio the S&P 500 has: Volatility  18.1% & Annual Return: 10.6%")
+        ef.portfolio_performance(verbose=True)
+    expected_portfolio_returns=ef.portfolio_performance()[0]
+    volatility=ef.portfolio_performance()[1]
+    r_sharpe=ef.portfolio_performance()[2]
+
+    #calculates the actual performance date range work on this
+    actual_startdate = pd.to_datetime(enddate) + pd.DateOffset(days=2)
+    actual_enddate = pd.to_datetime(actual_startdate) + pd.DateOffset(years=1)
+
+    #create df of pice changes in thh folowing year
+    df_actual=database[actual_startdate:actual_enddate].fillna(0)
+    df_actual=df_actual[top_stocks].apply(lambda x: x.div(x.iloc[0]))
+
+    #refomat the weights so we can apply them to the df_actual
+    df_weights=pd.DataFrame(cl_weights.values())
+    df_weights=df_weights.transpose()
+    df_weights.columns=df_actual.columns
+
+    #our total weighted returns by day
+    df_weighted_actual=df_actual.mul(df_weights.iloc[-1,:])
+    df_weighted_actual=df_weighted_actual.sum(axis=1)
+
+    #now we calculate some stats more can be added here
+    max_returns=df_weighted_actual.max()-1
+    mean_returns=df_weighted_actual.mean()-1
+    min_returns=df_weighted_actual.min()-1
+    actual_returns=df_weighted_actual[-1]-1
+
+    if silent == False:
+        #Create dataframe for graph
+        df_graph=pd.DataFrame(df_weighted_actual, columns=['Actual_Returns'])
+        df_graph['Actual_Returns']=df_graph['Actual_Returns']-1
+        df_graph['Expected_Returns']=expected_portfolio_returns
+        df_graph.plot(figsize=(10,5))
+        plt.show()
+        print("-------------------------------------------------------------")
+        print("Our portfolio performed at : " + str(f'{actual_returns*100:.{1}f}')+"%")
+        print("Max : " + str(f'{max_returns*100:.{1}f}')+"%, "
+             +"Min : " + str(f'{min_returns*100:.{1}f}')+"%, "
+             +"Mean : " + str(f'{mean_returns*100:.{1}f}')+"%")
+
+    return [pd.to_datetime(startdate), pd.to_datetime(enddate), expected_portfolio_returns, volatility, r_sharpe, max_returns, min_returns, actual_returns,mean_returns, objective_summary]
 
