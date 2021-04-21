@@ -246,14 +246,17 @@ def net_gains(principal,expected_returns,years,people=1):
     return total_p
 
 
-def gen_curr_csv():
+def gen_curr_csv(input_currency=''):
     """
     Generates dataframe for currency pairs between 1st Jan. 2006 up to yesterday, 
-    and saves to "Price Databases\curr_rates.csv
+    and saves to 'Price Databases\curr_rates.csv'
     """
     input_currencies = ['USD','JPY','GBP']
+
+    if len(input_currency) > 0:
+        input_currencies.append(input_currency)
     start_date = datetime.datetime(2006,1,1).date()
-    print("Fetching Currecy rates from : "+prettyPrintDate(start_date))
+    print("Fetching Currency rates from : "+prettyPrintDate(start_date))
     print("For Eur from : "+str(input_currencies))
 
     # May take up to 50 minutes to generate full set of rates
@@ -285,6 +288,9 @@ def gen_curr_csv():
     return 
 
 def load_curr_csv(stocks_df,input_curr):
+    """
+    Loads FX rates data, and converts historical stock prices to EUR using the rate at the time
+    """
     rates_df = pd.read_csv("Price Databases\curr_rates.csv")
     
     rates_df=rates_df.set_index(pd.DatetimeIndex(rates_df['Date'].values))
@@ -293,8 +299,9 @@ def load_curr_csv(stocks_df,input_curr):
     if not input_curr in list(rates_df.columns):
         return 'Currency not supported'
 
+    rates_df = rates_df.merge(stocks_df,left_index=True, right_index=True).drop(columns=stocks_df.columns)
     # Multiply each row of stocks dataframe by its' corresponding exchange rate
-    result = pd.DataFrame(np.array(rates_df) * np.array(stocks_df),columns=stocks_df.columns,index=stocks_df.index)
+    result = pd.DataFrame(np.expand_dims(np.array(rates_df[input_curr]), axis=-1) * np.array(stocks_df),columns=stocks_df.columns,index=stocks_df.index)
 
     return result
 
