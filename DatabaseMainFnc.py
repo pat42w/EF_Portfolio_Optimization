@@ -112,7 +112,7 @@ def getTickers(exchange):
     return l_tickers
 
 # Updates data for a given exchange or creates a db from a given ticker list
-def fetchData(database,exchange, refetchAll = False):
+def fetchData(database,exchange,start_date, refetchAll = False):
     """adds adj closing price data from a given exchange 
     from date using Yfinance.
 
@@ -121,6 +121,11 @@ def fetchData(database,exchange, refetchAll = False):
     database : DataFrame
         The data base of prices to be appended.
         Empty DataFrame if starting a new prices database.
+
+    start_date : str
+        When refetchAll=True this denotes the start date 'YYYY-MM-DD' 
+        to pull data from up to yesterday
+        default is '2006-01-01'.
 
     exchange : str
         The name of the exchange stored at
@@ -136,7 +141,7 @@ def fetchData(database,exchange, refetchAll = False):
     """ 
 
     if refetchAll == True:
-        lastEntryDate = datetime.datetime.strptime('2006-01-01', DATE_FORMAT) #Start date here 
+        lastEntryDate = datetime.datetime.strptime(start_date, DATE_FORMAT) #Start date here 
     else:
         lastEntryDate = getLastEntryDate(database)
     ydaysDate = datetime.datetime.today() - timedelta(days = 1)
@@ -170,7 +175,7 @@ def fetchData(database,exchange, refetchAll = False):
         return database
 
 # one line  function to create or update a db for a given exchange 
-def update_db(exchange,refetchAll = False):
+def update_db(exchange, start_date='2006-01-01',refetchAll = False):
     """One line funcion that pulls adj closing price data for 
     a given exchange into a DataFrame and saves as a csv to: 
     'Price Databases\database_'+str(exchange)+'.csv'.
@@ -179,6 +184,11 @@ def update_db(exchange,refetchAll = False):
     exchange : str
         The name of the exchange stored at
         'Company lists/companylist_'+str(exchange)+'.tsv'
+
+    start_date : str
+        When refetchAll=True this denotes the start date 'YYYY-MM-DD' 
+        to pull data from up to yesterday
+        default is '2006-01-01'.
 
     refetchAll : Boolean
         False: updates price data from the latest entry up to yesterday
@@ -191,11 +201,11 @@ def update_db(exchange,refetchAll = False):
     if refetchAll == True:
         #For a fresh run 
         database = pd.DataFrame()
-        database = fetchData(database,exchange, refetchAll)
+        database = fetchData(database, exchange, start_date, refetchAll)
     else:
         # Load in & Update an existing database
         database = connectAndLoadDb(exchange)
-        database = fetchData(database,exchange)
+        database = fetchData(database,exchange, start_date)
 
     # Drop the last entry prior to saving as it probably is not a full days data
     database.drop(database.tail(1).index, inplace = True) 
@@ -252,18 +262,23 @@ def net_gains(principal,expected_returns,years,people=1):
     return total_p
 
 
-def gen_curr_csv():
+def gen_curr_csv(start_date='2006-01-01'):
     """
     Generates dataframe for currency pairs between 1st Jan. 2006 up to yesterday, 
     and saves to "Price Databases\curr_rates.csv
+
+    start_date : str
+        When refetchAll=True this denotes the start date 'YYYY-MM-DD' 
+        to pull data from up to yesterday
+        default is '2006-01-01'.
     """
     input_currencies = ['USD','JPY','GBP']
-    start_date = datetime.datetime(2006,1,1).date()
+    start_date = datetime.datetime.strptime(start_date, DATE_FORMAT)
     print("Fetching Currecy rates from : "+prettyPrintDate(start_date))
     print("For Eur from : "+str(input_currencies))
 
     # May take up to 50 minutes to generate full set of rates
-    end_date = (datetime.datetime.today() - timedelta(1)).date()
+    end_date = (datetime.datetime.today() - timedelta(1))
     #end_date = datetime.datetime(2008,2,2).date() # For testing
 
     print("Generating date list")
@@ -291,6 +306,9 @@ def gen_curr_csv():
     return 
 
 def load_curr_csv(stocks_df,input_curr):
+    """
+    Loads FX rates data, and converts historical stock prices to EUR using the rate at the time
+    """
     rates_df = pd.read_csv("Price Databases\curr_rates.csv")
     
     rates_df=rates_df.set_index(pd.DatetimeIndex(rates_df['Date'].values))
@@ -299,8 +317,9 @@ def load_curr_csv(stocks_df,input_curr):
     if not input_curr in list(rates_df.columns):
         return 'Currency not supported'
 
+    rates_df = rates_df.merge(stocks_df,left_index=True, right_index=True).drop(columns=stocks_df.columns)
     # Multiply each row of stocks dataframe by its' corresponding exchange rate
-    result = pd.DataFrame(np.array(rates_df) * np.array(stocks_df),columns=stocks_df.columns,index=stocks_df.index)
+    result = pd.DataFrame(np.expand_dims(np.array(rates_df[input_curr]), axis=-1) * np.array(stocks_df),columns=stocks_df.columns,index=stocks_df.index)
 
     return result
 
