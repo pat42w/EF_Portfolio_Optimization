@@ -1,3 +1,5 @@
 Price Databases/database_Nasdaq.csv
 Price Databases/database_NYSE.csv
 Price Databases/curr_rates.csv
+__pycache__
+Portfolio data
