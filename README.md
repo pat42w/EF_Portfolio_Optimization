@@ -11,12 +11,9 @@ Currently we have compiled ticker lists for NASDAQ & NYSE, more can easily added
 We attempt to split out our proccess into 3 clear parts stepped out in 3 distinct workbooks, and make these as self contained and self explandatory as possible.
 
 ## 1. Gathering stock closing price & currency Forex price data
-[Database_maintainance.ipynb](https://github.com/pat42w/EF_Portfolio_Optimization/blob/release_0.1.0/DatabaseMainFnc.py)
+[Database_maintainance.ipynb](https://github.com/pat42w/EF_Portfolio_Optimization/blob/main/1_Database_maintainance.ipynb)
 
 ## 2. Using portfolio generation methods on histoic data to establish historic performance
-[Historic_portfolio_nb.ipynb](https://github.com/pat42w/EF_Portfolio_Optimization/blob/release_0.1.0/Historic_portfolio_nb.ipynb)
+[Historic_portfolio_nb.ipynb](https://github.com/pat42w/EF_Portfolio_Optimization/blob/main/2_EF_Histportfolio_gen.ipynb)
 
 ## 3. Analyse historic performance
-Not yet added
-
-
