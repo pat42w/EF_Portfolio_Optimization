@@ -4,9 +4,9 @@
 
 This project began as an attempt to test portfolio generation methods.
 
-We soon realised that to consolidate stock price data was no small task, so we moved to generalise ways to pull together stockprices using yfinance and some database methods as it was an area we wished to learn more about. 
+We soon realised that to consolidate stock price data was no small task, so our initial focus became building out libraries for data acquisition. 
 
-We found Efficient Frontier methods interesting, and to use these have leveraged a great package called [Py Portfolio Opt](https://github.com/robertmartin8/PyPortfolioOpt). 
+When researching algorithms for portfolio generation, we found Efficient Frontier methods interesting, and to use these have leveraged a great package called [Py Portfolio Opt](https://github.com/robertmartin8/PyPortfolioOpt). 
 
 We step through the theory behind these methods & using them in Python in [EF_method_example.ipynb](https://github.com/pat42w/EF_Portfolio_Optimization/blob/release_0.1.0/EF_method_example.ipynb).
 
