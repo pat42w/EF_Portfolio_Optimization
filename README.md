@@ -33,6 +33,6 @@ Using [Semantic Versioning](https://semver.org/) for version control.
 
 ## Authors
 
-Patrick Walsh
+Patrick Walsh BSc.
 
-Eoghan O'Hara
+Eoghan O'Hara BSc.

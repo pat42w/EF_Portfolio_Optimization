@@ -414,7 +414,7 @@ def portfolio_generate_test(database,startdate,enddate,p_max=400, min_returns=0.
         print ("Number of stocks remaining: "+str(len(df_input.columns)))
 
     # drop any columns with more  Nas for their last 5 rows as these have been delisted
-    l_drop=df_input.columns[df_input.iloc[-5:,:].isna().all()].tolist()
+    l_drop=df_input.columns[df_input.iloc[-3:,:].isna().all()].tolist()
     df_input.drop(columns=l_drop, inplace=True)
     if silent == False:
         print ("-----------------------------------------------------")
@@ -482,9 +482,17 @@ def portfolio_generate_test(database,startdate,enddate,p_max=400, min_returns=0.
     actual_startdate = pd.to_datetime(enddate) + pd.DateOffset(days=2)
     actual_enddate = pd.to_datetime(actual_startdate) + pd.DateOffset(years=1)
 
-    #create df of pice changes in thh folowing year
-    df_actual=database[actual_startdate:actual_enddate].fillna(0)
-    df_actual=df_actual[top_stocks].apply(lambda x: x.div(x.iloc[0]))
+    #create df of price changes in the folowing year
+    df_actual=database[actual_startdate:actual_enddate]
+
+    #some days have nans in them use the next valid value to fill the gap
+    df_actual=df_actual.fillna(method='bfill')
+    #then fill any tail nans with 0 as we assume delisted
+    df_actual=df_actual.fillna(0)
+    #select only the stocks we used for our porfolio generator
+    df_actual=df_actual[top_stocks]
+    #create the percentage daily changes for easch stock
+    df_actual=df_actual.apply(lambda x: x.div(x.iloc[0]))
 
     #refomat the weights so we can apply them to the df_actual
     df_weights=pd.DataFrame(cl_weights.values())
@@ -515,4 +523,3 @@ def portfolio_generate_test(database,startdate,enddate,p_max=400, min_returns=0.
              +"Mean : " + str(f'{mean_returns*100:.{1}f}')+"%")
 
     return [pd.to_datetime(startdate), pd.to_datetime(enddate), expected_portfolio_returns, volatility, r_sharpe, max_returns, min_returns, actual_returns,mean_returns, objective_summary]
-
