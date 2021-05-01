@@ -33,7 +33,7 @@ Using [Semantic Versioning](https://semver.org/) for version control.
 
 ## Authors
 
-Patrick Walsh BSc. 
-Email: patrickwalsh1995@gmail.com
+**Patrick Walsh BSc.**   
+*Email:* patrickwalsh1995@gmail.com
 
-Eoghan O'Hara BSc.
+**Eoghan O'Hara BSc.**
